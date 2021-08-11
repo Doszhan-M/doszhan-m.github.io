@@ -1,0 +1,30 @@
+.content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.fixed {
+  position: fixed;
+  left: 0;
+  top: 0;
+  min-width: 100%;
+  min-height: 47px;
+  background-color: rgb(12, 247, 247);
+
+  .header {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: flex-start;
+  }
+  .header__titles {
+    min-height: 44px;
+    background-color: rgb(37, 51, 63);
+  }
+}
+
+.about {
+  display: flex;
+  width: 100%;
+  background-color: white;
+}
