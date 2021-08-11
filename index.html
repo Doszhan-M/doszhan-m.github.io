@@ -5,33 +5,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel="stylesheet" href="css/index.css">
-    <title>Photo Slider</title>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Doszhan</title>
 </head>
 
 <body>
-    <h1 class="header">Photo Slider</h1>
-<div class="main">
-    <div class="image_container">
-        <div class="slaider">
-            <img src="img/1.jpg" alt="">
-            <img src="img/2.jpg" alt="">
-            <img src="img/3.jpg" alt="">
-            <img src="img/4.jpg" alt="">
-            <img src="img/5.jpg" alt="">
-            <img src="img/6.jpg" alt="">
-            <img src="img/7.jpg" alt="">
-            <img src="img/8.jpg" alt="">
-        </div>
+    <div class="wrapper">
+        <section id="preview" class="preview">
+            <video autoplay muted loop preload="auto" class="preview__video">
+                <source type="video/webm" src="img/black.webm">
+                <source type="video/mp4" src="img/black.mp4">
+            </video>
+            <div class="preview__title">
+                <p>Hello, I'm <span>Doszhan</span> </p>
+                <p>I'm fullstack developer</p>
+            </div>
+        </section>
+        <section id="home" class="home">
+            <nav class="header">
+                <div class="header_wrapper">
+                    home
+                </div>
+            </nav>
+        </section>
     </div>
 
-    <div class="btn_warp">
-        <button class="btn btn_left"><i class="fas fa-angle-double-left"></i></button>
-        <button class="btn btn_right"><i class="fas fa-angle-double-right"></i></button>
-    </div>
-</div>
-    <script src="js/index.js"></script>
+    <script src="js/js.js"></script>
 </body>
 
 </html>
