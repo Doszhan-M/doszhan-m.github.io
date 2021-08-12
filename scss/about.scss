@@ -4,6 +4,22 @@
   src: url("../fonts/ralewaymediumitalic.ttf") format("truetype");
 }
 
+%h3_text {
+  font-size: 20px;
+  color: rgb(109, 105, 105);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+%p_text {
+  width: 95%;
+  font-size: 16px;
+  color: rgb(109, 105, 105);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 500;
+}
+
 .content {
   position: relative;
   display: flex;
@@ -15,13 +31,13 @@
   min-width: 100%;
   min-height: 47px;
   background-color: rgb(12, 247, 247);
+  z-index: 1;
   &.fixed {
     opacity: 1;
     transition: all 0.8s ease 0.1s;
     position: fixed;
     left: 0;
     top: 0;
-
   }
 }
 .header__titles {
@@ -58,7 +74,7 @@ section {
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: all 0.8s ease 0.1s;
-    font-size: 40px;
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;
     text-transform: uppercase;
@@ -74,8 +90,8 @@ section {
     opacity: 0;
     transition: all 0.8s ease 0.1s;
     transform: translate(100%, 0px);
-    width: 80%;
-    margin-top: 3%;
+    width: 50%;
+    margin-top: 4%;
 
     &._animation {
       opacity: 1;
@@ -89,6 +105,8 @@ section {
 }
 
 .section-content {
+  display: flex;
+  flex-direction: column;
   width: 80%;
 }
 
@@ -108,33 +126,62 @@ section {
       opacity: 0;
       font-size: 100px;
       color: rgb(15, 155, 155);
-      transition: all 0.8s ease 0.1s;
     }
 
-    &:nth-child(odd) i {
-      @extend %about_icon;
-      transform: rotate(180deg);
+    &:nth-child(1) i {
+      @extend %li_icon;
+      transform: translateX(-100%);
 
       &._animation {
         opacity: 1;
-        transform: rotate(0deg);
-
-
+        transform: translateX(0%);
+        transition: all 0.8s ease 0.1s;
+        
         &:hover {
-        opacity: 0;
-        transform: rotate(180deg);
+          opacity: 0;
+          transform: rotate(180deg);
         }
       }
     }
-
-    &:nth-child(even) i {
-      @extend %about_icon;
-      transform: translate(-100%, 0px);
+    &:nth-child(2) i {
+      @extend %li_icon;
+      transform: rotate3d(1, 1, 1, 180deg);
 
       &._animation {
         opacity: 1;
-        transform: translate(0px, 0px);
+        transform: rotate3d(1, 1, 1, 0deg);
+        transition: all 0.8s ease 0.3s;
+        
+        &:hover {
+          opacity: 0;
+          transform: rotate(360deg);
+        }
+      }
+    }
+    &:nth-child(3) i {
+      @extend %li_icon;
+      transform: rotate3d(1, 1, 1, 180deg);
 
+      &._animation {
+        opacity: 1;
+        transform: rotate3d(1, 1, 1, 0deg);
+        transition: all 0.8s ease 0.5s;
+        
+        &:hover {
+          opacity: 0;
+          transform: scale(2);
+        }
+      }
+    }
+    &:nth-child(4) i {
+      @extend %li_icon;
+      transform: translateX(100%);
+
+      &._animation {
+        opacity: 1;
+        transform: translateX(0%);
+        transition: all 0.8s ease 0.7s;
+        
         &:hover {
           transform: scale(2);
         }
@@ -142,17 +189,53 @@ section {
     }
 
     & h3 {
-      font-size: 20px;
-      color: rgb(109, 105, 105);
-      font-family: Arial, Helvetica, sans-serif;
-      font-weight: 700;
+      @extend %h3_text;
     }
     & p {
-      width: 95%;
-      font-size: 16px;
-      color: rgb(109, 105, 105);
-      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      font-weight: 500;
+      @extend %p_text;
     }
+  }
+}
+
+.about_myself {
+  width: 80%;
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5%;
+
+  .about_myself__desc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+
+    .about_myself__photo {
+      height: 300px;
+      overflow: hidden;
+    }
+
+    & img {
+      position: relative;
+      bottom: 8%;
+      width: 300px;
+    }
+    & h3 {
+      @extend %h3_text;
+    }
+    & p {
+      @extend %p_text;
+      text-align: justify;
+    }
+    & p a {
+      @extend %p_text;
+      color: aqua;
+    }
+  }
+
+  .about_myself__slills {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
   }
 }
