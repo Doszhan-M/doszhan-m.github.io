@@ -4,7 +4,6 @@ function moveProgress(progress_elem_id, percent_elem_id, progress) {
     var percent_elem = document.getElementById(percent_elem_id);
     var width = 100 - progress;
     var id = setInterval(frame, 10);
-    console.log(1)
     function frame() {
         if (width >= progress) {
             clearInterval(id);

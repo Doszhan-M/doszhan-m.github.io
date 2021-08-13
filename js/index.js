@@ -1,5 +1,5 @@
 // шаг вниз перед загрузкой и показать прелоадер
-$(window).ready(function() {
+$(window).ready(function () {
   $("html, body").animate({ scrollTop: $(document).height() }, 100);
   jQuery('#loading').fadeOut(3000);
 });
@@ -7,8 +7,7 @@ $(window).ready(function() {
 
 // Анимация при достижении блока в зону видимости
 var windowHeight = $(window).height();
-
-$(document).on('scroll', function () {
+function animation() {
   $('.anim_item').each(function () {
     var self = $(this),
       height = self.offset().top + self.height();
@@ -19,6 +18,9 @@ $(document).on('scroll', function () {
       self.removeClass('_animation')
     }
   });
+}
+$(document).on('scroll', function () {
+  animation();
 });
 
 
@@ -43,3 +45,23 @@ $('a[href*="#"]').on('click', function (e) {
   }, 500);
 });
 
+
+$(document.body).on('touchmove', onScroll); // for mobile
+$(window).on('scroll', onScroll);
+
+// callback
+function onScroll() {
+  jQuery(window).scroll(function() {
+    $('.anim_item').each(function () {
+      var self = $(this),
+        height = self.offset().top + self.height();
+      if ($(document).scrollTop() + windowHeight >= height-700) {
+        self.addClass('_animation')
+      }
+      else {
+        self.removeClass('_animation')
+      }
+    });
+
+  });
+}
