@@ -42,6 +42,17 @@ $text_color: rgb(109, 105, 105);
     top: 0;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .header_burger {
+    display: block;
+    position: relative;
+    width: 30px;
+    height: 20px;
+    background-color: aqua;
+  }
+}
+
 .header__titles {
   min-height: 44px;
   background-color: rgb(37, 51, 63);
