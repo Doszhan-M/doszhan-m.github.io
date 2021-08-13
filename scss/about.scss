@@ -34,22 +34,20 @@ $text_color: rgb(109, 105, 105);
   min-height: 47px;
   background-color: rgb(12, 247, 247);
   z-index: 1;
+
+  // @media screen and (max-width: 600px) {
+  //   & {
+  //       opacity: 1;
+  //       position: sticky;
+  //       top: 0;
+  //   }
+  // }
   &.fixed {
     opacity: 1;
     transition: all 0.8s ease 0.1s;
     position: fixed;
     left: 0;
     top: 0;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .header_burger {
-    display: block;
-    position: relative;
-    width: 30px;
-    height: 20px;
-    background-color: aqua;
   }
 }
 
@@ -67,6 +65,12 @@ $text_color: rgb(109, 105, 105);
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 4%;
+
+    @media screen and (max-width: 600px) {
+      & {
+        display: none;
+      }
+    }
   }
 }
 
