@@ -53,28 +53,57 @@ body {
 }
 
 .preview .preview__video {
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
-  -o-object-fit: fill;
-     object-fit: fill;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100vw;
+  height: auto;
+}
+
+@media screen and (max-width: 600px) {
+  .preview .preview__video {
+    display: none;
+  }
+}
+
+.preview .mobile_preview__video {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .preview .mobile_preview__video {
+    display: block;
+    width: auto;
+    height: 100vh;
+  }
 }
 
 .preview .preview__title {
+  position: absolute;
+  font-size: 50px;
+  top: 20%;
+  left: 46%;
   width: 50%;
   -ms-flex-item-align: end;
       align-self: flex-end;
   text-align: center;
-  font-size: 50px;
   font-weight: 500;
   letter-spacing: 3px;
   margin-right: 20px;
   margin-top: 40px;
   color: aliceblue;
   font-family: "Raleway";
-  z-index: 1;
+}
+
+@media screen and (max-width: 600px) {
+  .preview .preview__title {
+    font-size: 25px;
+    top: 20%;
+    left: 5%;
+    width: 80%;
+  }
 }
 
 .preview p {
@@ -120,25 +149,25 @@ body {
 
 @-webkit-keyframes rainbow {
   0% {
-    background: aliceblue;
+    background: #7e8073;
   }
   50% {
     background: transparent;
   }
   100% {
-    background: aliceblue;
+    background: #7e8073;
   }
 }
 
 @keyframes rainbow {
   0% {
-    background: aliceblue;
+    background: #7e8073;
   }
   50% {
     background: transparent;
   }
   100% {
-    background: aliceblue;
+    background: #7e8073;
   }
 }
 /*# sourceMappingURL=preview.css.map */
