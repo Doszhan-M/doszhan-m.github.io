@@ -53,7 +53,7 @@ body {
         top: 0;
         left: 0;
         object-fit: cover;
-        background: url("https://spacegid.com/wp-content/uploads/2013/10/Zvezda-Barnarda-v-IK.jpg") no-repeat center center;
+        // background: url("https://spacegid.com/wp-content/uploads/2013/10/Zvezda-Barnarda-v-IK.jpg") no-repeat center center;
         width: auto;
         height: 100vh;
         }
@@ -112,8 +112,6 @@ body {
         margin: auto;
         font-size: 25px;
         width: 80%;
-    background-color: #2c343f;
-
       }
     }
   }
@@ -122,18 +120,10 @@ body {
   }
   & span {
     letter-spacing: 10px;
-    animation: glow 1s ease-in-out infinite alternate;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073,
+    0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
   }
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073,
-        0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
-    }
-    to {
-      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6,
-        0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
-    }
-  }
+
   & button {
     font-size: 20px;
     color: aliceblue;
