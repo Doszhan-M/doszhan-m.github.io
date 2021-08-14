@@ -76,6 +76,30 @@ body {
   }
 }
 
+.preview .canvas {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100vw;
+  height: auto;
+}
+
+@media screen and (max-width: 600px) {
+  .preview .canvas {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    -o-object-fit: cover;
+       object-fit: cover;
+    width: auto;
+    height: 100vh;
+  }
+}
+
 .preview .preview__title {
   position: absolute;
   font-size: 50px;

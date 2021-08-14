@@ -153,8 +153,8 @@ section {
 .assurances {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (minmax(100px, 1fr))[auto-fit];
-      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  -ms-grid-columns: (minmax(200px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   -ms-grid-rows: auto;
       grid-template-rows: auto;
   margin: 5%;
@@ -265,6 +265,10 @@ section {
   transition: all 0.5s ease;
 }
 
+.assurances .assurances__item p {
+  text-align: center;
+}
+
 .about_myself {
   width: 80%;
   -ms-flex-item-align: center;
@@ -290,6 +294,7 @@ section {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+    width: 100%;
   }
 }
 
@@ -309,6 +314,12 @@ section {
           justify-content: center;
   margin-left: -5%;
   width: 45%;
+}
+
+@media screen and (max-width: 600px) {
+  .about_myself .about_myself__desc {
+    width: 95%;
+  }
 }
 
 .about_myself .about_myself__desc .about_myself__photo {
@@ -336,6 +347,12 @@ section {
   color: aqua;
 }
 
+@media screen and (max-width: 600px) {
+  .about_myself .about_myself__desc a {
+    margin-bottom: 15%;
+  }
+}
+
 .about_myself .about_myself__slills {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -345,6 +362,12 @@ section {
       -ms-flex-direction: column;
           flex-direction: column;
   width: 50%;
+}
+
+@media screen and (max-width: 600px) {
+  .about_myself .about_myself__slills {
+    width: 100%;
+  }
 }
 
 .about_myself .about_myself__slills .progress_bar {

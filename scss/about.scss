@@ -129,12 +129,12 @@ section {
 
 .assurances {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-template-rows: auto;
   margin: 5%;
 
   .assurances__item {
-    display: flex;
+    display: flex;  
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -213,6 +213,7 @@ section {
       @extend %h3_text;
     }
     & p {
+      text-align: center;
       @extend %p_text;
     }
   }
@@ -230,7 +231,7 @@ section {
       flex-direction: column;
       justify-content: center;
       align-items: center;
-
+      width: 100%;
     }
   }
 
@@ -241,6 +242,12 @@ section {
     justify-content: center;
     margin-left: -5%;
     width: 45%;
+
+    @media screen and (max-width: 600px) {
+      & {
+        width: 95%
+      }
+    }
 
     .about_myself__photo {
       height: 300px;
@@ -265,6 +272,12 @@ section {
       @extend %p_text;
       text-align: center;
       color: aqua;
+
+      @media screen and (max-width: 600px) {
+        & {
+          margin-bottom: 15%;
+        }
+      }
     }
   }
 
@@ -273,6 +286,11 @@ section {
     flex-direction: column;
     width: 50%;
 
+    @media screen and (max-width: 600px) {
+      & {
+        width: 100%
+      }
+    }
     .progress_bar {
       display: flex;
       justify-content: space-between;
