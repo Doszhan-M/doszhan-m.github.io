@@ -34,11 +34,7 @@ function unMoveProgress(progress_elem_id, percent_elem_id, progress) {
 
 // Заполнить или опустошить прогресс при достижении скрола 
 $(document).on('scroll', function () {
-
-    var windowHeight = $(window).height();
-
     $('.progress_bar').each(function () {
-
         var self = $(this);
         const progress_elem_id = self.children().first().attr('id');
         const percent_elem_id = self.children().filter(":nth-child(2)").attr('id');
@@ -48,7 +44,7 @@ $(document).on('scroll', function () {
         var windowHeight = $(window).height();
 
         if (!$(this).hasClass('not_progress')) {
-            if ($(document).scrollTop() + windowHeight >= height) {
+            if ($(document).scrollTop() + windowHeight >= height + 50) {
                 moveProgress(progress_elem_id, percent_elem_id, progress)
                 self.addClass('not_progress')
             }

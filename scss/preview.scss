@@ -70,7 +70,7 @@ body {
     letter-spacing: 3px;
     margin-right: 20px;
     margin-top: 40px;
-    color: white;
+    color: yellow;
     font-family: "Raleway";
 
     @media screen and (max-width: 600px) {
@@ -97,13 +97,13 @@ body {
 
   & button {
     font-size: 20px;
-    color: aliceblue;
+    color: yellow;
     background: transparent;
     border: 3px solid white;
     padding: 2%;
     margin-top: 10%;
     z-index: 1;
-    animation: rainbow 0.07s ease-in-out infinite alternate;
+    animation: rainbow 1s ease-in-out infinite alternate;
   }
 
   @keyframes rainbow {
