@@ -5,23 +5,23 @@ $(window).ready(function () {
 });
 
 
-// // Анимация при достижении блока в зону видимости
-// var windowHeight = $(window).height();
-// function animation() {
-//   $('.anim_item').each(function () {
-//     var self = $(this),
-//       height = self.offset().top + self.height();
-//     if ($(document).scrollTop() + windowHeight >= height) {
-//       self.addClass('_animation')
-//     }
-//     else {
-//       self.removeClass('_animation')
-//     }
-//   });
-// }
-// $(document).on('scroll', function () {
-//   animation();
-// });
+// Анимация при достижении блока в зону видимости
+var windowHeight = $(window).height();
+function animation() {
+  $('.anim_item').each(function () {
+    var self = $(this),
+      height = self.offset().top + self.height();
+    if ($(document).scrollTop() + windowHeight >= height) {
+      self.addClass('_animation')
+    }
+    else {
+      self.removeClass('_animation')
+    }
+  });
+}
+$(document).on('scroll', function () {
+  animation();
+});
 
 
 // Фиксация navbar после скрола
