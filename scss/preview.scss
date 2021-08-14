@@ -92,7 +92,7 @@ body {
   & span {
     letter-spacing: 10px;
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #11d9e0,
-    0 0 40px #11d9e0, 0 0 50px #11d9e0, 0 0 60px #11d9e0, 0 0 70px #11d9e0;
+    0 0 40px #11d9e0, 0 0 50px;
   }
 
   & button {
@@ -103,18 +103,15 @@ body {
     padding: 2%;
     margin-top: 10%;
     z-index: 1;
-    animation: rainbow 3s ease-in-out infinite alternate;
+    animation: rainbow 0.07s ease-in-out infinite alternate;
   }
 
   @keyframes rainbow {
     0% {
-      background: rgb(249, 250, 245);
+      background: rgb(209, 212, 192);
     }
     50% {
       background: transparent;
-    }
-    100% {
-      background: rgb(126, 128, 115);
     }
   }
 }
