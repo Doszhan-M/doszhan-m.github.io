@@ -45,17 +45,20 @@ $(document).on('scroll', function () {
         const progress = self.children().last().text();
         height = self.offset().top + self.height();
         var the_top = jQuery(document).scrollTop();
+        var windowHeight = $(window).height();
 
-        if (!$(this).hasClass('not_progress') && the_top >= 800) {
-            // if ($(document).scrollTop() + windowHeight >= height) {
+        if (!$(this).hasClass('not_progress')) {
+            if ($(document).scrollTop() + windowHeight >= height) {
                 moveProgress(progress_elem_id, percent_elem_id, progress)
                 self.addClass('not_progress')
-            // }
+            }
         }
         else {
-            if ($(this).hasClass('not_progress') && the_top < 300) {
-                unMoveProgress(progress_elem_id, percent_elem_id, progress)
-                self.removeClass('not_progress')
+            if ($(this).hasClass('not_progress')) {
+                if ($(document).scrollTop() + windowHeight <= height - 300) {
+                    unMoveProgress(progress_elem_id, percent_elem_id, progress)
+                    self.removeClass('not_progress')
+                }
             }
         }
     });
