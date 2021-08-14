@@ -99,6 +99,12 @@ section {
   text-align: center;
 }
 
+@media screen and (max-width: 600px) {
+  .section-title {
+    margin-top: 30%;
+  }
+}
+
 .section-title .section-title__title {
   opacity: 0;
   -webkit-transform: translate(-100%, 0px);

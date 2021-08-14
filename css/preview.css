@@ -129,7 +129,7 @@ body {
 
 @-webkit-keyframes rainbow {
   0% {
-    background: #7e8073;
+    background: #f9faf5;
   }
   50% {
     background: transparent;
@@ -141,7 +141,7 @@ body {
 
 @keyframes rainbow {
   0% {
-    background: #7e8073;
+    background: #f9faf5;
   }
   50% {
     background: transparent;

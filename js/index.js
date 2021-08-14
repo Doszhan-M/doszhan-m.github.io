@@ -44,24 +44,3 @@ $('a[href*="#"]').on('click', function (e) {
     scrollTop: $($(this).attr('href')).offset().top
   }, 500);
 });
-
-
-// $(document.body).on('touchmove', onScroll); // for mobile
-// $(window).on('scroll', onScroll);
-
-// // callback
-// function onScroll() {
-//   jQuery(window).scroll(function() {
-//     $('.anim_item').each(function () {
-//       var self = $(this),
-//         height = self.offset().top + self.height();
-//       if ($(document).scrollTop() + windowHeight >= height-700) {
-//         self.addClass('_animation')
-//       }
-//       else {
-//         self.removeClass('_animation')
-//       }
-//     });
-
-//   });
-// }
