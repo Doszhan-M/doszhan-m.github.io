@@ -44,7 +44,7 @@ $(document).on('scroll', function () {
         var windowHeight = $(window).height();
 
         if (!$(this).hasClass('not_progress')) {
-            if ($(document).scrollTop() + windowHeight >= height + 50) {
+            if ($(document).scrollTop() + windowHeight >= height + 20) {
                 moveProgress(progress_elem_id, percent_elem_id, progress)
                 self.addClass('not_progress')
             }

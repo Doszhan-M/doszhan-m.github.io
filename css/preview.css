@@ -4,6 +4,12 @@
   src: url("../fonts/ralewaymediumitalic.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "OxinWar";
+  font-weight: 400;
+  src: url("../fonts/OxinWar-oEJA.ttf") format("truetype");
+}
+
 html {
   height: 100%;
 }
@@ -76,20 +82,19 @@ body {
 }
 
 .preview .preview__title {
+  width: 100%;
+  display: block;
   position: absolute;
-  font-size: 50px;
-  top: 20%;
-  left: 46%;
-  width: 50%;
-  -ms-flex-item-align: end;
-      align-self: flex-end;
+  top: 40%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  font-size: 40px;
   text-align: center;
-  font-weight: 800;
+  font-weight: 500;
   letter-spacing: 3px;
-  margin-right: 20px;
-  margin-top: 40px;
-  color: yellow;
-  font-family: "Raleway";
+  color: white;
+  font-family: 'OxinWar', Arial, sans-serif;
 }
 
 @media screen and (max-width: 600px) {
@@ -101,8 +106,8 @@ body {
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
     margin: auto;
-    font-size: 35px;
-    width: 80%;
+    font-size: 30px;
+    width: 95%;
   }
 }
 
@@ -116,15 +121,19 @@ body {
 }
 
 .preview button {
-  font-size: 20px;
-  color: yellow;
+  cursor: pointer;
+  font-size: 30px;
+  color: white;
   background: transparent;
+  font-family: 'OxinWar', Arial, sans-serif;
   border: 3px solid white;
-  padding: 2%;
-  margin-top: 10%;
+  border-radius: 10%;
+  padding: 1%;
+  margin-top: 4%;
   z-index: 1;
-  -webkit-animation: rainbow 1s ease-in-out infinite alternate;
-          animation: rainbow 1s ease-in-out infinite alternate;
+  -webkit-animation: rainbow .4s ease-in-out infinite alternate;
+          animation: rainbow .4s ease-in-out infinite alternate;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #2b2a29, 0 0 40px #2b2a29, 0 0 50px #2b2a29;
 }
 
 @-webkit-keyframes rainbow {
