@@ -111,12 +111,13 @@ body {
     margin-top: 4%;
     z-index: 1;
     animation: rainbow .4s ease-in-out infinite alternate;
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #2b2a29,
-    0 0 40px #2b2a29, 0 0 50px #2b2a29;
+    // text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #2b2a29,
+    // 0 0 40px #2b2a29, 0 0 50px #2b2a29;
 
     @media screen and (max-width: 600px) {
       & {
-        // margin-top: 80%;
+        font-size: 25px;
+        padding: 2%;
       }
     }
   }
