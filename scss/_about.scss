@@ -41,7 +41,7 @@ section {
   margin-top: 10%;
   text-align: center;
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 812px) {
     & {
       margin-top: 30%;
     }
@@ -185,7 +185,7 @@ section {
   justify-content: space-between;
   margin-bottom: 5%;
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 812px) {
     & {
       flex-direction: column;
       justify-content: center;
@@ -202,7 +202,7 @@ section {
     margin-left: -5%;
     width: 45%;
 
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 812px) {
       & {
         width: 95%;
       }
@@ -232,7 +232,7 @@ section {
       text-align: center;
       color: aqua;
 
-      @media screen and (max-width: 600px) {
+      @media screen and (max-width: 812px) {
         & {
           margin-bottom: 15%;
         }
@@ -245,7 +245,7 @@ section {
     flex-direction: column;
     width: 50%;
 
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 812px) {
       & {
         width: 100%;
       }

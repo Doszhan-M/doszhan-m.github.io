@@ -1,3 +1,15 @@
+@font-face {
+  font-family: "Raleway";
+  font-weight: 400;
+  src: url("../fonts/ralewaymediumitalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OxinWar";
+  font-weight: 400;
+  src: url("../fonts/OxinWar-oEJA.ttf") format("truetype");
+}
+
 html {
   height: 100%;
 }
@@ -26,6 +38,11 @@ body {
   height: 47px;
   background-color: #0cf7f7;
   z-index: 1;
+  overflow: auto;
+}
+
+.header.fixed.active {
+  height: 100vh;
 }
 
 .header .header__body {
@@ -39,16 +56,16 @@ body {
   width: 100%;
   height: 44px;
   background-color: #25333f;
+  z-index: 20;
 }
 
 .header .header__body .header__burger {
   display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .header .header__body .header__burger {
     margin-left: 85%;
-    justify-self: flex-end;
     display: block;
     position: relative;
     width: 30px;
@@ -56,46 +73,42 @@ body {
   }
   .header .header__body .header__burger::before, .header .header__body .header__burger::after {
     content: "";
-    background-color: wheat;
+    background-color: white;
     position: absolute;
     width: 100%;
     height: 2px;
     left: 0;
-  }
-  .header .header__body .header__burger::before {
-    top: 0;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
   }
   .header .header__body .header__burger span {
     position: absolute;
-    background-color: wheat;
+    background-color: white;
     position: absolute;
     width: 100%;
     height: 2px;
     left: 0;
     top: 9px;
   }
+  .header .header__body .header__burger::before {
+    top: 0;
+  }
   .header .header__body .header__burger::after {
     bottom: 0;
   }
-}
-
-@media screen and (max-width: 600px) {
-  .header .header__body .header__nav.active {
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100vh;
-    background-color: #0cf7f7;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+  .header .header__body .header__burger.active::before {
+    -webkit-transform: rotate(45deg);
+            transform: rotate(45deg);
+    top: 9px;
+  }
+  .header .header__body .header__burger.active::after {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+    bottom: 9px;
+  }
+  .header .header__body .header__burger.active span {
+    -webkit-transform: scale(0);
+            transform: scale(0);
   }
 }
 
@@ -108,24 +121,50 @@ body {
           justify-content: baseline;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .header .header__body .header__nav .header__titles {
-    display: none;
+    opacity: 0;
+    position: absolute;
+    z-index: -50;
+    top: -150px;
+    -webkit-transition: opacity 0.8s ease 1s;
+    transition: opacity 0.8s ease 1s;
   }
-}
-
-@media screen and (max-width: 600px) {
   .header .header__body .header__nav .header__titles.active {
+    opacity: 1;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    margin-top: 10%;
+    -webkit-transform: translate(-50%, -45%);
+            transform: translate(-50%, -45%);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-transition: opacity 0.8s ease 0.5s;
+    transition: opacity 0.8s ease 0.5s;
   }
 }
 
 .header .header__body .header__nav .header__titles li {
   list-style: none;
   margin-left: 30px;
+}
+
+@media screen and (max-width: 812px) {
+  .header .header__body .header__nav .header__titles li {
+    margin: 0 0 10% 0;
+  }
 }
 
 .header .header__body .header__nav .header__titles a {
@@ -137,16 +176,13 @@ body {
   margin-left: 4%;
 }
 
-@font-face {
-  font-family: "Raleway";
-  font-weight: 400;
-  src: url("../fonts/ralewaymediumitalic.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: "OxinWar";
-  font-weight: 400;
-  src: url("../fonts/OxinWar-oEJA.ttf") format("truetype");
+@media screen and (max-width: 812px) {
+  .header .header__body .header__nav .header__titles a {
+    font-family: "OxinWar", Arial, sans-serif;
+    text-transform: none;
+    font-size: 40px;
+    margin: 0;
+  }
 }
 
 #loading {
@@ -197,7 +233,7 @@ body {
   height: 100vh;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .preview .preview__video {
     display: block;
     position: relative;
@@ -226,7 +262,7 @@ body {
   font-family: "OxinWar", Arial, sans-serif;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .preview .preview__title {
     font-size: 30px;
   }
@@ -256,7 +292,7 @@ body {
           animation: rainbow 0.5s ease-in-out infinite alternate;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .preview button {
     font-size: 25px;
     padding: 2%;
@@ -336,7 +372,7 @@ section {
   text-align: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .section-title {
     margin-top: 30%;
   }
@@ -525,7 +561,7 @@ section {
   margin-bottom: 5%;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .about_myself {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -559,7 +595,7 @@ section {
   width: 45%;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .about_myself .about_myself__desc {
     width: 95%;
   }
@@ -590,7 +626,7 @@ section {
   color: aqua;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .about_myself .about_myself__desc a {
     margin-bottom: 15%;
   }
@@ -607,7 +643,7 @@ section {
   width: 50%;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 812px) {
   .about_myself .about_myself__slills {
     width: 100%;
   }

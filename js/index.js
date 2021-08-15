@@ -4,6 +4,9 @@ $(window).ready(function () {
   jQuery('#loading').fadeOut(3000);
 });
 
+$('.header__burger').click(function(event) {
+  $('header, .header__burger, .header__titles').toggleClass('active');
+})
 
 // Анимация при достижении блока в зону видимости
 var windowHeight = $(window).height();
