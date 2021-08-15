@@ -1,40 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Doszhan Developer">
+    <meta property="og:title" content="Doszhan Developer">
+    <meta property="og:description" content="Fullstack Developer">
+    <meta property="og:locale" content="en">
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:url" content="https://doszhan-m.github.io/">
+    <meta property="og:image" content="https://palpalych.ru/storage/app/media/2019/sajt-hudozhnika_soc.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!-- HOSTED -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <!-- LOCAL -->
-    <!-- <link rel="stylesheet" href="css/preview.min.css">
-    <link rel="stylesheet" href="css/about.min.css">
-    <link rel="stylesheet" href="css/projects.min.css"> -->
     <link rel="stylesheet" href="css/main.min.css">
     <title>Doszhan</title>
 </head>
-
 <body>
     <!-- <div id="loading"></div> -->
-    <div class="wrapper">
+    <header class="header">
+        <div class="header__body">
+            <nav class="header__nav">
+                <ul class="header__titles">
+                    <li><a href="#preview">home</a></li>
+                    <li><a href="#about">about</a></li>
+                    <li><a href="#preview">portfolio</a></li>
+                    <li><a href="#preview">blog</a></li>
+                    <li><a href="#preview">contact</a></li>
+                </ul>
+            </nav>
+            <div class="header__burger"><span></span></div>
+        </div>
+    </header>
 
-        <header class="header">
-            <div class="header__body">
-                <nav class="header__nav">
-                    <ul class="header__titles">
-                        <li><a href="#preview">home</a></li>
-                        <li><a href="#about">about</a></li>
-                        <li><a href="#preview">portfolio</a></li>
-                        <li><a href="#preview">blog</a></li>
-                        <li><a href="#preview">contact</a></li>               
-                    </ul>
-                </nav>
-                <div class="header__burger"><span></span></div>
-            </div>
-        </header>
-
+    <main>
         <section id="preview" class="preview">
             <video autoplay muted loop preload="auto" poster="img/comet.png" class="preview__video">
                 <source type="video/mp4" src="img/comet.mp4">
@@ -52,114 +59,113 @@
                 </a>
             </div>
         </section>
-        <div class="content">
-            <section id="about" class="about">
-                <div class="section-title">
-                    <div class="section-title__title anim_item _animation">About myself</div>
-                    <svg class="anim_item _animation" viewBox="0 0 100 5">
-                        <line x1="0" y1="0" x2="100" y2="0" stroke="black" stroke-width="2" />
-                    </svg>
-                </div>
-                <div class="section-content">
-                    <div class="assurances">
-                        <div class="assurances__item">
-                            <i class="fas fa-fighter-jet anim_item "></i>
-                            <h3>Fast</h3>
-                            <p>Fast load times and lag free interaction, my highest priority</p>
-                        </div>
-                        <div class="assurances__item">
-                            <i class="fas fa-dice-d20 anim_item "></i>
-                            <h3>Reliability</h3>
-                            <p>I pay special attention to the stability of the server side</p>
-                        </div>
-                        <div class="assurances__item">
-                            <i class="fas fa-cogs anim_item "></i>
-                            <h3>Dynamic</h3>
-                            <p>Websites don't have to be static, I love making pages come to life.</p>
-                        </div>
-                        <div class="assurances__item">
-                            <i class="far fa-handshake anim_item "></i>
-                            <h3>Support</h3>
-                            <p>I always try to build long-term relationships with clients</p>
-                        </div>
+
+        <section id="about" class="about">
+            <div class="section-title">
+                <div class="section-title__title anim_item _animation">About myself</div>
+                <svg class="anim_item _animation" viewBox="0 0 100 5">
+                    <line x1="0" y1="0" x2="100" y2="0" stroke="black" stroke-width="2" />
+                </svg>
+            </div>
+            <div class="section-content">
+                <div class="assurances">
+                    <div class="assurances__item">
+                        <i class="fas fa-fighter-jet anim_item "></i>
+                        <h3>Fast</h3>
+                        <p>Fast load times and lag free interaction, my highest priority</p>
                     </div>
-                    <div class="about_myself">
-                        <div class="about_myself__desc">
-                            <div class="about_myself__photo">
-                                <img src="img/my_photo.jpg" alt="my photo">
-                            </div>
-                            <h3>Who's this guy?</h3>
-                            <p>
-                                I am a web developer from Almaty. I use the Django and React frameworks in my
-                                projects mainly. Also I write bots for social networks such as
-                                telegram and slack.
-                            </p>
-                            <a href="#contact">Let's make something special!</a>
-                        </div>
-                        <div class="about_myself__slills">
-                            <div class="progress_bar">
-                                <div id="PYTHON" class="w3-container w3-teal" style="width:20%"><span>PYTHON</span>
-                                </div>
-                                <div id="PYTHON_percent" class="w3-container" style="width:17%">20%</div>
-                                <p style="display: none;">70</p>
-                            </div>
-
-                            <div class="progress_bar">
-                                <div id="DJANGO" class="w3-container w3-teal" style="width:20%"><span>DJANGO</span>
-                                </div>
-                                <div id="DJANGO_percent" class="w3-container" style="width:17%">20%</div>
-                                <p style="display: none;">80</p>
-                            </div>
-
-                            <div class="progress_bar">
-                                <div id="DRF" class="w3-container w3-teal" style="width:20%"><span>DRF</span></div>
-                                <div id="DRF_percent" class="w3-container" style="width:17%">20%</div>
-                                <p style="display: none;">55</p>
-                            </div>
-
-                            <div class="progress_bar">
-                                <div id="JavaScript" class="w3-container w3-teal" style="width:20%">
-                                    <span>JAVASCRIPT</span>
-                                </div>
-                                <div id="JavaScript_percent" class="w3-container" style="width:17%">20%</div>
-                                <p style="display: none;">60</p>
-                            </div>
-
-                            <div class="progress_bar">
-                                <div id="REACT" class="w3-container w3-teal" style="width:20%"><span>REACT</span></div>
-                                <div id="REACT_percent" class="w3-container" style="width:17%">20%</div>
-                                <p style="display: none;">55</p>
-                            </div>
-
-                            <div class="progress_bar">
-                                <div id="HTML" class="w3-container w3-teal" style="width:20%"><span>HTML</span></div>
-                                <div id="HTML_percent" class="w3-container" style="width:17%">20%</div>
-                                <p style="display: none;">90</p>
-                            </div>
-
-                            <div class="progress_bar">
-                                <div id="CSS" class="w3-container w3-teal style=" width:20%"><span>CSS</span></div>
-                                <div id="CSS_percent" class="w3-container" style="width:17%">20%</div>
-                                <p style="display: none;">90</p>
-                            </div>
-
-                            <div class="progress_bar">
-                                <div id="SaaS" class="w3-container w3-teal" style="width:20%"><span>SaaS</span></div>
-                                <div id="SaaS_percent" class="w3-container" style="width:17%">20%</div>
-                                <p style="display: none;">65</p>
-                            </div>
-                        </div>
+                    <div class="assurances__item">
+                        <i class="fas fa-dice-d20 anim_item "></i>
+                        <h3>Reliability</h3>
+                        <p>I pay special attention to the stability of the server side</p>
+                    </div>
+                    <div class="assurances__item">
+                        <i class="fas fa-cogs anim_item "></i>
+                        <h3>Dynamic</h3>
+                        <p>Websites don't have to be static, I love making pages come to life.</p>
+                    </div>
+                    <div class="assurances__item">
+                        <i class="far fa-handshake anim_item "></i>
+                        <h3>Support</h3>
+                        <p>I always try to build long-term relationships with clients</p>
                     </div>
                 </div>
-            </section>
+                <div class="about_myself">
+                    <div class="about_myself__desc">
+                        <div class="about_myself__photo">
+                            <img src="img/my_photo.jpg" alt="my photo">
+                        </div>
+                        <h3>Who's this guy?</h3>
+                        <p>
+                            I am a web developer from Almaty. I use the Django and React frameworks in my
+                            projects mainly. Also I write bots for social networks such as
+                            telegram and slack.
+                        </p>
+                        <a href="#contact">Let's make something special!</a>
+                    </div>
+                    <div class="about_myself__slills">
+                        <div class="progress_bar">
+                            <div id="PYTHON" class="w3-container w3-teal" style="width:20%"><span>PYTHON</span>
+                            </div>
+                            <div id="PYTHON_percent" class="w3-container" style="width:17%">20%</div>
+                            <p style="display: none;">70</p>
+                        </div>
 
-            <section id="projects" class="projects">
-            </section>
-        </div>
-    </div>
+                        <div class="progress_bar">
+                            <div id="DJANGO" class="w3-container w3-teal" style="width:20%"><span>DJANGO</span>
+                            </div>
+                            <div id="DJANGO_percent" class="w3-container" style="width:17%">20%</div>
+                            <p style="display: none;">80</p>
+                        </div>
+
+                        <div class="progress_bar">
+                            <div id="DRF" class="w3-container w3-teal" style="width:20%"><span>DRF</span></div>
+                            <div id="DRF_percent" class="w3-container" style="width:17%">20%</div>
+                            <p style="display: none;">55</p>
+                        </div>
+
+                        <div class="progress_bar">
+                            <div id="JavaScript" class="w3-container w3-teal" style="width:20%">
+                                <span>JAVASCRIPT</span>
+                            </div>
+                            <div id="JavaScript_percent" class="w3-container" style="width:17%">20%</div>
+                            <p style="display: none;">60</p>
+                        </div>
+
+                        <div class="progress_bar">
+                            <div id="REACT" class="w3-container w3-teal" style="width:20%"><span>REACT</span></div>
+                            <div id="REACT_percent" class="w3-container" style="width:17%">20%</div>
+                            <p style="display: none;">55</p>
+                        </div>
+
+                        <div class="progress_bar">
+                            <div id="HTML" class="w3-container w3-teal" style="width:20%"><span>HTML</span></div>
+                            <div id="HTML_percent" class="w3-container" style="width:17%">20%</div>
+                            <p style="display: none;">90</p>
+                        </div>
+
+                        <div class="progress_bar">
+                            <div id="CSS" class="w3-container w3-teal style=" width:20%"><span>CSS</span></div>
+                            <div id="CSS_percent" class="w3-container" style="width:17%">20%</div>
+                            <p style="display: none;">90</p>
+                        </div>
+
+                        <div class="progress_bar">
+                            <div id="SaaS" class="w3-container w3-teal" style="width:20%"><span>SaaS</span></div>
+                            <div id="SaaS_percent" class="w3-container" style="width:17%">20%</div>
+                            <p style="display: none;">65</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="projects">
+        </section>
+    </main>
+
     <!-- HOSTED -->
     <script src="https://kit.fontawesome.com/b33bf1e810.js" crossorigin="anonymous"></script>
-
     <!-- LOCAL -->
     <script src="js/index.js"></script>
     <script src="js/progress_bar.js"></script>
@@ -167,5 +173,4 @@
 
     </script>
 </body>
-
 </html>

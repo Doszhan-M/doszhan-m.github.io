@@ -4,6 +4,8 @@ $(window).ready(function () {
   jQuery('#loading').fadeOut(3000);
 });
 
+
+// нажатие на бургер открывает меню
 $('.header__burger').click(function(event) {
   $('header, .header__burger, .header__titles').toggleClass('active');
 })

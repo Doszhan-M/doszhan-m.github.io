@@ -18,6 +18,16 @@ body {
   font-size: 14px;
   padding: 0;
   margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+#loading {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  background: #fff url("img/loader.gif") no-repeat center center;
+  z-index: 9999;
 }
 
 .header {
@@ -70,7 +80,7 @@ body {
             width: 100%;
             height: 2px;
             left: 0;
-            transition: all .3s ease;
+            transition: all 0.3s ease;
           }
 
           & span {
@@ -86,7 +96,7 @@ body {
           &::before {
             top: 0;
           }
-          
+
           &::after {
             bottom: 0;
           }
@@ -138,8 +148,8 @@ body {
 
         & li {
           list-style: none;
-          margin-left: 30px;   
-          
+          margin-left: 30px;
+
           @media screen and (max-width: 812px) {
             & {
               margin: 0 0 10% 0;
