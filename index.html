@@ -9,15 +9,32 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <!-- LOCAL -->
-    <link rel="stylesheet" href="css/preview.min.css">
+    <!-- <link rel="stylesheet" href="css/preview.min.css">
     <link rel="stylesheet" href="css/about.min.css">
-    <link rel="stylesheet" href="css/projects.min.css">
+    <link rel="stylesheet" href="css/projects.min.css"> -->
+    <link rel="stylesheet" href="css/main.min.css">
     <title>Doszhan</title>
 </head>
 
 <body>
     <!-- <div id="loading"></div> -->
     <div class="wrapper">
+
+        <header class="header">
+            <div class="header__body">
+                <div class="header__burger"><span></span></div>
+                <nav class="header__nav">
+                    <ul class="header__titles">
+                        <li><a href="#preview">Home</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#preview">Portfolio</a></li>
+                        <li><a href="#preview">Blog</a></li>
+                        <li><a href="#preview">Contact</a></li>               
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
         <section id="preview" class="preview">
             <video autoplay muted loop preload="auto" poster="img/comet.png" class="preview__video">
                 <source type="video/mp4" src="img/comet.mp4">
@@ -36,18 +53,6 @@
             </div>
         </section>
         <div class="content">
-
-            <nav class="header">
-                <div class="header_burger"></div>
-                <div class="header__titles">
-                    <a href="#preview">Home</a>
-                    <a href="#about">About</a>
-                    <a href="#preview">Portfolio</a>
-                    <a href="#preview">Blog</a>
-                    <a href="#preview">Contact</a>
-                </div>
-            </nav>
-
             <section id="about" class="about">
                 <div class="section-title">
                     <div class="section-title__title anim_item _animation">About myself</div>
@@ -85,8 +90,8 @@
                             </div>
                             <h3>Who's this guy?</h3>
                             <p>
-                                I am a web developer from Almaty. I basically use the Django and React frameworks
-                                for the application in my projects. I also write bots for social networks such as
+                                I am a web developer from Almaty. I use the Django and React frameworks in my
+                                projects mainly. Also I write bots for social networks such as
                                 telegram and slack.
                             </p>
                             <a href="#contact">Let's make something special!</a>
