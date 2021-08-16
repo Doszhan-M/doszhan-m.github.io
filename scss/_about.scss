@@ -196,6 +196,11 @@ section {
     margin-left: -5%;
     width: 45%;
 
+    &._animation {
+      opacity: 1;
+      transform: translate(0px, 0px);
+    }
+    
     @media screen and (max-width: 812px) {
       & {
         width: 95%;
@@ -238,6 +243,11 @@ section {
     display: flex;
     flex-direction: column;
     width: 50%;
+
+    &._animation {
+      opacity: 1;
+      transform: translate(0px, 0px);
+    }
 
     @media screen and (max-width: 812px) {
       & {

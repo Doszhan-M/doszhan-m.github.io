@@ -16,7 +16,7 @@ function animation() {
   $('.anim_item').each(function () {
     var self = $(this),
       height = self.offset().top + self.height();
-    if ($(document).scrollTop() + windowHeight >= height) {
+    if ($(document).scrollTop() + windowHeight>= height) {
       self.addClass('_animation')
     }
     else {

@@ -45,15 +45,17 @@ $(document).on('scroll', function () {
 
         if (!$(this).hasClass('not_progress')) {
             if ($(document).scrollTop() + windowHeight >= height + 20) {
-                moveProgress(progress_elem_id, percent_elem_id, progress)
                 self.addClass('not_progress')
+                setTimeout(function() {
+                    moveProgress(progress_elem_id, percent_elem_id, progress)
+                }, 10);
             }
         }
         else {
             if ($(this).hasClass('not_progress')) {
                 if ($(document).scrollTop() + windowHeight <= height - 300) {
-                    unMoveProgress(progress_elem_id, percent_elem_id, progress)
                     self.removeClass('not_progress')
+                    unMoveProgress(progress_elem_id, percent_elem_id, progress)
                 }
             }
         }
