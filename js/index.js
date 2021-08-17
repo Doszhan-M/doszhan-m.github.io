@@ -1,14 +1,22 @@
-// шаг вниз перед загрузкой и показать прелоадер
 $(window).ready(function () {
+  // шаг вниз перед загрузкой и показать прелоадер
+  $('html, body').animate({ scrollTop: $("#projects").offset().top }, 1);
+  $('html, body').animate({ scrollTop: $("#preview").offset().top }, 1);
+  jQuery('#loading').fadeOut(1000);
+
   // $("html, body").animate({ scrollTop: $(document).height() }, 100);
-  // jQuery('#loading').fadeOut(3000);
 });
 
 
 // нажатие на бургер открывает меню
-$('.header__burger').click(function(event) {
+$('.header__burger').click(function (event) {
   $('header, .header__burger, .header__titles').toggleClass('active');
 })
+// нажатие на ссылку в меню бургера закрывает меню
+$('.header__moblil_close').click(function (event) {
+  $('header, .header__burger, .header__titles').removeClass('active');
+})
+
 
 // Анимация при достижении блока в зону видимости
 var windowHeight = $(window).height();
@@ -16,7 +24,7 @@ function animation() {
   $('.anim_item').each(function () {
     var self = $(this),
       height = self.offset().top + self.height();
-    if ($(document).scrollTop() + windowHeight>= height) {
+    if ($(document).scrollTop() + windowHeight >= height) {
       self.addClass('_animation')
     }
     else {
@@ -42,10 +50,12 @@ jQuery(window).scroll(function navBar() {
 
 
 // Плавный скрол до секции
-$('a[href*="#"]').on('click', function (e) {
-  // e.preventDefault();
-
-  $('html, body').animate({
-    scrollTop: $($(this).attr('href')).offset().top
-  }, 500);
+sections = ['preview', 'about', 'projects'] // список id ссылок, где нужен e.preventDefault();
+sections.forEach(element => {
+  $(`a[href*="#${element}"]`).on('click', function (e) {
+    e.preventDefault();
+    $('html, body').animate({
+      scrollTop: $($(this).attr('href')).offset().top
+    }, 500);
+  });
 });
