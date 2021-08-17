@@ -1,7 +1,7 @@
 // шаг вниз перед загрузкой и показать прелоадер
 $(window).ready(function () {
-  $("html, body").animate({ scrollTop: $(document).height() }, 100);
-  jQuery('#loading').fadeOut(3000);
+  // $("html, body").animate({ scrollTop: $(document).height() }, 100);
+  // jQuery('#loading').fadeOut(3000);
 });
 
 
@@ -43,7 +43,7 @@ jQuery(window).scroll(function navBar() {
 
 // Плавный скрол до секции
 $('a[href*="#"]').on('click', function (e) {
-  e.preventDefault();
+  // e.preventDefault();
 
   $('html, body').animate({
     scrollTop: $($(this).attr('href')).offset().top
