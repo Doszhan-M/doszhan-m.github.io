@@ -155,6 +155,12 @@ $text_color: rgb(161, 161, 161);
         transform: translateX(0%);
         transition: all 0.8s ease 0.7s;
 
+        @media screen and (max-width: 812px) {
+          & {
+            transition: all 0.8s ease 0s;
+          }
+        }
+
         &:hover {
           transform: scale(2);
           transition: all 0.5s ease;

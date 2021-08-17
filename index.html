@@ -27,8 +27,7 @@
 </head>
 
 <body>
-    <div id="loading"></div>
-    <div style="display:none"><img src="img/comet.png" alt=""></div>
+    <!-- <div id="loading"></div> -->
     <header id="main" class="header">
         <div class="header__body">
             <nav class="header__nav">
@@ -172,16 +171,23 @@
             </div>
             <div class="projects__content">
                 <div class="projects__groupe">
-
                     <div class="projects__item">
-                        <img src="img/comet.png" alt="project pictute">
-                        <div class="projects__title">
-                            <h3>55555 <p>python</p></h3>
-                            <a href="#popup">learn more</a> 
+                        <img src="img/slacbot.png" alt="project pictute">
+                        <div class="projects__title projects__title_center">
+                            <h3>PARSER SLACKBOT <p>Python/Django</p>
+                            </h3>
+                            <a href="#slackbot">learn more</a>
+                        </div>
+                    </div>
+                    <div class="projects__item">
+                        <img src="img/websocket.png" alt="project pictute">
+                        <div class="projects__title projects__title_center">
+                            <h3>websocket chat <p>DRF/JavaScript/Ajax</p>
+                            </h3>
+                            <a href="#websocket_chat">learn more</a>
                         </div>
                     </div>
 
-                    <div class="projects__item">1</div>
                     <div class="projects__item">1</div>
                     <div class="projects__item">1</div>
                     <div class="projects__item">1</div>
@@ -190,16 +196,60 @@
             </div>
         </section>
 
-        <section id="popup" class="popup">
+        <!-- Popup sections -->
+        <section id="slackbot" class="popup">
             <a href="#main" class="popup__dark-area_close"></a>
             <div class="popup__body">
                 <div class="popup__content">
-                    <a href="#main" class="popup__close">X</a>
-                    <div class="popup__text">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum asperiores rem dicta. Nulla
-                        consectetur cupiditate, esse aliquam eligendi dolore sequi facere iste vero recusandae maxime
-                        iure. Deleniti quidem necessitatibus perspiciatis?
+                    <div class="slaider">
+                        <div class="slaider__img-container">
+                            <img src="img/slacbot_1.png" alt="popup picture">
+                            <img src="img/slacbot_2.png" alt="popup picture">
+                            <img src="img/slacbot_3.png" alt="popup picture">
+                            <img src="img/slacbot_4.png" alt="popup picture">
+                            <img src="img/slacbot_5.png" alt="popup picture">
+                        </div>
                     </div>
+
+                    <button class="slaider__btn_left">1<i class="fas fa-angle-double-left"></i></button>
+                    <button class="slaider__btn_right">1<i class="fas fa-angle-double-right"></i></button>
+
+                    <h2>parser slackbot</h2>
+                    <div class="popup__text">
+                        The application parses the site for new posts and saves it to the database. Further, according
+                        to the specified settings, it sends out messages to the channels of the slack program.
+                    </div>
+                    <a href="https://github.com/Doszhan-M/SlackBot" class="popup__button" target="_blank">view code</a>
+                    <a href="#main" class="popup__close">X</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="websocket_chat" class="popup">
+            <a href="#main" class="popup__dark-area_close"></a>
+            <div class="popup__body">
+                <div class="popup__content">
+                    <div class="slaider">
+                        <div class="slaider__img-container">
+                            <img src="img/websocket_1.png" alt="popup picture">
+                            <img src="img/websocket_1.png" alt="popup picture">
+                            <img src="img/slacbot_2.png" alt="popup picture">
+                            <img src="img/slacbot_3.png" alt="popup picture">
+                            <img src="img/slacbot_4.png" alt="popup picture">
+                            <img src="img/slacbot_5.png" alt="popup picture">
+                        </div>
+                    </div>
+
+                    <button class="slaider__btn_left">2<i class="fas fa-angle-double-left"></i></button>
+                    <button class="slaider__btn_right">2<i class="fas fa-angle-double-right"></i></button>
+
+                    <h2>parser slackbot</h2>
+                    <div class="popup__text">
+                        The application parses the site for new posts and saves it to the database. Further, according
+                        to the specified settings, it sends out messages to the channels of the slack program.
+                    </div>
+                    <a href="https://github.com/Doszhan-M/SlackBot" class="popup__button" target="_blank">view code</a>
+                    <a href="#main" class="popup__close">X</a>
                 </div>
             </div>
         </section>
@@ -211,6 +261,8 @@
     <!-- LOCAL -->
     <script src="js/index.js"></script>
     <script src="js/progress_bar.js"></script>
+    <script src="js/slaider.js"></script>
+    <!-- <script src="js/slider2.js"></script> -->
     <script>
 
     </script>
