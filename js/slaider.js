@@ -1,8 +1,7 @@
 function slider() {
-
-    const hash = window.location.hash   // поиск внутри popup
-    const popupWindow = document.querySelector(`${hash}`)
-    const thisPopupWindow = popupWindow.classList.contains('popup')
+    const hash = window.location.hash   // досать хеш в url
+    const popupWindow = document.querySelector(`${hash}`) // найти секцию по хеш
+    const thisPopupWindow = popupWindow.classList.contains('popup') // есть ли в секции popup
 
     if (thisPopupWindow) {
 
@@ -11,8 +10,8 @@ function slider() {
 
         // Find images
         const slaider = document.querySelector(`${hash} .slaider__img-container`)
-        const images = document.querySelectorAll(`${hash} .slaider__img-container img`)
-
+        const images = document.querySelectorAll(`${hash} .slaider__img-container .slaider__img`)
+        
         // Calculate image width for step
         const stepSize = images[0].clientWidth
         // Move picture
@@ -33,6 +32,6 @@ function slider() {
     }
 }
 
-window.addEventListener('hashchange', () => {
+window.addEventListener('hashchange', () => { // событие на изменение хеша в url
     slider()
 })

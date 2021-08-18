@@ -26,13 +26,27 @@ function animation() {
     if ($(document).scrollTop() + windowHeight >= height) {
       self.addClass('_animation')
     }
-    else {
+    if ($(document).scrollTop() + windowHeight <= height - 300) {
+      self.removeClass('_animation')
+    }
+  });
+}
+// Анимация при достижении блока в зону видимости для больших объектов
+function animationBigItem() {
+  $('.big_anim_item').each(function () {
+    var self = $(this),
+      height = self.offset().top + self.height();
+    if ($(document).scrollTop() + windowHeight >= height / 2) {
+      self.addClass('_animation')
+    }
+    if ($(document).scrollTop() + windowHeight <= height - 500) {
       self.removeClass('_animation')
     }
   });
 }
 $(document).on('scroll', function () {
   animation();
+  animationBigItem()
 });
 
 
