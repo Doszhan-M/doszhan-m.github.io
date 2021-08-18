@@ -4,5 +4,20 @@
     align-items: center;
     justify-content: center;
     width: 100%;
-    background-color: rgb(20, 219, 53);
+    background-color: #252934;
+
+    .section-title__title {
+        color: aliceblue;
+    }
+    & svg line {
+        stroke: aliceblue;
+    }
+
+    .contact__subtitle {
+        margin: 3% 0 2% 0;
+        color: #04c2c9;
+        font-weight: 600;
+        font-size: 12pt;
+        font-family: 'Raleway';
+    }
 }

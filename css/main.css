@@ -191,6 +191,10 @@ body {
   margin-left: 4%;
 }
 
+.header .header__body .header__nav .header__titles a.header_active, .header .header__body .header__nav .header__titles a:hover {
+  color: #e31b6d;
+}
+
 @media screen and (max-width: 812px) {
   .header .header__body .header__nav .header__titles a {
     font-family: "OxinWar", Arial, sans-serif;
@@ -374,7 +378,7 @@ main {
           transform: translate(-100%, 0px);
   -webkit-transition: all 0.8s ease 0.1s;
   transition: all 0.8s ease 0.1s;
-  font-size: 30px;
+  font-size: 45px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
   text-transform: uppercase;
@@ -1063,6 +1067,22 @@ main {
       -ms-flex-pack: center;
           justify-content: center;
   width: 100%;
-  background-color: #14db35;
+  background-color: #252934;
+}
+
+.contact .section-title__title {
+  color: aliceblue;
+}
+
+.contact svg line {
+  stroke: aliceblue;
+}
+
+.contact .contact__subtitle {
+  margin: 3% 0 2% 0;
+  color: #04c2c9;
+  font-weight: 600;
+  font-size: 12pt;
+  font-family: 'Raleway';
 }
 /*# sourceMappingURL=main.css.map */

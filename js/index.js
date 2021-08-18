@@ -7,6 +7,18 @@ $(window).ready(function () {
 });
 
 
+// Плавный скрол до секции
+sections = ['preview', 'about', 'projects'] // список id ссылок, где нужен e.preventDefault();
+sections.forEach(element => {
+  $(`a[href*="#${element}"]`).on('click', function (e) {
+    e.preventDefault();
+    $('html, body').animate({
+      scrollTop: $($(this).attr('href')).offset().top
+    }, 500);
+  });
+});
+
+
 // нажатие на бургер открывает меню
 $('.header__burger').click(function (event) {
   $('header, .header__burger, .header__titles').toggleClass('active');
@@ -62,9 +74,11 @@ function animationBigItem() {
     }
   });
 }
+// запустить функции для скролла 
 $(document).on('scroll', function () {
   animation();
   animationBigItem()
+  headerColor()
 });
 
 
@@ -80,13 +94,21 @@ jQuery(window).scroll(function navBar() {
 });
 
 
-// Плавный скрол до секции
-sections = ['preview', 'about', 'projects'] // список id ссылок, где нужен e.preventDefault();
-sections.forEach(element => {
-  $(`a[href*="#${element}"]`).on('click', function (e) {
-    e.preventDefault();
-    $('html, body').animate({
-      scrollTop: $($(this).attr('href')).offset().top
-    }, 500);
+// при достижении одной секции из header на экран, та секция меняет цвет
+function headerColor() {
+  $('.header__moblil_close').each(function () {
+    let self = $(this);
+    id = self.attr('href');
+    let section = $(id);
+    let sectionOffsetHeight = section.offset().top; // расстояние от секции до начало страницы
+    let sectionAndOfsetHeight = sectionOffsetHeight + section.height();
+    let documentScrollTop = $(document).scrollTop() + 10; // расстояние от текущего место до начало документа
+
+    if (sectionOffsetHeight <= documentScrollTop && documentScrollTop <= sectionAndOfsetHeight) {
+      self.addClass('header_active')
+    } 
+    else {
+      self.removeClass('header_active')
+    }
   });
-});
+}
