@@ -31,16 +31,34 @@ function animation() {
     }
   });
 }
+// Определить устройство, если телефон, то true
+function isMobile() {
+  if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        return true; 
+  }
+  return false;
+}
+
 // Анимация при достижении блока в зону видимости для больших объектов
 function animationBigItem() {
   $('.big_anim_item').each(function () {
     var self = $(this),
-      height = self.offset().top + self.height();
-    if ($(document).scrollTop() + windowHeight >= height / 2) {
-      self.addClass('_animation')
+        height = self.offset().top + self.height();
+    if (isMobile()) {
+      if ($(document).scrollTop() + windowHeight >= height *1.2) {
+        self.addClass('_animation')
+      } 
+      if ($(document).scrollTop() + windowHeight <= height / 2) {
+        self.removeClass('_animation')
+      }
     }
-    if ($(document).scrollTop() + windowHeight <= height - 500) {
-      self.removeClass('_animation')
+    else {
+      if ($(document).scrollTop() + windowHeight >= height / 2) {
+        self.addClass('_animation')
+      } 
+      if ($(document).scrollTop() + windowHeight <= height - 300 ) {
+        self.removeClass('_animation')
+      }
     }
   });
 }

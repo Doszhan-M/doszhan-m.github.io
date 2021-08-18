@@ -7,16 +7,29 @@
   background-color: rgb(230, 223, 223);
 
   .section-title {
-    margin-top: 8%;
+    margin-top: 7%;
+
+    @media screen and (max-width: 812px) {
+      & {
+        margin-top: 20%;
+      }
+    }
   }
 
   .projects__content {
     display: flex;
     flex-direction: column;
     width: 80%;
+    margin-bottom: 5%;
     opacity: 0;
     transform: perspective(250px) translate(100%, 0px) rotateY(90deg);
     transition: all 1s ease-in-out;
+
+    @media screen and (max-width: 812px) {
+      & {
+        width: 100%;
+      }
+    }
 
     &._animation {
       opacity: 1;
@@ -31,6 +44,11 @@
       grid-template-rows: 250px;
       grid-gap: 2px;
     
+      @media screen and (max-width: 812px) {
+        & {
+          grid-gap: 5px;
+        }
+      }
       .projects__item {
         position: relative;
         min-width: 100%;
@@ -75,12 +93,24 @@
             transform: translate(0px, -100%);
             transition: all 0.3s ease;
 
+            @media screen and (max-width: 812px) {
+              & {
+                font-size: 26px;
+              }
+            }
+
             & p {
               font-size: 16px;
               color: red;
               font-family: "Raleway", Helvetica, sans-serif;
               font-weight: 400;
               margin-top: 0;
+
+              @media screen and (max-width: 812px) {
+                & {
+                  font-size: 20px;
+                }
+              }
             }
           }
           & a {
@@ -97,6 +127,12 @@
             opacity: 0;
             transform: translate(0px, 100%);
             transition: all 0.3s ease;
+            
+            @media screen and (max-width: 812px) {
+              & {
+                font-size: 20px;
+              }
+            }
           }
         }
       }
@@ -167,8 +203,10 @@
 
       .popup__close {
         position: absolute;
-        right: 10px;
+        right: 20px;
         bottom: 10px;
+        font-size: 30px;
+        color: rgb(168, 163, 166);
       }
 
       .slaider {

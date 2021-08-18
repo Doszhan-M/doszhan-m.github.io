@@ -32,12 +32,12 @@ $text_color: rgb(161, 161, 161);
 }
 
 .section-title {
-  margin-top: 10%;
+  margin-top: 7%;
   text-align: center;
 
   @media screen and (max-width: 812px) {
     & {
-      margin-top: 30%;
+      margin-top: 20%;
     }
   }
   .section-title__title {
