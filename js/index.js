@@ -57,10 +57,10 @@ function animationBigItem() {
     var self = $(this),
         height = self.offset().top + self.height();
     if (isMobile()) {
-      if ($(document).scrollTop() + windowHeight >= height *1.2) {
+      if ($(document).scrollTop() + windowHeight >= height *1.1) {
         self.addClass('_animation')
       } 
-      if ($(document).scrollTop() + windowHeight <= height / 2) {
+      if ($(document).scrollTop() + windowHeight <= height - 3500) {
         self.removeClass('_animation')
       }
     }
@@ -68,7 +68,7 @@ function animationBigItem() {
       if ($(document).scrollTop() + windowHeight >= height / 2) {
         self.addClass('_animation')
       } 
-      if ($(document).scrollTop() + windowHeight <= height - 300 ) {
+      if ($(document).scrollTop() + windowHeight <= height - 1200 ) {
         self.removeClass('_animation')
       }
     }

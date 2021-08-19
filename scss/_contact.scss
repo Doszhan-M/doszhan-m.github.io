@@ -19,7 +19,13 @@
 
   .contact__content {
     @extend %flex_column;
-    margin: 0 0 6% 0;
+    margin: 0 0 7% 0;
+
+    @media screen and (max-width: 812px) {
+      & {
+        margin: 0 0 36% 0;
+      }
+    }
 
     .contact__subtitle {
       margin: 3% 0 2% 0;
@@ -27,7 +33,14 @@
       font-weight: 600;
       font-size: 12pt;
       font-family: "Raleway";
+
+      @media screen and (max-width: 812px) {
+        & {
+          margin: 10% 0 10% 0;
+        }
+      }
     }
+
 
     .contact__form {
       @extend %flex_column;
