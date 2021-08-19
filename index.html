@@ -224,7 +224,8 @@
         </section>
 
         <section id="contact" class="contact">
-            <svg preserveAspectRatio="none" viewBox="0 0 100 102" height="75" width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" class="svgcolor-light">
+            <svg preserveAspectRatio="none" viewBox="0 0 100 102" height="75" width="100%" version="1.1"
+                xmlns="http://www.w3.org/2000/svg" class="svgcolor-light">
                 <path d="M0 0 L50 100 L100 0 Z" fill="rgb(230, 223, 223)" stroke="white"></path>
             </svg>
             <div class="section-title">
@@ -233,7 +234,19 @@
                     <line x1="0" y1="0" x2="100" y2="0" stroke="black" stroke-width="2" />
                 </svg>
             </div>
-            <p class="contact__subtitle">Have a question or want to work together?</p>
+            <div class="contact__content">
+                <p class="contact__subtitle">Have a question or want to work together?</p>
+                <form action="" class="contact__form">
+                    <input placeholder="Name" type="text" name="" id="" required>
+                    <input placeholder="Enter email" type="text" name="email" id="" required>
+                    <textarea placeholder="Your message" type="text" name="message" id=""></textarea>
+                    <div id="success" class="contact__success-alert">
+                        <p>Your message was sent successfully!</p>
+                        <i class="far fa-times-circle"></i>
+                    </div>
+                    <input class="contact__sumbit" id="submit" type="submit" value="SUBMIT">
+                </form>
+            </div>
         </section>
 
 
@@ -284,9 +297,11 @@
 
                     <h2>chat room</h2>
                     <div class="popup__text">
-                        Demo presentation of chat rooms on websocket js and django-channels. Can be embedded in any django application.
+                        Demo presentation of chat rooms on websocket js and django-channels. Can be embedded in any
+                        django application.
                     </div>
-                    <a href="https://github.com/Doszhan-M/WebSocket-Chat" class="popup__button" target="_blank">view code</a>
+                    <a href="https://github.com/Doszhan-M/WebSocket-Chat" class="popup__button" target="_blank">view
+                        code</a>
                     <a href="#main" class="popup__close"><i class="far fa-times-circle"></i></a>
                 </div>
             </div>
@@ -334,7 +349,8 @@
                     <div class="popup__text">
                         Homemade trash bin with automatic lid opening. Microcontroller: arduino uno, servo: MG996.
                     </div>
-                    <a href="https://github.com/Doszhan-M/Automatic-trash-can" class="popup__button" target="_blank">view code</a>
+                    <a href="https://github.com/Doszhan-M/Automatic-trash-can" class="popup__button"
+                        target="_blank">view code</a>
                     <a href="#main" class="popup__close"><i class="far fa-times-circle"></i></a>
                 </div>
             </div>
@@ -356,7 +372,8 @@
                     <div class="popup__text">
                         The purpose of the program is to keep a journal of loans between two users in Telegram app.
                     </div>
-                    <a href="https://github.com/Doszhan-M/TelegramReportBot" class="popup__button" target="_blank">view code</a>
+                    <a href="https://github.com/Doszhan-M/TelegramReportBot" class="popup__button" target="_blank">view
+                        code</a>
                     <a href="#main" class="popup__close"><i class="far fa-times-circle"></i></a>
                 </div>
             </div>
@@ -389,16 +406,26 @@
 
     </main>
 
+    <footer class="footer">
+        <div class="footer__body">
+            <i class="footer__icon-up fas fa-angle-double-up"></i>
+            <div class="footer__content">
+                <ul class="footer__sosial-links">
+                    <li><a href="#git"><i class="fab fa-github-square"></i></a></li>
+                    <li><a href="#lin"><i class="fab fa-linkedin"></i></a></li>
+                    <li><a href="#telegram"><i class="fab fa-telegram-plane"></i></a></li>
+                </ul>
+                <div class="copyright">DOSZHAN MENGALIYEV <span>©2021</span></div>
+            </div>
+        </div>
+    </footer>
+
     <!-- HOSTED -->
     <script src="https://kit.fontawesome.com/b33bf1e810.js" crossorigin="anonymous"></script>
     <!-- LOCAL -->
     <script src="js/index.js"></script>
     <script src="js/progress_bar.js"></script>
     <script src="js/slaider.js"></script>
-    <!-- <script src="js/slider2.js"></script> -->
-    <script>
-
-    </script>
 </body>
 
 </html>

@@ -8,7 +8,7 @@ $(window).ready(function () {
 
 
 // Плавный скрол до секции
-sections = ['preview', 'about', 'projects'] // список id ссылок, где нужен e.preventDefault();
+sections = ['preview', 'about', 'projects', 'contact',] // список id ссылок, где нужен e.preventDefault();
 sections.forEach(element => {
   $(`a[href*="#${element}"]`).on('click', function (e) {
     e.preventDefault();
