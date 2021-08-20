@@ -2,7 +2,7 @@ $(window).ready(function () {
   // шаг вниз перед загрузкой и показать прелоадер
   $('html, body').animate({ scrollTop: $("#projects").offset().top }, 1);
   $('html, body').animate({ scrollTop: $("#preview").offset().top }, 1);
-  jQuery('#loading').fadeOut(1500);
+  jQuery('#loading').fadeOut(3500);
 
 });
 
@@ -58,11 +58,11 @@ function animationBigItem() {
     var self = $(this);
     
     if (isMobile()) {
-      var height = self.offset().top - 300;
+      var height = self.offset().top - 400;
     } else {
       var height = self.offset().top - 500;
     }
-    
+
     if ($(document).scrollTop() >= height  ) {
       self.addClass('_animation')
     } 
