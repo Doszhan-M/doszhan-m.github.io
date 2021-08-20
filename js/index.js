@@ -55,18 +55,17 @@ function isMobile() {
 // Анимация при достижении блока в зону видимости для больших объектов
 function animationBigItem() {
   $('.big_anim_item').each(function () {
-    var self = $(this),
-        height = self.offset().top - 300;
-
+    var self = $(this);
+    
     if (isMobile()) {
-      if ($(document).scrollTop() >= height  ) {
-        self.addClass('_animation')
-      } 
+      var height = self.offset().top - 300;
     } else {
-      if ($(document).scrollTop() + windowHeight >= height / 1.2) {
-        self.addClass('_animation')
-      } 
+      var height = self.offset().top - 500;
     }
+    
+    if ($(document).scrollTop() >= height  ) {
+      self.addClass('_animation')
+    } 
     if ($(document).scrollTop() < 200 ) {
       self.removeClass('_animation')
     }
