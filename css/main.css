@@ -726,6 +726,7 @@ main {
 }
 
 .projects .projects__content {
+  position: absolute;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -750,6 +751,7 @@ main {
 }
 
 .projects .projects__content._animation {
+  position: static;
   opacity: 1;
   -webkit-transform: perspective(0) translate(0px, 0px) rotateY(0deg);
           transform: perspective(0) translate(0px, 0px) rotateY(0deg);
@@ -1262,6 +1264,7 @@ main {
 
 @media screen and (max-width: 812px) {
   .contact .contact__content .contact__form .contact__sumbit {
+    margin-top: 3%;
     -ms-flex-item-align: center;
         -ms-grid-row-align: center;
         align-self: center;

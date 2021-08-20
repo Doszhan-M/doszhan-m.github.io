@@ -19,6 +19,7 @@
   }
 
   .projects__content {
+    position: absolute;
     display: flex;
     flex-direction: column;
     width: 80%;
@@ -35,6 +36,7 @@
     }
 
     &._animation {
+      position: static;
       opacity: 1;
       transform: perspective(0) translate(0px, 0px) rotateY(0deg);
     }

@@ -57,7 +57,7 @@ function animationBigItem() {
     var self = $(this),
         height = self.offset().top + self.height();
     if (isMobile()) {
-      if ($(document).scrollTop() + windowHeight >= height *1.1) {
+      if ($(document).scrollTop() + windowHeight >= height + 1500 ) {
         self.addClass('_animation')
       } 
       if ($(document).scrollTop() + windowHeight <= height - 3500) {
