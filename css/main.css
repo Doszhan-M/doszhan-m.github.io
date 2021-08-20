@@ -32,7 +32,7 @@ body {
   position: fixed;
   width: 100%;
   height: 100vh;
-  background: #fff url("img/loader.gif") no-repeat center center;
+  background: #fff;
   z-index: 9999;
 }
 
@@ -1179,36 +1179,55 @@ main {
 }
 
 .contact .contact__content .contact__form .contact__success-alert {
+  color: #f2f7f5;
+  background-color: #04c986;
+  border: 1px solid #157c59;
+}
+
+.contact .contact__content .contact__form .contact__error-alert {
+  color: #e6b6b6;
+  background-color: red;
+  border: 1px solid #e4e0e0;
+}
+
+.contact .contact__content .contact__form .contact__error-alert,
+.contact .contact__content .contact__form .contact__success-alert {
   position: relative;
   margin: 4px 0;
   min-width: 100%;
   font-size: 16px;
-  color: #157051;
-  background-color: #04c986;
-  border: 1px solid #157c59;
+  font-family: 'Raleway', Times, serif;
   padding: 1px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  display: none;
 }
 
+.contact .contact__content .contact__form .contact__error-alert.alert,
+.contact .contact__content .contact__form .contact__success-alert.alert {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.contact .contact__content .contact__form .contact__error-alert p,
 .contact .contact__content .contact__form .contact__success-alert p {
   width: 80%;
   text-align: center;
 }
 
 @media screen and (max-width: 812px) {
+  .contact .contact__content .contact__form .contact__error-alert p,
   .contact .contact__content .contact__form .contact__success-alert p {
     width: 50%;
   }
 }
 
+.contact .contact__content .contact__form .contact__error-alert i,
 .contact .contact__content .contact__form .contact__success-alert i {
   font-size: 20px;
   position: absolute;
@@ -1217,12 +1236,14 @@ main {
 }
 
 @media screen and (max-width: 812px) {
+  .contact .contact__content .contact__form .contact__error-alert i,
   .contact .contact__content .contact__form .contact__success-alert i {
     font-size: 30px;
   }
 }
 
 .contact .contact__content .contact__form .contact__sumbit {
+  margin-top: 2%;
   -ms-flex-item-align: end;
       align-self: flex-end;
   display: inline-block;

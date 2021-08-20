@@ -68,17 +68,36 @@
       }
 
       & .contact__success-alert {
+        color: #f2f7f5;
+        background-color: #04c986;
+        border: 1px solid #157c59;
+      }
+
+      & .contact__error-alert {
+        color: rgb(230, 182, 182);
+        background-color: red;
+        border: 1px solid rgb(228, 224, 224);
+      }
+
+      %contact_alert {
         position: relative;
         margin: 4px 0;
         min-width: 100%;
         font-size: 16px;
-        color: #157051;
-        background-color: #04c986;
-        border: 1px solid #157c59;
+        font-family:'Raleway', Times, serif;
         padding: 1px;
-        display: flex;
         align-items: center;
         justify-content: center;
+        display: none
+      }
+
+      & .contact__error-alert,
+      & .contact__success-alert {
+        @extend %contact_alert;
+
+        &.alert {
+          display: flex
+        }
 
         & p {
           width: 80%;
@@ -105,6 +124,7 @@
       }
 
       .contact__sumbit {
+        margin-top: 2%;
         align-self: flex-end;
         display: inline-block;
         min-width: 100px;

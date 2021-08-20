@@ -27,7 +27,7 @@
 </head>
 
 <body>
-    <!-- <div id="loading"></div> -->
+    <div id="loading"></div>
     <header id="main" class="header">
         <div class="header__body">
             <nav class="header__nav">
@@ -243,7 +243,15 @@
                     <textarea placeholder="Your message" type="text" id="message" required></textarea>
                     <div id="success" class="contact__success-alert">
                         <p>Your message was sent successfully!</p>
-                        <i class="far fa-times-circle"></i>
+                        <i class="far fa-times-circle contact__alert_close"></i>
+                    </div>
+                    <div id="userError" class="contact__error-alert">
+                        <p>Fill in all the form fields please!</p>
+                        <i class="far fa-times-circle contact__alert_close"></i>
+                    </div>
+                    <div id="systemError" class="contact__error-alert">
+                        <p>System error, please try later!</p>
+                        <i class="far fa-times-circle contact__alert_close"></i>
                     </div>
                     <input class="contact__sumbit" id="submit" type="button" value="SUBMIT">
                 </form>

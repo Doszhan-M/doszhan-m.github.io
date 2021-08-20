@@ -1,0 +1,205 @@
+@font-face {
+  font-family: "Raleway";
+  font-weight: 400;
+  src: url("../fonts/ralewaymediumitalic.ttf") format("truetype");
+}
+
+.content {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.header {
+  opacity: 0;
+  min-width: 100%;
+  min-height: 47px;
+  background-color: #0cf7f7;
+}
+
+.header.fixed {
+  opacity: 1;
+  -webkit-transition: all 0.8s ease 0.1s;
+  transition: all 0.8s ease 0.1s;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+.header__titles {
+  min-height: 44px;
+  background-color: #25333f;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: baseline;
+      -ms-flex-pack: baseline;
+          justify-content: baseline;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header__titles a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 4%;
+}
+
+section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 100%;
+  background-color: white;
+}
+
+.section-title {
+  margin-top: 10%;
+  text-align: center;
+}
+
+.section-title .section-title__title {
+  opacity: 0;
+  -webkit-transform: translate(-100%, 0px);
+          transform: translate(-100%, 0px);
+  -webkit-transition: all 0.8s ease 0.1s;
+  transition: all 0.8s ease 0.1s;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #6d6969;
+}
+
+.section-title .section-title__title._animation {
+  opacity: 1;
+  -webkit-transform: translate(0px, 0px);
+          transform: translate(0px, 0px);
+}
+
+.section-title svg {
+  opacity: 0;
+  -webkit-transition: all 0.8s ease 0.1s;
+  transition: all 0.8s ease 0.1s;
+  -webkit-transform: translate(100%, 0px);
+          transform: translate(100%, 0px);
+  width: 50%;
+  margin-top: 3%;
+}
+
+.section-title svg._animation {
+  opacity: 1;
+  -webkit-transform: translate(0px, 0px);
+          transform: translate(0px, 0px);
+}
+
+.section-title svg line {
+  stroke: #443e3e;
+  stroke-width: 3;
+}
+
+.section-content {
+  width: 80%;
+}
+
+.assurances {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(100px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  -ms-grid-rows: auto;
+      grid-template-rows: auto;
+  margin: 5%;
+}
+
+.assurances .assurances__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.assurances .assurances__item:nth-child(odd) i, .assurances .assurances__item:nth-child(even) i {
+  opacity: 0;
+  font-size: 100px;
+  color: #0f9b9b;
+  -webkit-transition: all 0.8s ease 0.1s;
+  transition: all 0.8s ease 0.1s;
+}
+
+.assurances .assurances__item:nth-child(odd) i {
+  -webkit-transform: rotate3d(1, 1, 1, 180deg);
+          transform: rotate3d(1, 1, 1, 180deg);
+}
+
+.assurances .assurances__item:nth-child(odd) i._animation {
+  opacity: 1;
+  -webkit-transform: rotate3d(1, 1, 1, 0deg);
+          transform: rotate3d(1, 1, 1, 0deg);
+}
+
+.assurances .assurances__item:nth-child(odd) i._animation:hover {
+  opacity: 0;
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.assurances .assurances__item:nth-child(even) i {
+  -webkit-transform: translate(100%, 0px);
+          transform: translate(100%, 0px);
+}
+
+.assurances .assurances__item:nth-child(even) i._animation {
+  opacity: 1;
+  -webkit-transform: translate(0px, 0px);
+          transform: translate(0px, 0px);
+}
+
+.assurances .assurances__item:nth-child(even) i._animation:hover {
+  -webkit-transform: scale(2);
+          transform: scale(2);
+}
+
+.assurances .assurances__item h3 {
+  font-size: 20px;
+  color: #6d6969;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+.assurances .assurances__item p {
+  width: 95%;
+  font-size: 16px;
+  color: #6d6969;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 500;
+}
+/*# sourceMappingURL=about.css.map */
