@@ -111,6 +111,13 @@
         border: 2px white solid;
         padding: 0 40px;
 
+        &:hover {
+            background-color: #04c986;
+        }
+        &:active {
+            border: 4px #252934 solid;
+        }
+
         @media screen and (max-width: 812px) {
           & {
             align-self: center;

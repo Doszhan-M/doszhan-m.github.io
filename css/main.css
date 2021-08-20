@@ -1231,6 +1231,14 @@ main {
   padding: 0 40px;
 }
 
+.contact .contact__content .contact__form .contact__sumbit:hover {
+  background-color: #04c986;
+}
+
+.contact .contact__content .contact__form .contact__sumbit:active {
+  border: 4px #252934 solid;
+}
+
 @media screen and (max-width: 812px) {
   .contact .contact__content .contact__form .contact__sumbit {
     -ms-flex-item-align: center;

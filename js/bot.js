@@ -1,0 +1,1 @@
+const bot = {token: '1986627459:AAG04-Gffa3S47d1J9N9MZSXTEPJexKRw38', chat_id :'-523535813',}
