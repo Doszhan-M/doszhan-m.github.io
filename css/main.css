@@ -608,19 +608,21 @@ main {
 
 @media screen and (max-width: 812px) {
   .about_myself .about_myself__desc {
+    margin-left: 0;
     width: 95%;
   }
 }
 
-.about_myself .about_myself__desc .about_myself__photo {
-  height: 300px;
-  overflow: hidden;
+.about_myself .about_myself__desc img {
+  padding: 0;
+  position: relative;
+  width: 350px;
 }
 
-.about_myself .about_myself__desc img {
-  position: relative;
-  bottom: 8%;
-  width: 300px;
+@media screen and (max-width: 812px) {
+  .about_myself .about_myself__desc img {
+    min-width: 99%;
+  }
 }
 
 .about_myself .about_myself__desc h3 {

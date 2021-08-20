@@ -213,19 +213,21 @@ $text_color: rgb(161, 161, 161);
     
     @media screen and (max-width: 812px) {
       & {
+        margin-left: 0;
         width: 95%;
       }
     }
 
-    .about_myself__photo {
-      height: 300px;
-      overflow: hidden;
-    }
-
     & img {
+      padding: 0;
       position: relative;
-      bottom: 8%;
-      width: 300px;
+      width: 350px;
+
+      @media screen and (max-width: 812px) {
+        & {
+          min-width: 99%;
+        }
+      }
     }
     & h3 {
       @extend %h3_text;
