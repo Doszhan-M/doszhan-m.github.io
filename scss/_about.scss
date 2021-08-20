@@ -35,6 +35,10 @@ $text_color: rgb(161, 161, 161);
   margin-top: 7%;
   text-align: center;
 
+  & svg {
+    max-width: 150px;
+  }
+
   @media screen and (max-width: 812px) {
     & {
       margin-top: 20%;

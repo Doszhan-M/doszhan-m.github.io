@@ -366,6 +366,10 @@ main {
   text-align: center;
 }
 
+.section-title svg {
+  max-width: 150px;
+}
+
 @media screen and (max-width: 812px) {
   .section-title {
     margin-top: 20%;
