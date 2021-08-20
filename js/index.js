@@ -1,7 +1,7 @@
 $(window).ready(function () {
   // шаг вниз перед загрузкой и показать прелоадер
-  $('html, body').animate({ scrollTop: $("#projects").offset().top }, 1);
-  $('html, body').animate({ scrollTop: $("#preview").offset().top }, 1);
+  // $('html, body').animate({ scrollTop: $("#projects").offset().top }, 1);
+  // $('html, body').animate({ scrollTop: $("#preview").offset().top }, 1);
   jQuery('#loading').fadeOut(1000);
 
 });
@@ -56,6 +56,16 @@ function animationBigItem() {
   $('.big_anim_item').each(function () {
     var self = $(this),
         height = self.offset().top + self.height();
+
+    // вычислить высоту подложки и задать ее, чтобы не дергалас страница
+    let substrate = document.querySelector('.projects__content')
+    const substrate_height = substrate.clientHeight
+
+
+    let big_anim_item = document.querySelector('.big_anim_item')    
+
+    // console.log(big_anim_item)
+
     if (isMobile()) {
       if ($(document).scrollTop() + windowHeight >= height + 1500 ) {
         self.addClass('_animation')
@@ -68,7 +78,9 @@ function animationBigItem() {
       if ($(document).scrollTop() + windowHeight >= height / 2) {
         self.addClass('_animation')
       } 
-      if ($(document).scrollTop() + windowHeight <= height - 1200 ) {
+      if ($(document).scrollTop() + windowHeight <= height - 500 ) {
+        // substrate.style.height = substrate_height + 'px'
+        // big_anim_item.style.position = 'absolute'
         self.removeClass('_animation')
       }
     }
