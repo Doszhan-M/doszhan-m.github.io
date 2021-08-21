@@ -51,17 +51,16 @@
   & p {
     margin: 0%;
   }
-  & span:nth-last-of-type() {
+  & span {
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  & span:nth-of-type(3) {
+    font-family: "OxinWar", Arial, sans-serif;
     letter-spacing: 10px;
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #11d9e0,
       0 0 40px #11d9e0, 0 0 50px;
   }
-  & span:nth-of-type(1) {
-    font-family:'Raleway';
-  }
-  & span:nth-of-type(2) {
-    font-family:Arial, Helvetica, sans-serif;
-  }
+
 
   & button {
     cursor: pointer;
