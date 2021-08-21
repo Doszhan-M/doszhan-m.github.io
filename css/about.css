@@ -90,6 +90,12 @@ section {
   color: #6d6969;
 }
 
+@media screen and (max-width: 812px) {
+  .section-title .section-title__title {
+    font-size: 25px;
+  }
+}
+
 .section-title .section-title__title._animation {
   opacity: 1;
   -webkit-transform: translate(0px, 0px);

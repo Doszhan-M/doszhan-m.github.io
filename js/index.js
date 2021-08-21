@@ -3,7 +3,7 @@ $(window).ready(function () {
   // $('html, body').animate({ scrollTop: $("#about").offset().top }, 300);
   // $('html, body').animate({ scrollTop: $("#projects").offset().top }, 100);
   // $('html, body').animate({ scrollTop: $("#preview").offset().top }, 10);
-  jQuery('#loading').fadeOut(1000);
+  jQuery('#loading').fadeOut(1500);
 });
 
 
@@ -43,6 +43,8 @@ function animation() {
     }
   });
 }
+
+
 // Определить устройство, если телефон, то true
 function isMobile() {
   if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {

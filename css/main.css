@@ -272,9 +272,17 @@ body {
   margin: 0%;
 }
 
-.preview span {
+.preview span:nth-last-of-type {
   letter-spacing: 10px;
   text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #11d9e0, 0 0 40px #11d9e0, 0 0 50px;
+}
+
+.preview span:nth-of-type(1) {
+  font-family: 'Raleway';
+}
+
+.preview span:nth-of-type(2) {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .preview button {
@@ -387,6 +395,12 @@ main {
   font-weight: 600;
   text-transform: uppercase;
   color: #6d6969;
+}
+
+@media screen and (max-width: 812px) {
+  .section-title .section-title__title {
+    font-size: 40px;
+  }
 }
 
 .section-title .section-title__title._animation {
