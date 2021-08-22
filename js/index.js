@@ -62,7 +62,7 @@ function animationBigItem() {
     if (isMobile()) {
       var height = self.offset().top - 400;
     } else {
-      var height = self.offset().top - 500;
+      var height = self.offset().top - 700;
     }
 
     if ($(document).scrollTop() >= height  ) {
