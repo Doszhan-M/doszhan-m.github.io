@@ -1060,6 +1060,7 @@ main {
 }
 
 .popup .popup__body .popup__content .slaider .slaider__img-container img {
+  background: url(../img/circles.svg) center center no-repeat;
   min-width: 100%;
   display: block;
   height: 68vh;
