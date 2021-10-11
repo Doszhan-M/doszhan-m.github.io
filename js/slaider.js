@@ -11,7 +11,7 @@ function slider() {
         // Find images
         const slaider = document.querySelector(`${hash} .slaider__img-container`)
         const images = document.querySelectorAll(`${hash} .slaider__img-container .slaider__img`)
-        
+
         // Calculate image width for step
         const stepSize = images[0].clientWidth
         // Move picture
@@ -32,6 +32,8 @@ function slider() {
     }
 }
 
-window.addEventListener('hashchange', () => { // событие на изменение хеша в url
-    slider()
-})
+export function sliderProject() {
+    window.addEventListener('hashchange', () => { // событие на изменение хеша в url
+        slider()
+    })
+}
