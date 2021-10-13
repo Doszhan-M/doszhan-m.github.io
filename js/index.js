@@ -14,7 +14,7 @@ export function index() {
     $svg_anm.fadeOut();
     $preloader.delay(500).fadeOut('slow');
   });
-
+  
   // Плавный scroll до секции
   let sections = ['preview', 'about', 'projects', 'contact',] // список id ссылок, где нужен e.preventDefault();
   sections.forEach(element => {
