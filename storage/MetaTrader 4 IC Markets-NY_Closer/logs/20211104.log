@@ -1,0 +1,14 @@
+0	00:29:55.713	'270024006': close order #28913290 sell 0.06 EURUSD at 1.16147 sl: 1.16331 tp: 1.15803 at price 0.00000
+0	00:29:56.134	'270024006': order #28913290 sell 0.06 EURUSD at 1.16147 sl: 1.16331 tp: 1.15803 closed at price 1.16130
+0	01:08:07.822	'270024006': close order #28900331 sell 0.08 EURCAD at 1.43873 sl: 1.44173 tp: 1.43673 at price 0.00000
+0	01:08:08.009	'270024006': order #28900331 sell 0.08 EURCAD at 1.43873 sl: 1.44173 tp: 1.43673 closed at price 1.43842
+0	22:21:28.666	'270024006': order sell market 0.08 USDJPY sl: 0.000 tp: 0.000
+0	22:21:28.822	'270024006': order was opened : #29040003 sell 0.08 USDJPY at 113.769 sl: 0.000 tp: 0.000
+0	22:21:28.822	'270024006': modify order #29040003 sell 0.08 USDJPY at 113.769 sl: 0.000 tp: 0.000 -> sl: 114.069 tp: 113.669
+0	22:21:28.931	'270024006': order sell market 0.08 USDJPY sl: 114.069 tp: 113.569
+0	22:21:29.041	'270024006': order #29040003 sell 0.08 USDJPY at 113.769 was modified -> sl: 114.069 tp: 113.669
+0	22:21:29.119	'270024006': order was opened : #29040012 sell 0.08 USDJPY at 113.769 sl: 114.069 tp: 113.569
+0	22:22:40.338	'270024006': order sell market 0.06 USDJPY sl: 114.006 tp: 113.421
+0	22:22:40.525	'270024006': order was opened : #29040086 sell 0.06 USDJPY at 113.771 sl: 114.006 tp: 113.421
+0	22:49:15.775	'270024006': order buy market 0.06 EURUSD sl: 1.15362 tp: 1.15873
+0	22:49:16.009	'270024006': order was opened : #29044335 buy 0.06 EURUSD at 1.15525 sl: 1.15362 tp: 1.15873

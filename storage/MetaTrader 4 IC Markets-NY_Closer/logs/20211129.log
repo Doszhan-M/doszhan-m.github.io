@@ -1,0 +1,26 @@
+0	00:00:01.543	'270024006': order sell market 0.06 USDJPY sl: 113.996 tp: 113.496
+1	00:00:01.761	'270024006': order sell 0.06 USDJPY opening at market sl: 113.996 tp: 113.496 failed [Market is closed]
+0	00:00:01.761	'270024006': order sell market 0.06 USDJPY sl: 113.996 tp: 113.496
+0	00:00:01.824	'270024006': order sell market 0.11 USDJPY sl: 113.967 tp: 113.343
+1	00:00:02.011	'270024006': order sell 0.06 USDJPY opening at market sl: 113.996 tp: 113.496 failed [Market is closed]
+1	00:00:02.011	'270024006': order sell 0.11 USDJPY opening at market sl: 113.967 tp: 113.343 failed [Market is closed]
+0	00:00:02.011	'270024006': order sell market 0.06 USDJPY sl: 113.979 tp: 113.479
+1	00:00:02.214	'270024006': order sell 0.06 USDJPY opening at market sl: 113.979 tp: 113.479 failed [Market is closed]
+0	00:00:02.214	'270024006': order sell market 0.06 USDJPY sl: 113.969 tp: 113.469
+1	00:00:02.339	'270024006': order sell 0.06 USDJPY opening at market sl: 113.969 tp: 113.469 failed [Market is closed]
+0	00:00:02.339	'270024006': order sell market 0.06 USDJPY sl: 113.969 tp: 113.469
+1	00:00:02.495	'270024006': order sell 0.06 USDJPY opening at market sl: 113.969 tp: 113.469 failed [Market is closed]
+0	00:01:41.120	'270024006': order sell market 0.11 USDJPY sl: 113.889 tp: 113.269
+0	00:01:41.262	'270024006': order sell market 0.06 USDJPY sl: 113.919 tp: 113.419
+0	00:01:41.339	'270024006': order was opened : #30890143 sell 0.11 USDJPY at 113.619 sl: 113.889 tp: 113.269
+0	00:01:41.417	'270024006': order was opened : #30890150 sell 0.06 USDJPY at 113.619 sl: 113.919 tp: 113.419
+0	00:22:12.620	'270024006': close order #30890143 sell 0.11 USDJPY at 113.619 sl: 113.889 tp: 113.269 at price 0.000
+0	00:22:12.761	'270024006': order #30890143 sell 0.11 USDJPY at 113.619 sl: 113.889 tp: 113.269 closed at price 113.435
+0	00:22:19.345	'270024006': order #30890150 sell 0.06 USDJPY at 113.619 closed due take-profit at price 113.419
+0	00:44:13.027	'270024006': order sell market 0.06 USDJPY sl: 113.765 tp: 113.265
+0	00:44:13.230	'270024006': order was opened : #30894294 sell 0.06 USDJPY at 113.467 sl: 113.765 tp: 113.265
+0	01:12:09.480	'270024006': order #30894294 sell 0.06 USDJPY at 113.467 closed due stop-loss at price 113.766
+0	23:01:50.008	'270024006': order buy market 0.06 USDCHF sl: 0.92055 tp: 0.92555
+0	23:01:50.180	'270024006': order was opened : #30998555 buy 0.06 USDCHF at 0.92354 sl: 0.92055 tp: 0.92555
+0	23:03:59.649	'270024006': order buy market 0.06 USDJPY sl: 113.348 tp: 113.848
+0	23:03:59.805	'270024006': order was opened : #30999498 buy 0.06 USDJPY at 113.650 sl: 113.348 tp: 113.848

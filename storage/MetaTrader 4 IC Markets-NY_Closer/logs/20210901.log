@@ -1,0 +1,22 @@
+0	01:31:50.407	'270024006': close order #21523913 sell 0.05 GBPUSD at 1.37558 sl: 1.37871 tp: 1.37208 at price 0.00000
+0	01:31:50.846	'270024006': order #21523913 sell 0.05 GBPUSD at 1.37558 sl: 1.37871 tp: 1.37208 closed at price 1.37544
+1	03:32:39.079	'270024006': connect failed [Нет связи]
+0	03:33:21.094	'270024006': login on ICMarketsSC-Live27 through DC_Frank_L27 (ping: 167.46 ms)
+0	03:34:27.719	'270024006': login on ICMarketsSC-Live27 through DC_BS_L27 (ping: 229.81 ms)
+0	03:34:34.876	'270024006': login datacenter on ICMarketsSC-Live27 through DC_BS_L27 (ping: 229.81 ms)
+0	03:34:35.688	'270024006': previous successful authorization performed from 195.149.87.163
+0	03:34:45.926	'270024006': auto connecting to a better access point NY DC 1 (ping is 2.57 ms)
+0	03:34:46.642	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 2.57 ms)
+0	03:34:47.719	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 2.57 ms)
+0	03:34:48.284	'270024006': previous successful authorization performed from 195.149.87.163
+0	15:32:18.016	'270024006': order #21583829 buy 0.05 GBPUSD at 1.37559 closed due take-profit at price 1.37768
+0	16:35:29.860	'270024006': order #21604304 buy stop 0.66 EURUSD at 1.18438 activated at price 1.18439
+0	16:35:29.860	'270024006': order #21604516 buy stop 0.66 EURUSD at 1.18438 activated at price 1.18439
+0	16:39:31.860	'270024006': order #21604304 buy 0.66 EURUSD at 1.18439 closed due stop-loss at price 1.18453
+0	16:39:31.860	'270024006': order #21604516 buy 0.66 EURUSD at 1.18439 closed due stop-loss at price 1.18453
+0	17:16:10.360	'270024006': order #21569320 buy 0.07 USDCAD at 1.26022 closed due stop-loss at price 1.26085
+0	21:02:31.626	'270024006': order #21684283 buy limit 0.04 EURUSD at 1.18424 activated at price 1.18424
+0	23:38:09.284	'270024006': order sell market 0.18 USDJPY sl: 0.000 tp: 0.000
+0	23:38:09.485	'270024006': order was opened : #21711844 sell 0.18 USDJPY at 110.062 sl: 0.000 tp: 0.000
+0	23:38:09.485	'270024006': modify order #21711844 sell 0.18 USDJPY at 110.062 sl: 0.000 tp: 0.000 -> sl: 110.362 tp: 109.962
+0	23:38:09.736	'270024006': order #21711844 sell 0.18 USDJPY at 110.062 was modified -> sl: 110.362 tp: 109.962

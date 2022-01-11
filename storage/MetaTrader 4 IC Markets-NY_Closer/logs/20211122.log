@@ -1,0 +1,16 @@
+0	00:01:41.284	'270024006': order buy market 0.11 USDJPY sl: 113.703 tp: 114.322
+0	00:01:41.564	'270024006': order was opened : #30342171 buy 0.11 USDJPY at 113.972 sl: 113.703 tp: 114.322
+0	00:30:27.673	'270024006': close order #30342171 buy 0.11 USDJPY at 113.972 sl: 113.703 tp: 114.322 at price 0.000
+0	00:30:27.892	'270024006': order #30342171 buy 0.11 USDJPY at 113.972 sl: 113.703 tp: 114.322 closed at price 114.007
+0	11:17:52.967	'270024006': order #30362951 buy 0.03 EURUSD at 1.12758 closed due take-profit at price 1.12824
+1	13:59:19.702	'270024006': datacenter connecting failed [6]
+0	13:59:20.202	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 3.29 ms)
+0	13:59:20.311	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 3.29 ms)
+0	13:59:20.702	'270024006': previous successful authorization performed from 195.149.87.163
+0	13:59:29.858	'270024006': ping to current access point NY DC 1 is 2.34 ms
+0	23:00:01.452	'270024006': order buy market 0.11 USDJPY sl: 114.611 tp: 115.199
+0	23:00:02.828	'270024006': order was opened : #30451620 buy 0.11 USDJPY at 114.849 sl: 114.611 tp: 115.199
+0	23:00:07.046	'270024006': order buy market 0.06 CHFJPY sl: 122.797 tp: 123.297
+0	23:00:13.030	'270024006': order was opened : #30453691 buy 0.06 CHFJPY at 123.097 sl: 122.797 tp: 123.297
+0	23:58:58.686	'270024006': order buy market 0.11 EURUSD sl: 1.12174 tp: 1.12681
+0	23:58:58.936	'270024006': order was opened : #30468987 buy 0.11 EURUSD at 1.12332 sl: 1.12174 tp: 1.12681

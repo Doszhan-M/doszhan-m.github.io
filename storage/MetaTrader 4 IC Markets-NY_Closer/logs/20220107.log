@@ -1,0 +1,12 @@
+0	09:53:33.646	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 3.13 ms)
+0	09:53:33.724	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 3.13 ms)
+0	09:53:34.052	'270024006': previous successful authorization performed from 37.99.36.237
+0	09:53:43.271	'270024006': ping to current access point NY DC 2 is 2.55 ms
+1	15:35:06.458	'270024006': datacenter connecting failed [6]
+0	15:35:07.067	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 2.97 ms)
+0	15:35:07.364	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 2.97 ms)
+0	15:35:07.630	'270024006': previous successful authorization performed from 195.149.87.163
+0	15:35:25.927	'270024006': auto connecting to a better access point NY DC 2 (ping is 3.20 ms)
+0	15:35:26.521	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 3.20 ms)
+0	15:35:26.662	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 3.20 ms)
+0	15:35:27.005	'270024006': previous successful authorization performed from 195.149.87.163

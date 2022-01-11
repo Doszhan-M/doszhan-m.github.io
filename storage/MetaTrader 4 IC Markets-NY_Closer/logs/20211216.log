@@ -1,0 +1,10 @@
+0	01:39:39.210	'270024006': close order #32247078 sell 0.09 AUDCAD at 0.92112 sl: 0.92423 tp: 0.91923 at price 0.00000
+0	01:39:39.475	'270024006': order #32247078 sell 0.09 AUDCAD at 0.92112 sl: 0.92423 tp: 0.91923 closed at price 0.91997
+0	03:09:30.522	'270024006': close order #32249349 sell 0.09 CHFJPY at 123.343 sl: 123.646 tp: 123.146 at price 0.000
+0	03:09:30.710	'270024006': order #32249349 sell 0.09 CHFJPY at 123.343 sl: 123.646 tp: 123.146 closed at price 123.364
+0	23:00:01.241	'270024006': order sell market 0.17 GBPUSD sl: 1.33541 tp: 1.32895
+0	23:00:01.789	'270024006': order was opened : #32348955 sell 0.17 GBPUSD at 1.33244 sl: 1.33541 tp: 1.32895
+0	23:19:51.553	'270024006': order sell market 0.17 USDJPY sl: 113.923 tp: 113.338
+0	23:19:51.757	'270024006': order was opened : #32358644 sell 0.17 USDJPY at 113.688 sl: 113.923 tp: 113.338
+0	23:30:51.663	'270024006': order sell market 0.09 USDJPY sl: 114.004 tp: 113.504
+0	23:30:51.850	'270024006': order was opened : #32359125 sell 0.09 USDJPY at 113.704 sl: 114.004 tp: 113.504

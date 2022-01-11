@@ -1,0 +1,21 @@
+0	00:00:00.946	'270024006': close order #15848869 buy 0.04 EURUSD at 1.18324 sl: 1.18159 tp: 1.18673 at price 0.00000
+1	00:00:02.461	'270024006': order #15848869 buy 0.04 EURUSD closing at 0.00000 failed [Market is closed]
+0	00:00:11.852	'270024006': close order #15848869 buy 0.04 EURUSD at 1.18324 sl: 1.18159 tp: 1.18673 at price 0.00000
+1	00:00:12.039	'270024006': order #15848869 buy 0.04 EURUSD closing at 0.00000 failed [Market is closed]
+0	00:06:11.196	'270024006': close order #15848869 buy 0.04 EURUSD at 1.18324 sl: 1.18159 tp: 1.18673 at price 0.00000
+0	00:06:11.571	'270024006': order #15848869 buy 0.04 EURUSD at 1.18324 sl: 1.18159 tp: 1.18673 closed at price 1.18324
+0	00:15:29.211	'270024006': order sell market 0.08 USDCHF sl: 0.90976 tp: 0.90476
+0	00:15:29.477	'270024006': order was opened : #15859382 sell 0.08 USDCHF at 0.90676 sl: 0.90976 tp: 0.90476
+0	00:30:40.039	'270024006': close order #15846275 buy 0.04 GBPUSD at 1.39280 sl: 1.38974 tp: 1.39632 at price 0.00000
+0	00:30:40.696	'270024006': order #15846275 buy 0.04 GBPUSD at 1.39280 sl: 1.38974 tp: 1.39632 closed at price 1.39296
+0	00:32:52.322	'270024006': order sell market 0.04 EURUSD sl: 1.18526 tp: 1.18008
+0	00:32:54.227	'270024006': order was opened : #15860486 sell 0.04 EURUSD at 1.18360 sl: 1.18526 tp: 1.18008
+0	00:51:41.149	'270024006': close order #15860486 sell 0.04 EURUSD at 1.18360 sl: 1.18526 tp: 1.18008 at price 0.00000
+0	00:51:41.539	'270024006': order #15860486 sell 0.04 EURUSD at 1.18360 sl: 1.18526 tp: 1.18008 closed at price 1.18328
+0	02:44:12.789	'270024006': close order #15859382 sell 0.08 USDCHF at 0.90676 sl: 0.90976 tp: 0.90476 at price 0.00000
+0	02:44:12.977	'270024006': order #15859382 sell 0.08 USDCHF at 0.90676 sl: 0.90976 tp: 0.90476 closed at price 0.90655
+0	15:30:52.883	'270024006': order #15911675 buy 0.05 USDJPY at 109.817 closed due take-profit at price 110.020
+0	15:32:29.039	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 39.74 ms)
+0	15:32:29.462	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 39.74 ms)
+0	15:32:29.836	'270024006': previous successful authorization performed from 195.149.87.163
+0	15:32:58.118	'270024006': ping to current access point DC_Vir_L27 is 14.84 ms

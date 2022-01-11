@@ -1,0 +1,28 @@
+0	00:04:00.346	'270024006': order buy market 0.04 EURUSD sl: 1.17477 tp: 1.17994
+0	00:04:03.393	'270024006': order was opened : #11903214 buy 0.04 EURUSD at 1.17647 sl: 1.17477 tp: 1.17994
+0	00:21:47.658	'270024006': close order #11903214 buy 0.04 EURUSD at 1.17647 sl: 1.17477 tp: 1.17994 at price 0.00000
+0	00:21:49.612	'270024006': order #11903214 buy 0.04 EURUSD at 1.17647 sl: 1.17477 tp: 1.17994 closed at price 1.17683
+0	00:47:22.127	'270024006': order sell market 0.04 EURUSD sl: 1.17890 tp: 1.17373
+0	00:47:23.283	'270024006': order was opened : #11905820 sell 0.04 EURUSD at 1.17714 sl: 1.17890 tp: 1.17373
+0	02:00:42.689	'270024006': close order #11905820 sell 0.04 EURUSD at 1.17714 sl: 1.17890 tp: 1.17373 at price 0.00000
+0	02:00:42.971	'270024006': order #11905820 sell 0.04 EURUSD at 1.17714 sl: 1.17890 tp: 1.17373 closed at price 1.17717
+1	10:05:31.987	'270024006': datacenter connecting failed [6]
+0	10:05:32.534	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 19.99 ms)
+0	10:05:32.861	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 19.99 ms)
+0	10:05:33.346	'270024006': previous successful authorization performed from 37.99.83.198
+0	10:05:43.799	'270024006': ping to current access point NY DC 1 is 3.27 ms
+0	14:31:27.096	'270024006': order #12031826 sell stop 0.39 EURUSD at 1.17584 activated at price 1.17583
+0	14:31:27.096	'270024006': order #12031905 sell stop 0.39 EURUSD at 1.17584 activated at price 1.17583
+0	14:31:40.689	'270024006': order #11990234 sell stop 0.47 EURUSD at 1.17574 activated at price 1.17571
+0	14:31:50.674	'270024006': order #12031905 sell 0.39 EURUSD at 1.17583 closed due stop-loss at price 1.17562
+0	14:31:50.861	'270024006': order #12031826 sell 0.39 EURUSD at 1.17583 closed due stop-loss at price 1.17562
+0	23:01:20.611	'270024006': order sell market 0.07 USDJPY sl: 0.000 tp: 0.000
+0	23:01:20.815	'270024006': order was opened : #12184997 sell 0.07 USDJPY at 110.556 sl: 0.000 tp: 0.000
+0	23:01:20.815	'270024006': modify order #12184997 sell 0.07 USDJPY at 110.556 sl: 0.000 tp: 0.000 -> sl: 110.856 tp: 110.456
+0	23:01:20.986	'270024006': order #12184997 sell 0.07 USDJPY at 110.556 was modified -> sl: 110.856 tp: 110.456
+0	23:18:10.018	'270024006': close order #12184997 sell 0.07 USDJPY at 110.556 sl: 110.856 tp: 110.456 at price 0.000
+0	23:18:10.284	'270024006': order #12184997 sell 0.07 USDJPY at 110.556 sl: 110.856 tp: 110.456 closed at price 110.530
+0	23:42:48.221	'270024006': order sell market 0.07 USDJPY sl: 0.000 tp: 0.000
+0	23:42:48.455	'270024006': order was opened : #12187286 sell 0.07 USDJPY at 110.557 sl: 0.000 tp: 0.000
+0	23:42:48.455	'270024006': modify order #12187286 sell 0.07 USDJPY at 110.557 sl: 0.000 tp: 0.000 -> sl: 110.858 tp: 110.458
+0	23:42:48.662	'270024006': order #12187286 sell 0.07 USDJPY at 110.557 was modified -> sl: 110.858 tp: 110.458

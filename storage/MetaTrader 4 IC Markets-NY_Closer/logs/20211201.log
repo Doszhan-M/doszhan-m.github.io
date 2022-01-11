@@ -1,0 +1,23 @@
+0	00:05:01.725	'270024006': close order #31133793 sell 0.11 EURUSD at 1.13415 sl: 1.13571 tp: 1.13063 at price 0.00000
+0	00:05:02.085	'270024006': order #31133793 sell 0.11 EURUSD at 1.13415 sl: 1.13571 tp: 1.13063 closed at price 1.13351
+0	00:44:36.913	'270024006': order sell market 0.05 USDJPY sl: 113.486 tp: 112.986
+0	00:44:37.116	'270024006': order was opened : #31149692 sell 0.05 USDJPY at 113.185 sl: 113.486 tp: 112.986
+0	02:02:31.538	'270024006': close order #31144405 sell 0.11 USDJPY at 113.165 sl: 113.399 tp: 112.815 at price 0.000
+0	02:02:31.774	'270024006': order #31144405 sell 0.11 USDJPY at 113.165 sl: 113.399 tp: 112.815 closed at price 113.202
+0	02:17:52.022	'270024006': close order #31149692 sell 0.05 USDJPY at 113.185 sl: 113.486 tp: 112.986 at price 0.000
+0	02:17:52.194	'270024006': order #31149692 sell 0.05 USDJPY at 113.185 sl: 113.486 tp: 112.986 closed at price 113.149
+1	08:40:04.381	'270024006': connect failed [Нет связи]
+0	08:40:48.663	'270024006': login on ICMarketsSC-Live27 through DC_JE_L27 (ping: 337.74 ms)
+0	08:41:55.100	'270024006': login on ICMarketsSC-Live27 through DC_Syd_L27 (ping: 415.23 ms)
+0	08:43:01.444	'270024006': login on ICMarketsSC-Live27 through DC_SEA_L27 (ping: 472.60 ms)
+0	08:44:06.928	'270024006': login on ICMarketsSC-Live27 through DC_SEA_L27 (ping: 472.60 ms)
+1	08:45:12.460	'270024006': connect failed [Нет связи]
+0	08:45:18.663	'270024006': login on ICMarketsSC-Live27 through DC_Syd_L27 (ping: n/a)
+0	08:45:22.960	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Syd_L27 (ping: n/a)
+0	08:45:23.913	'270024006': previous successful authorization performed from 195.149.87.163
+0	08:45:33.616	'270024006': auto connecting to a better access point DC_Vir_L27 (ping is 14.60 ms)
+0	08:45:34.022	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 14.60 ms)
+0	08:45:34.350	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 14.60 ms)
+0	08:45:34.694	'270024006': previous successful authorization performed from 195.149.87.163
+0	23:00:01.194	'270024006': order buy market 0.05 AUDCAD sl: 0.90680 tp: 0.91180
+0	23:00:01.475	'270024006': order was opened : #31247158 buy 0.05 AUDCAD at 0.90983 sl: 0.90680 tp: 0.91180

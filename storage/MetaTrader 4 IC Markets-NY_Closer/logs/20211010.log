@@ -1,0 +1,7 @@
+1	02:26:00.529	'270024006': datacenter connecting failed [6]
+1	02:26:04.138	'270024006': connect failed [Нет связи]
+0	02:53:39.544	'270024006': login on ICMarketsSC-Live27 through DC_SEA_L27 (ping: n/a)
+0	02:54:45.419	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: n/a)
+0	02:54:49.247	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: n/a)
+0	02:54:49.810	'270024006': previous successful authorization performed from 195.149.87.163
+0	02:55:09.685	'270024006': ping to current access point DC_Vir_L27 is 15.44 ms

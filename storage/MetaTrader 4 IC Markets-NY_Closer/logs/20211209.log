@@ -1,0 +1,12 @@
+0	00:47:39.898	'270024006': order sell market 0.08 USDJPY sl: 114.031 tp: 113.531
+0	00:47:40.085	'270024006': order was opened : #31788279 sell 0.08 USDJPY at 113.732 sl: 114.031 tp: 113.531
+0	00:47:40.913	'270024006': order sell market 0.16 USDJPY sl: 113.980 tp: 113.384
+0	00:47:41.069	'270024006': order was opened : #31788286 sell 0.16 USDJPY at 113.734 sl: 113.980 tp: 113.384
+0	01:00:28.773	'270024006': close order #31788286 sell 0.16 USDJPY at 113.734 sl: 113.980 tp: 113.384 at price 0.000
+0	01:00:29.054	'270024006': order #31788286 sell 0.16 USDJPY at 113.734 sl: 113.980 tp: 113.384 closed at price 113.715
+0	01:56:57.241	'270024006': close order #31788279 sell 0.08 USDJPY at 113.732 sl: 114.031 tp: 113.531 at price 0.000
+0	01:56:57.413	'270024006': order #31788279 sell 0.08 USDJPY at 113.732 sl: 114.031 tp: 113.531 closed at price 113.684
+0	03:31:06.291	'270024006': close order #31776168 sell 0.08 EURAUD at 1.58201 sl: 1.58501 tp: 1.58001 at price 0.00000
+0	03:31:06.460	'270024006': order #31776168 sell 0.08 EURAUD at 1.58201 sl: 1.58501 tp: 1.58001 closed at price 1.58212
+0	23:00:01.148	'270024006': order sell market 0.08 AUDCAD sl: 0.91205 tp: 0.90705
+0	23:00:01.429	'270024006': order was opened : #31862510 sell 0.08 AUDCAD at 0.90907 sl: 0.91205 tp: 0.90705

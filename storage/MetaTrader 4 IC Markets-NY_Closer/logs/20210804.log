@@ -1,0 +1,43 @@
+0	00:03:10.883	'270024006': order buy market 0.04 EURUSD sl: 1.18441 tp: 1.18959
+0	00:03:12.868	'270024006': order was opened : #14908523 buy 0.04 EURUSD at 1.18629 sl: 1.18441 tp: 1.18959
+0	00:53:28.524	'270024006': close order #14908523 buy 0.04 EURUSD at 1.18629 sl: 1.18441 tp: 1.18959 at price 0.00000
+0	00:53:28.696	'270024006': order #14908523 buy 0.04 EURUSD at 1.18629 sl: 1.18441 tp: 1.18959 closed at price 1.18632
+0	03:52:31.446	'270024006': close order #14905765 buy 0.16 USDJPY at 109.028 sl: 108.728 tp: 109.128 at price 0.000
+0	03:52:31.508	'270024006': close order #14905776 buy 0.08 USDJPY at 109.028 sl: 108.728 tp: 109.228 at price 0.000
+0	03:52:31.758	'270024006': order #14905765 buy 0.16 USDJPY at 109.028 sl: 108.728 tp: 109.128 closed at price 109.021
+0	03:52:31.774	'270024006': order #14905776 buy 0.08 USDJPY at 109.028 sl: 108.728 tp: 109.228 closed at price 109.021
+0	10:24:07.133	'270024006': order #14987838 buy 0.05 AUDUSD at 0.73966 closed due take-profit at price 0.74163
+0	11:21:25.008	'270024006': order #15035788 sell stop 0.50 EURUSD at 1.18536 activated at price 1.18532
+1	11:38:43.649	'270024006': ping failed
+1	11:38:43.665	'270024006': datacenter connecting failed [6]
+0	11:38:44.336	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 10.26 ms)
+0	11:38:44.758	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 10.26 ms)
+0	11:38:45.196	'270024006': previous successful authorization performed from 95.82.127.50
+0	11:39:05.993	'270024006': ping to current access point NY DC 2 is 10.28 ms
+0	15:15:15.118	'270024006': order #14971840 sell 0.03 USDJPY at 109.054 closed due take-profit at price 108.898
+1	15:17:35.180	'270024006': ping failed
+1	15:17:35.180	'270024006': datacenter connecting failed [6]
+0	15:17:35.727	'270024006': login on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 22.62 ms)
+0	15:17:36.133	'270024006': login datacenter on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 22.62 ms)
+0	15:17:36.555	'270024006': previous successful authorization performed from 195.149.87.163
+0	15:17:45.993	'270024006': auto connecting to a better access point NY DC 2 (ping is 4.56 ms)
+0	15:17:46.431	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 4.56 ms)
+0	15:17:49.883	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 4.56 ms)
+0	15:17:50.336	'270024006': previous successful authorization performed from 195.149.87.163
+1	17:03:35.196	'270024006': ping failed
+1	17:03:35.211	'270024006': datacenter connecting failed [6]
+0	17:03:38.696	'270024006': login on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 25.00 ms)
+0	17:03:39.118	'270024006': login datacenter on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 25.00 ms)
+0	17:03:39.555	'270024006': previous successful authorization performed from 195.149.87.163
+0	17:03:58.433	'270024006': ping to current access point DC_EUS_L27 is 30.05 ms
+1	17:58:42.540	'270024006': ping failed
+0	17:58:43.165	'270024006': login on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 30.05 ms)
+0	17:58:43.602	'270024006': login datacenter on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 30.05 ms)
+0	17:58:44.071	'270024006': previous successful authorization performed from 195.149.87.163
+0	20:39:58.571	'270024006': login on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 30.05 ms)
+0	20:39:58.930	'270024006': login datacenter on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 30.05 ms)
+0	20:39:59.727	'270024006': previous successful authorization performed from 95.82.127.73
+0	20:40:08.414	'270024006': auto connecting to a better access point NY DC 2 (ping is 3.40 ms)
+0	20:40:08.805	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 3.40 ms)
+0	20:40:09.133	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 3.40 ms)
+0	20:40:09.477	'270024006': previous successful authorization performed from 195.149.87.163

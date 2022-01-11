@@ -1,0 +1,32 @@
+0	00:01:25.553	'270024006': order buy market 0.05 USDJPY sl: 112.365 tp: 112.865
+0	00:01:26.366	'270024006': order was opened : #31258171 buy 0.05 USDJPY at 112.671 sl: 112.365 tp: 112.865
+1	00:30:52.413	'270024006': connect failed [Нет связи]
+0	00:31:35.100	'270024006': login on ICMarketsSC-Live27 through DC_CUS_L27 (ping: 79.89 ms)
+0	00:32:41.725	'270024006': login on ICMarketsSC-Live27 through DC_LD_L27 (ping: 149.09 ms)
+0	00:33:48.288	'270024006': login on ICMarketsSC-Live27 through DC_Frank_L27 (ping: 172.60 ms)
+0	00:33:54.897	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Frank_L27 (ping: 172.60 ms)
+0	00:33:55.538	'270024006': previous successful authorization performed from 195.149.87.163
+0	00:34:04.928	'270024006': auto connecting to a better access point NY DC 2 (ping is 7.50 ms)
+0	00:34:05.225	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 7.50 ms)
+0	00:34:10.241	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 7.50 ms)
+0	00:34:10.491	'270024006': previous successful authorization performed from 195.149.87.163
+0	00:55:24.491	'270024006': close order #31258171 buy 0.05 USDJPY at 112.671 sl: 112.365 tp: 112.865 at price 0.000
+0	00:55:25.023	'270024006': order #31258171 buy 0.05 USDJPY at 112.671 sl: 112.365 tp: 112.865 closed at price 112.809
+0	01:50:22.085	'270024006': close order #31247158 buy 0.05 AUDCAD at 0.90983 sl: 0.90680 tp: 0.91180 at price 0.00000
+0	01:50:22.225	'270024006': order #31247158 buy 0.05 AUDCAD at 0.90983 sl: 0.90680 tp: 0.91180 closed at price 0.91076
+1	16:38:50.023	'270024006': datacenter connecting failed [6]
+0	16:38:50.553	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 17.73 ms)
+0	16:38:50.897	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 17.73 ms)
+0	16:38:51.241	'270024006': previous successful authorization performed from 37.99.36.138
+0	16:39:08.397	'270024006': auto connecting to a better access point NY DC 1 (ping is 4.28 ms)
+0	16:39:08.853	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 4.28 ms)
+0	16:39:09.101	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 4.28 ms)
+0	16:39:09.569	'270024006': previous successful authorization performed from 195.149.87.163
+0	23:01:50.538	'270024006': order sell market 0.11 USDJPY sl: 113.421 tp: 112.837
+0	23:01:50.694	'270024006': order was opened : #31358572 sell 0.11 USDJPY at 113.187 sl: 113.421 tp: 112.837
+0	23:04:40.180	'270024006': close order #31358572 sell 0.11 USDJPY at 113.187 sl: 113.421 tp: 112.837 at price 0.000
+0	23:04:40.397	'270024006': order #31358572 sell 0.11 USDJPY at 113.187 sl: 113.421 tp: 112.837 closed at price 113.151
+0	23:42:02.616	'270024006': order sell market 0.05 CHFJPY sl: 123.272 tp: 122.772
+0	23:42:02.819	'270024006': order was opened : #31362270 sell 0.05 CHFJPY at 122.969 sl: 123.272 tp: 122.772
+0	23:45:09.319	'270024006': order sell market 0.11 USDJPY sl: 113.427 tp: 112.841
+0	23:45:09.495	'270024006': order was opened : #31362840 sell 0.11 USDJPY at 113.192 sl: 113.427 tp: 112.841

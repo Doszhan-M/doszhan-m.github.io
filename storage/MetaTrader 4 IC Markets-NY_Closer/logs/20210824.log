@@ -1,0 +1,45 @@
+1	00:30:46.005	'270024006': connect failed [Нет связи]
+0	00:31:22.301	'270024006': login on ICMarketsSC-Live27 through DC_LD_L27 (ping: 146.75 ms)
+0	00:32:28.036	'270024006': login on ICMarketsSC-Live27 through DC_LD_L27 (ping: 146.75 ms)
+0	00:33:33.926	'270024006': login on ICMarketsSC-Live27 through DC_LD_L27 (ping: 146.75 ms)
+0	00:34:40.645	'270024006': login on ICMarketsSC-Live27 through DC_Frank_L27 (ping: 168.62 ms)
+0	00:34:43.442	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Frank_L27 (ping: 168.62 ms)
+0	00:34:44.114	'270024006': previous successful authorization performed from 195.149.87.163
+0	00:35:05.145	'270024006': auto connecting to a better access point NY DC 2 (ping is 6.13 ms)
+0	00:35:05.536	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 6.13 ms)
+0	00:35:05.895	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 6.13 ms)
+0	00:35:06.411	'270024006': previous successful authorization performed from 195.149.87.163
+0	01:00:01.645	'270024006': close order #20386628 sell 0.05 USDJPY at 109.711 sl: 109.940 tp: 109.361 at price 0.000
+0	01:00:02.067	'270024006': order #20386628 sell 0.05 USDJPY at 109.711 sl: 109.940 tp: 109.361 closed at price 109.690
+0	01:00:20.223	'270024006': close order #20385498 buy 0.05 GBPUSD at 1.37262 sl: 1.36959 tp: 1.37612 at price 0.00000
+0	01:00:21.005	'270024006': order #20385498 buy 0.05 GBPUSD at 1.37262 sl: 1.36959 tp: 1.37612 closed at price 1.37243
+0	01:03:39.853	'270024006': close order #20387053 sell 0.09 EURAUD at 1.62843 sl: 1.63142 tp: 1.62642 at price 0.00000
+0	01:03:40.208	'270024006': order #20387053 sell 0.09 EURAUD at 1.62843 sl: 1.63142 tp: 1.62642 closed at price 1.62805
+1	06:22:22.440	'270024006': ping failed
+0	06:22:22.456	'270024006': login datacenter on ICMarketsSC-Live27
+0	06:22:26.066	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 27.40 ms)
+0	06:22:26.753	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 27.40 ms)
+0	06:22:27.206	'270024006': previous successful authorization performed from 195.149.87.163
+0	06:22:36.488	'270024006': auto connecting to a better access point NY DC 1 (ping is 1.65 ms)
+0	06:22:36.847	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.65 ms)
+0	06:22:36.925	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.65 ms)
+0	06:22:37.269	'270024006': previous successful authorization performed from 195.149.87.163
+1	06:24:17.019	'270024006': ping failed
+0	06:24:23.800	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 2.86 ms)
+0	06:24:25.503	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 2.86 ms)
+0	06:24:25.956	'270024006': previous successful authorization performed from 195.149.87.163
+0	10:14:19.081	'270024006': order #20367577 sell 0.10 EURUSD at 1.17436 closed due take-profit at price 1.17381
+0	15:42:08.081	'270024006': order #20451040 buy stop 0.54 EURUSD at 1.17484 activated at price 1.17486
+0	15:42:12.190	'270024006': order #20473708 buy stop 0.65 EURUSD at 1.17489 activated at price 1.17492
+0	15:42:12.190	'270024006': order #20474396 buy stop 0.65 EURUSD at 1.17489 activated at price 1.17492
+0	15:54:04.394	'270024006': order #20473708 buy 0.65 EURUSD at 1.17492 closed due stop-loss at price 1.17535
+0	15:54:04.394	'270024006': order #20474396 buy 0.65 EURUSD at 1.17492 closed due stop-loss at price 1.17535
+0	21:39:33.425	'270024006': order #20561777 buy 0.11 EURUSD at 1.17449 closed due take-profit at price 1.17550
+0	23:00:01.801	'270024006': order sell market 0.05 GBPUSD sl: 1.37619 tp: 1.36964
+0	23:00:02.065	'270024006': order sell market 0.05 EURUSD sl: 1.17738 tp: 1.17225
+0	23:00:04.331	'270024006': order was opened : #20569471 sell 0.05 GBPUSD at 1.37315 sl: 1.37619 tp: 1.36964
+0	23:00:04.878	'270024006': order was opened : #20569613 sell 0.05 EURUSD at 1.17574 sl: 1.17738 tp: 1.17225
+0	23:36:44.691	'270024006': order sell market 0.05 USDJPY sl: 109.924 tp: 109.347
+0	23:36:44.972	'270024006': order was opened : #20580770 sell 0.05 USDJPY at 109.696 sl: 109.924 tp: 109.347
+0	23:39:20.034	'270024006': close order #20569471 sell 0.05 GBPUSD at 1.37315 sl: 1.37619 tp: 1.36964 at price 0.00000
+0	23:39:20.472	'270024006': order #20569471 sell 0.05 GBPUSD at 1.37315 sl: 1.37619 tp: 1.36964 closed at price 1.37287

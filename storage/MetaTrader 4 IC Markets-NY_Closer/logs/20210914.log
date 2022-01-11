@@ -1,0 +1,20 @@
+0	00:41:58.403	'270024006': close order #23108028 sell 0.05 EURUSD at 1.18078 sl: 1.18244 tp: 1.17730 at price 0.00000
+0	00:41:58.966	'270024006': order #23108028 sell 0.05 EURUSD at 1.18078 sl: 1.18244 tp: 1.17730 closed at price 1.18093
+0	01:50:40.935	'270024006': close order #23107560 sell 0.05 GBPUSD at 1.38355 sl: 1.38662 tp: 1.38006 at price 0.00000
+0	01:50:41.106	'270024006': order #23107560 sell 0.05 GBPUSD at 1.38355 sl: 1.38662 tp: 1.38006 closed at price 1.38397
+0	14:24:52.872	'270024006': order #23128322 sell 0.03 EURUSD at 1.18108 closed due stop-loss at price 1.18098
+0	17:18:06.919	'270024006': order #22800275 sell 0.05 USDJPY at 109.868 closed due take-profit at price 109.717
+1	20:43:36.919	'270024006': ping failed
+1	20:43:36.934	'270024006': datacenter connecting failed [6]
+0	20:43:37.638	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 2.89 ms)
+0	20:43:38.013	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 2.89 ms)
+0	20:43:38.528	'270024006': previous successful authorization performed from 37.99.87.116
+0	20:43:50.466	'270024006': auto connecting to a better access point NY DC 1 (ping is 3.79 ms)
+0	20:43:50.966	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 3.79 ms)
+0	20:43:51.122	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 3.79 ms)
+0	20:43:51.450	'270024006': previous successful authorization performed from 195.149.87.163
+0	21:32:20.763	'270024006': order #23310619 sell 0.12 EURUSD at 1.18230 closed due take-profit at price 1.18130
+0	23:00:01.278	'270024006': order sell market 0.05 USDJPY sl: 109.883 tp: 109.306
+0	23:00:01.966	'270024006': order was opened : #23327689 sell 0.05 USDJPY at 109.654 sl: 109.883 tp: 109.306
+0	23:25:35.559	'270024006': order sell market 0.10 AUDCAD sl: 0.93217 tp: 0.92717
+0	23:25:35.731	'270024006': order was opened : #23340972 sell 0.10 AUDCAD at 0.92915 sl: 0.93217 tp: 0.92717

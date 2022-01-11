@@ -1,0 +1,24 @@
+0	00:01:21.777	'270024006': close order #28643087 sell 0.06 GBPUSD at 1.36633 sl: 1.36942 tp: 1.36283 at price 0.00000
+0	00:01:22.074	'270024006': order #28643087 sell 0.06 GBPUSD at 1.36633 sl: 1.36942 tp: 1.36283 closed at price 1.36638
+1	06:32:18.713	'270024006': connect failed [Нет связи]
+0	06:32:43.838	'270024006': login on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 29.32 ms)
+0	06:33:49.619	'270024006': login on ICMarketsSC-Live27 through DC_NCUS_L27 (ping: 71.29 ms)
+0	06:34:55.588	'270024006': login on ICMarketsSC-Live27 through DC_NCUS_L27 (ping: 71.29 ms)
+0	06:34:56.244	'270024006': login datacenter on ICMarketsSC-Live27 through DC_NCUS_L27 (ping: 71.29 ms)
+0	06:34:56.713	'270024006': previous successful authorization performed from 195.149.87.163
+0	06:35:06.838	'270024006': auto connecting to a better access point NY DC 2 (ping is 9.90 ms)
+0	06:35:07.166	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 9.90 ms)
+0	06:35:11.728	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 9.90 ms)
+0	06:35:11.994	'270024006': previous successful authorization performed from 195.149.87.163
+0	22:20:16.947	'270024006': order buy market 0.06 GBPUSD sl: 1.35844 tp: 1.36496
+0	22:20:17.119	'270024006': order was opened : #28765865 buy 0.06 GBPUSD at 1.36146 sl: 1.35844 tp: 1.36496
+0	22:21:51.400	'270024006': order sell market 0.06 USDJPY sl: 114.224 tp: 113.637
+0	22:21:51.697	'270024006': order was opened : #28766102 sell 0.06 USDJPY at 113.987 sl: 114.224 tp: 113.637
+0	22:34:04.134	'270024006': close order #28766102 sell 0.06 USDJPY at 113.987 sl: 114.224 tp: 113.637 at price 0.000
+0	22:34:04.306	'270024006': order #28766102 sell 0.06 USDJPY at 113.987 sl: 114.224 tp: 113.637 closed at price 113.942
+0	22:40:02.291	'270024006': order buy market 0.06 EURUSD sl: 1.15633 tp: 1.16144
+0	22:40:02.494	'270024006': order was opened : #28767851 buy 0.06 EURUSD at 1.15793 sl: 1.15633 tp: 1.16144
+0	23:31:54.041	'270024006': close order #28765865 buy 0.06 GBPUSD at 1.36146 sl: 1.35844 tp: 1.36496 at price 0.00000
+0	23:31:54.478	'270024006': order #28765865 buy 0.06 GBPUSD at 1.36146 sl: 1.35844 tp: 1.36496 closed at price 1.36161
+0	23:51:09.135	'270024006': close order #28767851 buy 0.06 EURUSD at 1.15793 sl: 1.15633 tp: 1.16144 at price 0.00000
+0	23:51:09.338	'270024006': order #28767851 buy 0.06 EURUSD at 1.15793 sl: 1.15633 tp: 1.16144 closed at price 1.15802

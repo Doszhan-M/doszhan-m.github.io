@@ -1,0 +1,41 @@
+0	00:00:21.688	'270024006': order sell market 0.05 USDCAD sl: 1.25755 tp: 1.25046
+1	00:00:21.954	'270024006': order sell 0.05 USDCAD opening at market sl: 1.25755 tp: 1.25046 failed [Market is closed]
+0	00:00:25.251	'270024006': order sell market 0.05 USDCAD sl: 1.25748 tp: 1.25045
+1	00:00:25.485	'270024006': order sell 0.05 USDCAD opening at market sl: 1.25748 tp: 1.25045 failed [Market is closed]
+0	00:00:26.876	'270024006': order sell market 0.05 USDCAD sl: 1.25748 tp: 1.25037
+1	00:00:27.235	'270024006': order sell 0.05 USDCAD opening at market sl: 1.25748 tp: 1.25037 failed [Market is closed]
+0	00:00:28.469	'270024006': order sell market 0.05 USDCAD sl: 1.25750 tp: 1.25045
+1	00:00:28.675	'270024006': order sell 0.05 USDCAD opening at market sl: 1.25750 tp: 1.25045 failed [Market is closed]
+0	00:00:28.704	'270024006': order sell market 0.05 USDCAD sl: 1.25750 tp: 1.25038
+1	00:00:28.938	'270024006': order sell 0.05 USDCAD opening at market sl: 1.25750 tp: 1.25038 failed [Market is closed]
+0	00:00:28.938	'270024006': order sell market 0.05 USDCAD sl: 1.25751 tp: 1.25038
+1	00:00:29.141	'270024006': order sell 0.05 USDCAD opening at market sl: 1.25751 tp: 1.25038 failed [Market is closed]
+0	00:00:31.251	'270024006': order sell market 0.05 USDCAD sl: 1.25746 tp: 1.25035
+1	00:00:31.438	'270024006': order sell 0.05 USDCAD opening at market sl: 1.25746 tp: 1.25035 failed [Market is closed]
+0	00:00:31.532	'270024006': order sell market 0.05 USDCAD sl: 1.25741 tp: 1.25032
+1	00:00:31.797	'270024006': order sell 0.05 USDCAD opening at market sl: 1.25741 tp: 1.25032 failed [Market is closed]
+0	00:35:49.766	'270024006': order sell market 0.05 EURUSD sl: 1.18888 tp: 1.18370
+0	00:35:49.954	'270024006': order was opened : #22168634 sell 0.05 EURUSD at 1.18720 sl: 1.18888 tp: 1.18370
+0	00:54:48.110	'270024006': close order #22168634 sell 0.05 EURUSD at 1.18720 sl: 1.18888 tp: 1.18370 at price 0.00000
+0	00:54:48.594	'270024006': order #22168634 sell 0.05 EURUSD at 1.18720 sl: 1.18888 tp: 1.18370 closed at price 1.18695
+0	01:06:53.469	'270024006': close order #22165190 buy 0.10 USDJPY at 109.829 sl: 109.529 tp: 110.029 at price 0.000
+0	01:06:53.469	'270024006': close order #22165189 buy 0.18 USDJPY at 109.829 sl: 109.528 tp: 109.928 at price 0.000
+0	01:06:53.766	'270024006': order #22165190 buy 0.10 USDJPY at 109.829 sl: 109.529 tp: 110.029 closed at price 109.842
+0	01:06:53.829	'270024006': order #22165189 buy 0.18 USDJPY at 109.829 sl: 109.528 tp: 109.928 closed at price 109.842
+0	03:14:59.240	'270024006': close order #22163913 sell 0.10 EURCAD at 1.48744 sl: 1.49077 tp: 1.48577 at price 0.00000
+0	03:14:59.516	'270024006': order #22163913 sell 0.10 EURCAD at 1.48744 sl: 1.49077 tp: 1.48577 closed at price 1.48764
+0	03:30:58.487	'270024006': order #22153400 buy 0.11 EURUSD at 1.18696 closed due take-profit at price 1.18793
+0	05:42:52.686	'270024006': close order #22164819 sell 0.10 AUDCAD at 0.93201 sl: 0.93504 tp: 0.93004 at price 0.00000
+0	05:42:52.920	'270024006': order #22164819 sell 0.10 AUDCAD at 0.93201 sl: 0.93504 tp: 0.93004 closed at price 0.93265
+0	13:58:07.905	'270024006': order #22245379 sell 0.12 EURUSD at 1.18763 closed due stop-loss at price 1.18752
+0	15:50:53.312	'270024006': order #22258972 sell stop 0.71 EURUSD at 1.18568 activated at price 1.18563
+0	15:50:53.312	'270024006': order #22258498 sell stop 0.71 EURUSD at 1.18568 activated at price 1.18563
+0	15:50:53.780	'270024006': order #22250575 sell stop 0.60 EURUSD at 1.18558 activated at price 1.18557
+0	15:51:00.295	'270024006': order #22258972 sell 0.71 EURUSD at 1.18563 closed due stop-loss at price 1.18541
+0	15:51:00.295	'270024006': order #22258498 sell 0.71 EURUSD at 1.18563 closed due stop-loss at price 1.18541
+0	21:49:15.186	'270024006': order #21756498 buy 0.06 USDJPY at 110.056 closed due take-profit at price 110.264
+0	21:56:46.467	'270024006': order #22079839 sell 0.03 USDJPY at 109.831 closed due stop-loss at price 110.281
+0	23:00:01.577	'270024006': order buy market 0.10 CHFJPY sl: 119.611 tp: 120.111
+0	23:00:03.312	'270024006': order buy market 0.05 GBPUSD sl: 1.37511 tp: 1.38164
+0	23:00:06.452	'270024006': order was opened : #22355898 buy 0.10 CHFJPY at 119.913 sl: 119.611 tp: 120.111
+0	23:00:13.577	'270024006': order was opened : #22357463 buy 0.05 GBPUSD at 1.37815 sl: 1.37511 tp: 1.38164

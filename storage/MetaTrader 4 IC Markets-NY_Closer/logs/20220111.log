@@ -1,0 +1,18 @@
+0	00:09:14.299	'270024006': close order #33518517 sell 0.26 GBPUSD at 1.35785 sl: 1.36086 tp: 1.35437 at price 0.00000
+0	00:09:14.814	'270024006': order #33518517 sell 0.26 GBPUSD at 1.35785 sl: 1.36086 tp: 1.35437 closed at price 1.35782
+0	00:38:49.065	'270024006': close order #33533646 buy 0.26 USDJPY at 115.198 sl: 114.962 tp: 115.549 at price 0.000
+0	00:38:49.345	'270024006': order #33533646 buy 0.26 USDJPY at 115.198 sl: 114.962 tp: 115.549 closed at price 115.217
+0	00:57:40.424	'270024006': close order #33517882 buy 0.06 EURAUD at 1.57818 sl: 1.57521 tp: 1.58021 at price 0.00000
+0	00:57:40.580	'270024006': order #33517882 buy 0.06 EURAUD at 1.57818 sl: 1.57521 tp: 1.58021 closed at price 1.57922
+0	04:47:08.642	System to be shutdown, request for close MetaTrader 4
+0	04:47:08.877	MetaTrader 4 build 1353 stopped because system shutdown
+0	04:49:08.179	MetaTrader 4 build 1353 started (MetaQuotes Software Corp.)
+0	04:49:08.179	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3285 / 4095 Mb, Disk: 33 / 48 Gb, GMT+2
+0	04:49:08.179	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	04:49:11.125	Expert Myfxbook USDCHF,H4: loaded successfully
+0	04:49:12.469	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.98 ms)
+0	04:49:12.578	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.98 ms)
+0	04:49:12.906	'270024006': previous successful authorization performed from 195.149.87.163
+0	04:49:22.062	'270024006': ping to current access point NY DC 1 is 1.89 ms
+2	05:10:16.075	Expert Myfxbook USDCHF,H4: removed
+0	05:10:16.262	MetaTrader 4 build 1353 stopped

@@ -1,0 +1,14 @@
+0	00:41:05.361	'270024006': order sell market 0.06 USDJPY sl: 114.563 tp: 114.063
+0	00:41:05.627	'270024006': order was opened : #30240982 sell 0.06 USDJPY at 114.263 sl: 114.563 tp: 114.063
+0	01:03:18.048	'270024006': close order #30240982 sell 0.06 USDJPY at 114.263 sl: 114.563 tp: 114.063 at price 0.000
+0	01:03:18.173	'270024006': order #30240982 sell 0.06 USDJPY at 114.263 sl: 114.563 tp: 114.063 closed at price 114.238
+1	11:35:13.439	'270024006': connect failed [Нет связи]
+0	11:39:30.829	'270024006': login on ICMarketsSC-Live27 through DC_BS_L27 (ping: n/a)
+0	11:40:37.361	'270024006': login on ICMarketsSC-Live27 through DC_BS_L27 (ping: n/a)
+0	11:41:43.564	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: n/a)
+0	11:41:47.704	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: n/a)
+0	11:41:48.017	'270024006': previous successful authorization performed from 195.149.87.163
+0	11:41:59.048	'270024006': auto connecting to a better access point DC_Vir_L27 (ping is 14.66 ms)
+0	11:41:59.564	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 14.66 ms)
+0	11:42:04.095	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 14.66 ms)
+0	11:42:04.376	'270024006': previous successful authorization performed from 195.149.87.163

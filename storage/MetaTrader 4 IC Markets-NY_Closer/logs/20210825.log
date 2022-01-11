@@ -1,0 +1,12 @@
+0	00:01:54.693	'270024006': close order #20569613 sell 0.05 EURUSD at 1.17574 sl: 1.17738 tp: 1.17225 at price 0.00000
+0	00:01:54.972	'270024006': order #20569613 sell 0.05 EURUSD at 1.17574 sl: 1.17738 tp: 1.17225 closed at price 1.17578
+0	00:21:14.878	'270024006': close order #20580770 sell 0.05 USDJPY at 109.696 sl: 109.924 tp: 109.347 at price 0.000
+0	00:21:15.253	'270024006': order #20580770 sell 0.05 USDJPY at 109.696 sl: 109.924 tp: 109.347 closed at price 109.675
+0	14:09:08.894	'270024006': order #20345312 buy 0.03 USDJPY at 109.741 closed due take-profit at price 109.906
+0	15:38:39.175	'270024006': order #20672532 sell stop 0.68 EURUSD at 1.17282 activated at price 1.17280
+0	15:38:39.175	'270024006': order #20672693 sell stop 0.68 EURUSD at 1.17282 activated at price 1.17280
+0	16:58:41.425	'270024006': order #20672693 sell 0.68 EURUSD at 1.17280 closed due stop-loss at price 1.17476
+0	16:58:41.425	'270024006': order #20672532 sell 0.68 EURUSD at 1.17280 closed due stop-loss at price 1.17480
+0	21:10:59.050	'270024006': order #20719602 buy stop 1.22 EURUSD at 1.17638 activated at price 1.17639
+0	21:11:18.992	'270024006': order #20719602 buy 1.22 EURUSD at 1.17639 closed due stop-loss at price 1.17665
+0	21:13:25.176	'270024006': order #20759893 buy 0.10 EURUSD at 1.17597 closed due take-profit at price 1.17704

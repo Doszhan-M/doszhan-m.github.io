@@ -1,0 +1,8 @@
+0	18:09:06.606	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 2.83 ms)
+0	18:09:06.699	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 2.83 ms)
+0	18:09:06.996	'270024006': previous successful authorization performed from 37.99.42.87
+0	18:09:27.058	'270024006': ping to current access point NY DC 2 is 4.04 ms
+0	23:30:25.574	'270024006': order sell market 0.11 USDJPY sl: 115.637 tp: 115.049
+0	23:30:25.730	'270024006': order was opened : #30765603 sell 0.11 USDJPY at 115.392 sl: 115.637 tp: 115.049
+0	23:30:33.699	'270024006': order sell market 0.06 AUDCAD sl: 0.91250 tp: 0.90750
+0	23:30:33.902	'270024006': order was opened : #30765636 sell 0.06 AUDCAD at 0.90946 sl: 0.91250 tp: 0.90750

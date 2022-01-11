@@ -1,0 +1,15 @@
+0	00:03:46.501	'270024006': order buy market 0.05 EURAUD sl: 1.59951 tp: 1.60739
+0	00:03:47.266	'270024006': order was opened : #21883088 buy 0.05 EURAUD at 1.60407 sl: 1.59951 tp: 1.60739
+0	00:36:53.065	'270024006': close order #21883088 buy 0.05 EURAUD at 1.60407 sl: 1.59951 tp: 1.60739 at price 0.00000
+0	00:36:53.360	'270024006': order #21883088 buy 0.05 EURAUD at 1.60407 sl: 1.59951 tp: 1.60739 closed at price 1.60426
+0	04:01:55.535	'270024006': order #21487004 sell 0.03 USDJPY at 110.053 closed due take-profit at price 109.869
+0	13:00:54.063	'270024006': order #21889955 sell 0.10 EURUSD at 1.18738 closed due stop-loss at price 1.18718
+0	15:17:38.563	'270024006': order #21919366 sell limit 0.06 AUDUSD at 0.74428 activated at price 0.74434
+0	15:30:05.329	'270024006': order #21953129 buy stop 0.69 EURUSD at 1.18830 activated at price 1.18910
+0	15:30:05.329	'270024006': order #21953196 buy stop 0.69 EURUSD at 1.18830 activated at price 1.18910
+0	15:30:14.985	'270024006': order #21953129 buy 0.69 EURUSD at 1.18910 closed due stop-loss at price 1.18976
+0	15:30:16.923	'270024006': order #21953196 buy 0.69 EURUSD at 1.18910 closed due stop-loss at price 1.18976
+0	23:00:01.376	'270024006': order sell market 0.18 USDJPY sl: 0.000 tp: 0.000
+0	23:00:02.220	'270024006': order was opened : #22042600 sell 0.18 USDJPY at 109.689 sl: 0.000 tp: 0.000
+0	23:00:02.220	'270024006': modify order #22042600 sell 0.18 USDJPY at 109.689 sl: 0.000 tp: 0.000 -> sl: 109.989 tp: 109.589
+0	23:00:05.063	'270024006': order #22042600 sell 0.18 USDJPY at 109.689 was modified -> sl: 109.989 tp: 109.589

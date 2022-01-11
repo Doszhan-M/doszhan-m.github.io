@@ -1,0 +1,24 @@
+0	00:00:00.332	'270024006': close order #13746821 buy 0.04 EURUSD at 1.18857 sl: 1.18692 tp: 1.19207 at price 0.00000
+1	00:00:01.264	'270024006': order #13746821 buy 0.04 EURUSD closing at 0.00000 failed [Market is closed]
+0	00:00:31.061	'270024006': close order #13746821 buy 0.04 EURUSD at 1.18857 sl: 1.18692 tp: 1.19207 at price 0.00000
+1	00:00:31.233	'270024006': order #13746821 buy 0.04 EURUSD closing at 0.00000 failed [Market is closed]
+0	00:00:31.827	'270024006': close order #13746821 buy 0.04 EURUSD at 1.18857 sl: 1.18692 tp: 1.19207 at price 0.00000
+1	00:00:31.999	'270024006': order #13746821 buy 0.04 EURUSD closing at 0.00000 failed [Market is closed]
+0	00:00:40.374	'270024006': close order #13746821 buy 0.04 EURUSD at 1.18857 sl: 1.18692 tp: 1.19207 at price 0.00000
+1	00:00:40.561	'270024006': order #13746821 buy 0.04 EURUSD closing at 0.00000 failed [Market is closed]
+0	00:00:53.561	'270024006': close order #13746821 buy 0.04 EURUSD at 1.18857 sl: 1.18692 tp: 1.19207 at price 0.00000
+1	00:00:53.717	'270024006': order #13746821 buy 0.04 EURUSD closing at 0.00000 failed [Market is closed]
+0	00:01:31.921	'270024006': close order #13746821 buy 0.04 EURUSD at 1.18857 sl: 1.18692 tp: 1.19207 at price 0.00000
+0	00:01:32.124	'270024006': order #13746821 buy 0.04 EURUSD at 1.18857 sl: 1.18692 tp: 1.19207 closed at price 1.18882
+0	00:54:04.249	'270024006': close order #13751275 sell 0.04 USDJPY at 109.478 sl: 109.710 tp: 109.128 at price 0.000
+0	00:54:04.421	'270024006': order #13751275 sell 0.04 USDJPY at 109.478 sl: 109.710 tp: 109.128 closed at price 109.478
+0	01:00:00.358	'270024006': close order #13744667 buy 0.03 CHFJPY at 120.799 sl: 120.497 tp: 120.997 at price 0.000
+0	01:00:00.624	'270024006': order #13744667 buy 0.03 CHFJPY at 120.799 sl: 120.497 tp: 120.997 closed at price 120.826
+0	01:00:18.389	'270024006': close order #13744509 buy 0.04 GBPUSD at 1.39636 sl: 1.39322 tp: 1.39981 at price 0.00000
+0	01:00:18.811	'270024006': order #13744509 buy 0.04 GBPUSD at 1.39636 sl: 1.39322 tp: 1.39981 closed at price 1.39601
+0	01:08:07.390	'270024006': close order #13747086 sell 0.03 EURAUD at 1.60749 sl: 1.61047 tp: 1.60547 at price 0.00000
+0	01:08:07.608	'270024006': order #13747086 sell 0.03 EURAUD at 1.60749 sl: 1.61047 tp: 1.60547 closed at price 1.60691
+0	23:49:20.936	'270024006': order buy market 0.08 USDJPY sl: 0.000 tp: 0.000
+0	23:49:21.155	'270024006': order was opened : #14096635 buy 0.08 USDJPY at 109.678 sl: 0.000 tp: 0.000
+0	23:49:21.155	'270024006': modify order #14096635 buy 0.08 USDJPY at 109.678 sl: 0.000 tp: 0.000 -> sl: 109.378 tp: 109.778
+0	23:49:21.358	'270024006': order #14096635 buy 0.08 USDJPY at 109.678 was modified -> sl: 109.378 tp: 109.778

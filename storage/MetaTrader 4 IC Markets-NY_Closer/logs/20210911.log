@@ -1,0 +1,24 @@
+1	00:32:14.045	'270024006': connect failed [Нет связи]
+0	00:32:49.170	'270024006': login on ICMarketsSC-Live27 through DC_NCUS_L27 (ping: 80.39 ms)
+0	00:33:55.561	'270024006': login on ICMarketsSC-Live27 through DC_CUS_L27 (ping: 99.62 ms)
+0	00:34:59.436	'270024006': login on ICMarketsSC-Live27 through DC_CUS_L27 (ping: 99.62 ms)
+0	00:35:00.202	'270024006': login datacenter on ICMarketsSC-Live27 through DC_CUS_L27 (ping: 99.62 ms)
+0	00:35:00.780	'270024006': previous successful authorization performed from 195.149.87.163
+0	00:35:11.498	'270024006': auto connecting to a better access point NY DC 2 (ping is 6.02 ms)
+0	00:35:11.967	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 6.02 ms)
+0	00:35:13.686	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 6.02 ms)
+0	00:35:14.061	'270024006': previous successful authorization performed from 195.149.87.163
+1	17:29:43.233	'270024006': connect failed [Нет связи]
+0	17:33:45.108	'270024006': login on ICMarketsSC-Live27 through DC_Syd_L27 (ping: n/a)
+0	17:33:57.530	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Syd_L27 (ping: n/a)
+0	17:33:58.561	'270024006': previous successful authorization performed from 213.109.220.17
+0	17:34:12.358	'270024006': auto connecting to a better access point NY DC 1 (ping is 4.79 ms)
+0	17:34:12.749	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 4.79 ms)
+0	17:34:12.842	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 4.79 ms)
+0	17:34:13.202	'270024006': previous successful authorization performed from 195.149.87.163
+1	17:41:51.577	'270024006': datacenter connecting failed [6]
+1	17:41:52.030	'270024006': connect failed [Нет связи]
+0	17:42:11.436	'270024006': login on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 29.02 ms)
+0	17:43:17.280	'270024006': login on ICMarketsSC-Live27 through DC_NCUS_L27 (ping: 70.87 ms)
+0	17:43:18.983	'270024006': login datacenter on ICMarketsSC-Live27 through DC_NCUS_L27 (ping: 70.87 ms)
+0	17:43:19.577	'270024006': previous successful authorization performed from 195.149.87.163
