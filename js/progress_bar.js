@@ -1,4 +1,4 @@
-// заполнение програсса 
+// заполнение прогресса 
 function moveProgress(progress_elem_id, percent_elem_id, progress) {
     var progress_elem = document.getElementById(progress_elem_id);
     var percent_elem = document.getElementById(percent_elem_id);
@@ -15,7 +15,7 @@ function moveProgress(progress_elem_id, percent_elem_id, progress) {
     }
 }
 
-// убывание програсса 
+// убывание прогресса 
 function unMoveProgress(progress_elem_id, percent_elem_id, progress) {
     var progress_elem = document.getElementById(progress_elem_id);
     var percent_elem = document.getElementById(percent_elem_id);
