@@ -1,9 +1,0 @@
-inpBaseLot=0.01
-inpUseEquity=false
-inpRecoveryAggression=0.3
-inpMaxLot=15.0
-inpMagic=545454
-inpMaxSpread=100
-inpHiddenStops=false
-inpComment=Steady
-inpShowDashboard=true

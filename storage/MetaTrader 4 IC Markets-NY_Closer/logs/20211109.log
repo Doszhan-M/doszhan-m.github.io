@@ -1,6 +1,0 @@
-0	01:48:45.102	'270024006': order sell market 0.06 USDJPY sl: 113.506 tp: 112.920
-0	01:48:45.273	'270024006': order was opened : #29275586 sell 0.06 USDJPY at 113.270 sl: 113.506 tp: 112.920
-0	01:56:04.086	'270024006': close order #29268902 buy 0.08 EURCAD at 1.44161 sl: 1.43861 tp: 1.44361 at price 0.00000
-0	01:56:04.351	'270024006': order #29268902 buy 0.08 EURCAD at 1.44161 sl: 1.43861 tp: 1.44361 closed at price 1.44198
-0	02:00:20.211	'270024006': close order #29275586 sell 0.06 USDJPY at 113.270 sl: 113.506 tp: 112.920 at price 0.000
-0	02:00:20.367	'270024006': order #29275586 sell 0.06 USDJPY at 113.270 sl: 113.506 tp: 112.920 closed at price 113.242

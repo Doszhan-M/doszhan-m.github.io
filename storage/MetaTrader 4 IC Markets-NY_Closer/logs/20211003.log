@@ -1,6 +1,0 @@
-1	02:24:55.283	'270024006': ping failed
-1	02:24:58.940	'270024006': connect failed [Нет связи]
-0	03:09:47.877	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: n/a)
-0	03:09:59.096	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: n/a)
-0	03:09:59.424	'270024006': previous successful authorization performed from 195.149.87.163
-0	03:10:08.206	'270024006': ping to current access point NY DC 2 is 3.60 ms

@@ -1,6 +1,0 @@
-0	00:31:43.680	'270024006': order sell market 0.04 EURUSD sl: 1.17967 tp: 1.17450
-0	00:31:44.351	'270024006': order was opened : #9177310 sell 0.04 EURUSD at 1.17814 sl: 1.17967 tp: 1.17450
-0	01:00:00.929	'270024006': close order #9177310 sell 0.04 EURUSD at 1.17814 sl: 1.17967 tp: 1.17450 at price 0.00000
-0	01:00:01.367	'270024006': order #9177310 sell 0.04 EURUSD at 1.17814 sl: 1.17967 tp: 1.17450 closed at price 1.17771
-0	17:00:11.945	'270024006': order #8843457 sell 0.06 USDCAD at 1.24612 closed due take-profit at price 1.24406
-0	17:01:57.383	'270024006': order #9295530 buy 0.06 USDJPY at 110.507 closed due stop-loss at price 110.057
