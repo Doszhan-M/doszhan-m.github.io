@@ -1,0 +1,23 @@
+1	16:28:19.929	'270024006': ping failed
+1	16:28:19.945	'270024006': datacenter connecting failed [6]
+0	16:28:20.491	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.37 ms)
+0	16:28:20.632	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.37 ms)
+0	16:28:20.991	'270024006': previous successful authorization performed from 37.99.45.68
+0	16:28:30.195	'270024006': ping to current access point NY DC 1 is 2.72 ms
+0	16:31:00.304	System to be shutdown, request for close MetaTrader 4
+0	16:31:00.507	MetaTrader 4 build 1353 stopped because system shutdown
+0	16:38:22.046	MetaTrader 4 build 1353 started (MetaQuotes Software Corp.)
+0	16:38:22.046	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3202 / 4095 Mb, Disk: 33 / 48 Gb, GMT+2
+0	16:38:22.046	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	16:38:25.507	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	16:38:25.704	Expert NY Close Scalper v3.1 GBPUSD,M5: loaded successfully
+2	16:38:25.896	Expert NY Close Scalper v3.1 USDJPY,M5: loaded successfully
+2	16:38:26.087	Expert NY Close Scalper v3.1 USDCAD,M5: loaded successfully
+2	16:38:26.283	Expert NY Close Scalper v3.1 EURAUD,M5: loaded successfully
+2	16:38:26.430	Expert NY Close Scalper v3.1 EURCAD,M5: loaded successfully
+2	16:38:26.547	Expert FX NightScalper_JD USDJPY,M15: loaded successfully
+2	16:38:26.604	Expert Myfxbook USDCHF,H4: loaded successfully
+2	16:38:26.676	Expert Happy Monday v1.32 EURUSD,M15: loaded successfully
+0	16:38:27.911	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 2.72 ms)
+0	16:38:28.036	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 2.72 ms)
+0	16:38:28.286	'270024006': previous successful authorization performed from 195.149.87.163

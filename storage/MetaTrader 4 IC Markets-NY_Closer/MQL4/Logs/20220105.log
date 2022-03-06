@@ -1,0 +1,25 @@
+0	09:14:51.896	NY Close Scalper v3.1 EURUSD,M5: uninit reason 5
+0	09:14:51.911	NY Close Scalper v3.1 EURUSD,M5: AccountName: |Mengaliyev Doszhan| AccountNumber: 270024006 | IsDemo: false | AccountCompany: Raw Trading Ltd
+0	09:14:51.927	NY Close Scalper v3.1 EURUSD,M5 inputs: d1=#------------------------------ General Trade Settings ------------------------------#; orderComment=NYcloser; magicNumber=111; halfRiskExceptSunday=false; lotType=0; fixLots=0.01; lotStep=0.3; equityPerStep=1000.0; neverReduceLotSize=true; equityHardStop=0.0; dailyEquityStopPercentage=0.0; pipInPoints=10; slippagePoints=15; maxSpreadPips=-1.0; maxPositionsAllSymbols=2; stopLoss=-1.0; addEntryPips=0.0; addExitPips=0.0; d2=#------------------------------ Time Settings ------------------------------#; d3=If autoGMT=false (and in backtests) manual values are used.; autoGMT=true; manualGMToffsetWinter=2; manualGMToffsetSummer=3; skipSunday=false; d4=Time settings are automatically adjusted for DST in summer.; startHourGMTwinter=-1; endHourGMTwinter=-1; waitMinutesBetweenSameSideEntry=15; waitMinutesAfterLargeLoss=90; lossFractionOfSL=0.5; dontTradeTripleNegativeSwap=true; tripleSwapDay=-1; swapHourGMT=22; stopDayDecember=23; startDayJanuary=7; useNewsFilter=true; filterCentralBankEvents=true; 
+0	09:14:51.958	NY Close Scalper v3.1 EURUSD,M5: symbolCurrencies: {EUR, USD}
+0	09:14:51.958	NY Close Scalper v3.1 EURUSD,M5: symbolCurrenciesUpper: {EUR, USD}
+0	09:14:52.145	NY Close Scalper v3.1 EURUSD,M5: Wednesday, 05-Jan-2022 07:14:51 GMT
+0	09:14:52.145	NY Close Scalper v3.1 EURUSD,M5: GMT offset from server: 2 | serverTimeGMT: 2022.01.05 07:14:51 | broker: 2022.01.05 09:14:51 | MT4 GMT: 2022.01.05 07:14:52 | local: 2022.01.05 09:14:52
+0	09:14:52.209	NY Close Scalper v3.1 EURUSD,M5: Using auto settings for EURUSD.
+0	09:14:52.552	NY Close Scalper v3.1 EURUSD,M5: Average slippage calculated from files | market: -0.47 | TP: 0.00 | SL: -9.50 | execution time: 912.0 ms
+0	09:14:52.552	NY Close Scalper v3.1 EURUSD,M5: Chart history loaded from file for EURUSD. Timestamp: 2022.01.05 07:10:00
+0	09:14:52.880	NY Close Scalper v3.1 EURUSD,M5: Triple swap day: 3 | Wednesday
+0	09:14:52.880	NY Close Scalper v3.1 EURUSD,M5: EventSetTimer() successful.
+0	09:14:52.880	NY Close Scalper v3.1 EURUSD,M5: initialized
+0	19:00:00.630	NY Close Scalper v3.1 GBPUSD,M5: 2022.01.05 17:00:00 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:00:00.630	NY Close Scalper v3.1 GBPUSD,M5: Average slippage calculated from files | market: -0.40 | TP: 0.00 | SL: 0.00 | execution time: 868.9 ms
+0	19:00:00.849	NY Close Scalper v3.1 EURAUD,M5: 2022.01.05 17:00:00 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:00:00.849	NY Close Scalper v3.1 EURAUD,M5: Average slippage calculated from files | market: -3.10 | TP: 0.00 | SL: 0.00 | execution time: 242.5 ms
+0	19:00:00.974	NY Close Scalper v3.1 EURCAD,M5: 2022.01.05 17:00:00 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:00:00.974	NY Close Scalper v3.1 EURCAD,M5: Average slippage calculated from files | market: -3.10 | TP: 0.00 | SL: 0.00 | execution time: 242.5 ms
+0	19:00:01.208	NY Close Scalper v3.1 USDCAD,M5: 2022.01.05 17:00:00 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:00:01.208	NY Close Scalper v3.1 USDCAD,M5: Average slippage calculated from files | market: -1.48 | TP: 0.00 | SL: 0.00 | execution time: 312.5 ms
+0	19:00:01.239	NY Close Scalper v3.1 USDJPY,M5: 2022.01.05 17:00:00 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:00:01.239	NY Close Scalper v3.1 USDJPY,M5: Average slippage calculated from files | market: -0.07 | TP: 0.00 | SL: 0.00 | execution time: 701.4 ms
+0	19:00:01.661	NY Close Scalper v3.1 EURUSD,M5: 2022.01.05 17:00:01 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:00:01.661	NY Close Scalper v3.1 EURUSD,M5: Average slippage calculated from files | market: -0.47 | TP: 0.00 | SL: -9.50 | execution time: 912.0 ms

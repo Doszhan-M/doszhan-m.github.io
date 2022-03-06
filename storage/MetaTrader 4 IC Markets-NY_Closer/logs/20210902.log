@@ -1,0 +1,9 @@
+0	03:15:08.938	'270024006': close order #21711844 sell 0.18 USDJPY at 110.062 sl: 110.362 tp: 109.962 at price 0.000
+0	03:15:09.142	'270024006': order #21711844 sell 0.18 USDJPY at 110.062 sl: 110.362 tp: 109.962 closed at price 110.029
+0	13:57:26.704	'270024006': order #21766478 buy stop 0.57 EURUSD at 1.18555 activated at price 1.18555
+0	14:26:25.344	'270024006': order #21743857 buy 0.03 EURUSD at 1.18346 closed due stop-loss at price 1.18466
+0	16:44:43.985	'270024006': order #21793713 buy stop 0.63 EURUSD at 1.18560 activated at price 1.18562
+0	16:44:43.985	'270024006': order #21793521 buy stop 0.63 EURUSD at 1.18560 activated at price 1.18562
+0	16:46:20.891	'270024006': order #21793521 buy 0.63 EURUSD at 1.18562 closed due stop-loss at price 1.18598
+0	16:47:33.172	'270024006': order #21793713 buy 0.63 EURUSD at 1.18562 closed due stop-loss at price 1.18602
+0	17:46:55.047	'270024006': order #21756497 sell 0.07 USDCAD at 1.25966 closed due take-profit at price 1.25770

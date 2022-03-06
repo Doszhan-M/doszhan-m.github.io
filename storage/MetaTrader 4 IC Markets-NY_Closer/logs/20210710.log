@@ -1,0 +1,29 @@
+0	19:45:54.139	Migration: data to 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer' migration started
+0	19:45:54.139	Migration: data migration finished, no virtual folder
+0	19:45:54.139	LiveUpdate: update C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4 folder started
+0	19:45:54.264	LiveUpdate: update C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4 folder finished
+0	19:45:54.436	IC Markets (SC) MT4 build 1335 started (True ECN Trading Ltd)
+0	19:45:54.436	Windows Server 2012 R2 Standard x64, IE 11, RDP, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3183 / 4095 Mb, Disk: 32 / 48 Gb, GMT+2
+0	19:45:54.436	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+0	19:45:56.889	Sources recompilation started
+0	19:46:18.467	Sources recompilation finished (24 compiled in 21578 msec)
+0	19:51:32.311	IC Markets (SC) MT4 build 1335 stopped
+0	19:51:47.873	IC Markets (SC) MT4 build 1335 started (True ECN Trading Ltd)
+0	19:51:47.873	Windows Server 2012 R2 Standard x64, IE 11, RDP, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3183 / 4095 Mb, Disk: 32 / 48 Gb, GMT+2
+0	19:51:47.873	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+1	19:53:43.264	'270024006': connect failed [Нет связи]
+0	19:54:08.014	'270024006': login on ICMarketsSC-Live27
+0	19:54:08.342	'270024006': previous successful authorization performed from 37.99.32.23
+0	19:54:17.373	'270024006': ping to current access point NY DC 1 is 1.97 ms
+2	21:16:35.123	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	21:17:19.311	Expert NY Close Scalper v3.1 EURUSD,M5: removed
+2	21:19:25.686	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	21:20:04.389	Expert NY Close Scalper v3.1 EURUSD,M5: removed
+2	21:21:07.076	Expert Myfxbook EURUSD,M5: loaded successfully
+2	21:21:08.451	Expert Myfxbook EURUSD,M5: removed
+2	21:21:09.486	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	21:21:53.936	Expert NY Close Scalper v3.1 GBPUSD,M5: loaded successfully
+2	21:22:57.826	Expert NY Close Scalper v3.1 USDCAD,H1: loaded successfully
+2	21:23:34.952	Expert NY Close Scalper v3.1 USDJPY,M5: loaded successfully
+2	21:24:28.248	Expert NY Close Scalper v3.1 EURAUD,M5: loaded successfully
+2	21:24:58.920	Expert NY Close Scalper v3.1 EURCAD,M5: loaded successfully

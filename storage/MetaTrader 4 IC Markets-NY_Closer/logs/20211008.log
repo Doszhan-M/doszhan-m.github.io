@@ -1,0 +1,35 @@
+0	00:05:39.700	'270024006': close order #26336875 sell 0.06 USDJPY at 111.641 sl: 111.873 tp: 111.291 at price 0.000
+0	00:05:39.919	'270024006': order #26336875 sell 0.06 USDJPY at 111.641 sl: 111.873 tp: 111.291 closed at price 111.627
+0	00:58:55.263	'270024006': order sell market 0.06 EURUSD sl: 1.15733 tp: 1.15219
+0	00:58:56.279	'270024006': order was opened : #26345294 sell 0.06 EURUSD at 1.15564 sl: 1.15733 tp: 1.15219
+0	01:23:19.825	'270024006': close order #26336874 buy 0.06 GBPUSD at 1.36151 sl: 1.35846 tp: 1.36501 at price 0.00000
+0	01:23:20.076	'270024006': order #26336874 buy 0.06 GBPUSD at 1.36151 sl: 1.35846 tp: 1.36501 closed at price 1.36155
+0	01:57:37.810	'270024006': close order #26345294 sell 0.06 EURUSD at 1.15564 sl: 1.15733 tp: 1.15219 at price 0.00000
+0	01:57:38.075	'270024006': order #26345294 sell 0.06 EURUSD at 1.15564 sl: 1.15733 tp: 1.15219 closed at price 1.15546
+1	03:43:25.544	'270024006': connect failed [Нет связи]
+0	03:44:16.622	'270024006': login on ICMarketsSC-Live27 through DC_BS_L27 (ping: 240.03 ms)
+0	03:45:23.294	'270024006': login on ICMarketsSC-Live27 through DC_JE_L27 (ping: 344.39 ms)
+0	03:45:29.700	'270024006': login datacenter on ICMarketsSC-Live27 through DC_JE_L27 (ping: 344.39 ms)
+0	03:45:30.935	'270024006': previous successful authorization performed from 195.149.87.163
+0	03:45:52.279	'270024006': auto connecting to a better access point NY DC 2 (ping is 8.80 ms)
+0	03:45:52.732	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 8.80 ms)
+0	03:45:53.107	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 8.80 ms)
+0	03:45:53.575	'270024006': previous successful authorization performed from 195.149.87.163
+0	14:06:59.607	'270024006': order #26346978 buy 0.04 EURUSD at 1.15548 closed due stop-loss at price 1.15601
+0	15:30:04.702	'270024006': order #26401451 buy stop 0.43 EURUSD at 1.15709 activated at price 1.15811
+0	15:30:04.732	'270024006': order #26401503 buy stop 0.43 EURUSD at 1.15709 activated at price 1.15811
+0	15:30:14.778	'270024006': order #26401503 buy 0.43 EURUSD at 1.15811 closed due stop-loss at price 1.15812
+0	15:30:14.778	'270024006': order #26401451 buy 0.43 EURUSD at 1.15811 closed due stop-loss at price 1.15812
+1	15:32:28.607	'270024006': datacenter connecting failed [6]
+0	15:32:29.232	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 20.89 ms)
+0	15:32:29.622	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 20.89 ms)
+0	15:32:30.232	'270024006': previous successful authorization performed from 37.99.44.87
+0	15:32:57.700	'270024006': auto connecting to a better access point DC_EUS_L27 (ping is 25.94 ms)
+0	15:32:58.185	'270024006': login on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 25.94 ms)
+0	15:32:58.622	'270024006': login datacenter on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 25.94 ms)
+0	15:32:59.091	'270024006': previous successful authorization performed from 195.149.87.163
+1	15:34:38.716	'270024006': ping failed
+1	15:34:38.716	'270024006': datacenter connecting failed [6]
+0	15:34:39.609	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 13.95 ms)
+0	15:34:40.294	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 13.95 ms)
+0	15:34:40.888	'270024006': previous successful authorization performed from 195.149.87.163

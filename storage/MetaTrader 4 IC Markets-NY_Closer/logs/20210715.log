@@ -1,0 +1,11 @@
+0	16:28:39.898	'270024006': order #9795826 sell 0.11 USDJPY at 110.078 closed due take-profit at price 109.919
+0	23:00:00.007	'270024006': order sell market 0.04 EURUSD sl: 1.18291 tp: 1.17777
+0	23:00:00.306	'270024006': order sell market 0.04 GBPUSD sl: 1.38546 tp: 1.37892
+0	23:00:00.617	'270024006': order was opened : #9911673 sell 0.04 EURUSD at 1.18127 sl: 1.18291 tp: 1.17777
+0	23:00:00.914	'270024006': order was opened : #9912024 sell 0.04 GBPUSD at 1.38225 sl: 1.38546 tp: 1.37892
+0	23:02:59.664	'270024006': order buy market 0.04 USDJPY sl: 109.558 tp: 110.137
+0	23:02:59.914	'270024006': order was opened : #9916125 buy 0.04 USDJPY at 109.788 sl: 109.558 tp: 110.137
+0	23:27:19.461	'270024006': close order #9916125 buy 0.04 USDJPY at 109.788 sl: 109.558 tp: 110.137 at price 0.000
+0	23:27:19.711	'270024006': order #9916125 buy 0.04 USDJPY at 109.788 sl: 109.558 tp: 110.137 closed at price 109.814
+0	23:55:41.632	'270024006': order sell market 0.04 USDJPY sl: 110.067 tp: 109.485
+0	23:55:41.851	'270024006': order was opened : #9921200 sell 0.04 USDJPY at 109.835 sl: 110.067 tp: 109.485

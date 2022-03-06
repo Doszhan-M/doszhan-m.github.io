@@ -1,0 +1,8 @@
+0	00:10:12.851	'270024006': close order #31662960 sell 0.12 GBPUSD at 1.32432 sl: 1.32725 tp: 1.32080 at price 0.00000
+0	00:10:13.039	'270024006': order #31662960 sell 0.12 GBPUSD at 1.32432 sl: 1.32725 tp: 1.32080 closed at price 1.32395
+0	00:24:03.804	'270024006': close order #31662801 buy 0.08 USDJPY at 113.486 sl: 113.186 tp: 113.686 at price 0.000
+0	00:24:03.991	'270024006': order #31662801 buy 0.08 USDJPY at 113.486 sl: 113.186 tp: 113.686 closed at price 113.589
+0	00:50:50.617	'270024006': close order #31662975 sell 0.12 EURUSD at 1.12676 sl: 1.12834 tp: 1.12326 at price 0.00000
+0	00:50:50.804	'270024006': order #31662975 sell 0.12 EURUSD at 1.12676 sl: 1.12834 tp: 1.12326 closed at price 1.12697
+0	23:14:43.476	'270024006': order sell market 0.08 EURAUD sl: 1.58501 tp: 1.58001
+0	23:14:43.663	'270024006': order was opened : #31776168 sell 0.08 EURAUD at 1.58201 sl: 1.58501 tp: 1.58001

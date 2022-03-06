@@ -1,0 +1,107 @@
+0	01:00:02.037	'270024006': order buy market 0.06 USDJPY sl: 113.633 tp: 114.230
+0	01:00:02.271	'270024006': order was opened : #29552522 buy 0.06 USDJPY at 113.880 sl: 113.633 tp: 114.230
+0	01:15:02.787	'270024006': close order #29552522 buy 0.06 USDJPY at 113.880 sl: 113.633 tp: 114.230 at price 0.000
+0	01:15:02.975	'270024006': order #29552522 buy 0.06 USDJPY at 113.880 sl: 113.633 tp: 114.230 closed at price 113.903
+0	01:24:43.771	'270024006': order sell market 0.06 GBPUSD sl: 1.34397 tp: 1.33747
+0	01:24:43.959	'270024006': order was opened : #29553426 sell 0.06 GBPUSD at 1.34097 sl: 1.34397 tp: 1.33747
+0	01:28:12.209	'270024006': order buy market 0.06 USDJPY sl: 113.633 tp: 114.220
+0	01:28:12.381	'270024006': order was opened : #29553495 buy 0.06 USDJPY at 113.870 sl: 113.633 tp: 114.220
+0	01:44:20.006	'270024006': order sell market 0.06 EURUSD sl: 1.15009 tp: 1.14499
+0	01:44:20.162	'270024006': order was opened : #29553931 sell 0.06 EURUSD at 1.14849 sl: 1.15009 tp: 1.14499
+0	01:49:07.349	'270024006': close order #29538450 buy 0.08 AUDCAD at 0.91528 sl: 0.91227 tp: 0.91727 at price 0.00000
+0	01:49:07.552	'270024006': order #29538450 buy 0.08 AUDCAD at 0.91528 sl: 0.91227 tp: 0.91727 closed at price 0.91570
+0	01:55:07.537	'270024006': close order #29538025 sell 0.08 EURAUD at 1.56702 sl: 1.57003 tp: 1.56503 at price 0.00000
+0	01:55:07.709	'270024006': order #29538025 sell 0.08 EURAUD at 1.56702 sl: 1.57003 tp: 1.56503 closed at price 1.56631
+0	01:58:22.459	'270024006': close order #29553495 buy 0.06 USDJPY at 113.870 sl: 113.633 tp: 114.220 at price 0.000
+0	01:58:22.631	'270024006': order #29553495 buy 0.06 USDJPY at 113.870 sl: 113.633 tp: 114.220 closed at price 113.893
+0	02:02:26.490	'270024006': close order #29553931 sell 0.06 EURUSD at 1.14849 sl: 1.15009 tp: 1.14499 at price 0.00000
+0	02:02:26.662	'270024006': order #29553931 sell 0.06 EURUSD at 1.14849 sl: 1.15009 tp: 1.14499 closed at price 1.14812
+0	02:02:40.803	'270024006': close order #29553426 sell 0.06 GBPUSD at 1.34097 sl: 1.34397 tp: 1.33747 at price 0.00000
+0	02:02:41.037	'270024006': order #29553426 sell 0.06 GBPUSD at 1.34097 sl: 1.34397 tp: 1.33747 closed at price 1.34075
+0	15:58:55.240	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 3.58 ms)
+0	15:58:55.365	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 3.58 ms)
+0	15:58:55.865	'270024006': previous successful authorization performed from 195.149.87.163
+0	15:59:04.927	'270024006': ping to current access point NY DC 2 is 2.98 ms
+0	16:01:12.006	System to be shutdown, request for close MetaTrader 4
+0	16:01:12.224	MetaTrader 4 build 1340 stopped because system shutdown
+0	16:01:55.395	MetaTrader 4 build 1340 started (MetaQuotes Software Corp.)
+0	16:01:55.395	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3401 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	16:01:55.395	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	16:01:58.254	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	16:01:58.410	Expert NY Close Scalper v3.1 GBPUSD,M5: loaded successfully
+2	16:01:58.567	Expert NY Close Scalper v3.1 USDCAD,M5: loaded successfully
+2	16:01:58.707	Expert NY Close Scalper v3.1 USDJPY,M5: loaded successfully
+2	16:01:58.832	Expert NY Close Scalper v3.1 EURAUD,M5: loaded successfully
+2	16:01:58.957	Expert NY Close Scalper v3.1 EURCAD,M5: loaded successfully
+2	16:01:59.051	Expert Hunter nighty USDJPY,M15: loaded successfully
+2	16:01:59.145	Expert FX NightScalper_JD USDJPY,M15: loaded successfully
+0	16:02:00.285	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 2.98 ms)
+0	16:02:00.317	LiveUpdate: new version 4.00 build 1350 is available
+0	16:02:00.410	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 2.98 ms)
+0	16:02:00.692	'270024006': previous successful authorization performed from 195.149.87.163
+2	16:02:04.738	Expert NY Close Scalper v3.1 EURUSD,M5: removed
+2	16:02:04.754	Expert NY Close Scalper v3.1 GBPUSD,M5: removed
+2	16:02:04.770	Expert NY Close Scalper v3.1 USDCAD,M5: removed
+2	16:02:04.785	Expert NY Close Scalper v3.1 USDJPY,M5: removed
+2	16:02:04.801	Expert NY Close Scalper v3.1 EURAUD,M5: removed
+2	16:02:04.817	Expert NY Close Scalper v3.1 EURCAD,M5: removed
+2	16:02:04.832	Expert Hunter nighty USDJPY,M15: removed
+2	16:02:04.848	Expert FX NightScalper_JD USDJPY,M15: removed
+0	16:02:05.332	MetaTrader 4 build 1340 stopped
+0	16:02:03.551	LiveUpdate: updater - started for portable 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer'
+0	16:02:03.551	LiveUpdate: updater - try to close terminal
+0	16:02:06.488	LiveUpdate: updater - files update started
+0	16:02:06.504	LiveUpdate: copied from 'C:\Users\Administrator\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\metaeditor.exe' to 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\metaeditor.exe'
+0	16:02:06.535	LiveUpdate: copied from 'C:\Users\Administrator\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\terminal.exe' to 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\terminal.exe'
+0	16:02:06.535	LiveUpdate: updater - files update finished
+0	16:02:06.535	LiveUpdate: updater - clean obsolete data
+0	16:02:06.535	LiveUpdate: updater - start terminal
+0	16:02:06.676	LiveUpdate: updater - finished for portable 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer'
+0	16:02:10.114	LiveUpdate: update C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4 folder started
+0	16:02:10.176	LiveUpdate: update C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4 folder finished
+0	16:02:10.489	MetaTrader 4 build 1350 started (MetaQuotes Software Corp.)
+0	16:02:10.489	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3248 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	16:02:10.489	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+0	16:02:12.098	Sources recompilation started
+0	16:02:41.113	Sources recompilation finished (28 compiled in 29015 msec)
+2	16:02:41.848	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	16:02:42.020	Expert NY Close Scalper v3.1 GBPUSD,M5: loaded successfully
+2	16:02:42.145	Expert NY Close Scalper v3.1 USDCAD,M5: loaded successfully
+2	16:02:42.254	Expert NY Close Scalper v3.1 USDJPY,M5: loaded successfully
+2	16:02:42.363	Expert NY Close Scalper v3.1 EURAUD,M5: loaded successfully
+2	16:02:42.504	Expert NY Close Scalper v3.1 EURCAD,M5: loaded successfully
+2	16:02:42.582	Expert Hunter nighty USDJPY,M15: loaded successfully
+2	16:02:42.645	Expert FX NightScalper_JD USDJPY,M15: loaded successfully
+0	16:02:43.692	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 2.98 ms)
+0	16:02:43.785	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 2.98 ms)
+0	16:02:44.082	'270024006': previous successful authorization performed from 195.149.87.163
+2	16:10:27.301	Expert Hunter nighty USDJPY,M15: removed
+2	16:18:35.848	Expert NY Close Scalper v3.1 EURUSD,M5: removed
+2	16:18:35.863	Expert NY Close Scalper v3.1 GBPUSD,M5: removed
+2	16:18:35.863	Expert NY Close Scalper v3.1 USDCAD,M5: removed
+2	16:18:35.895	Expert NY Close Scalper v3.1 USDJPY,M5: removed
+2	16:18:35.895	Expert NY Close Scalper v3.1 EURAUD,M5: removed
+2	16:18:35.926	Expert NY Close Scalper v3.1 EURCAD,M5: removed
+2	16:18:35.942	Expert FX NightScalper_JD USDJPY,M15: removed
+0	16:18:36.160	MetaTrader 4 build 1350 stopped
+0	16:19:19.632	MetaTrader 4 build 1350 started (MetaQuotes Software Corp.)
+0	16:19:19.632	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3471 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	16:19:19.632	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	16:19:21.382	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	16:19:21.492	Expert NY Close Scalper v3.1 GBPUSD,M5: loaded successfully
+2	16:19:21.617	Expert NY Close Scalper v3.1 USDJPY,M5: loaded successfully
+2	16:19:21.789	Expert NY Close Scalper v3.1 USDCAD,M5: loaded successfully
+2	16:19:21.898	Expert NY Close Scalper v3.1 EURAUD,M5: loaded successfully
+2	16:19:22.023	Expert NY Close Scalper v3.1 EURCAD,M5: loaded successfully
+2	16:19:22.085	Expert FX NightScalper_JD USDJPY,M15: loaded successfully
+0	16:19:23.085	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 2.98 ms)
+0	16:19:23.164	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 2.98 ms)
+0	16:19:23.367	'270024006': previous successful authorization performed from 195.149.87.163
+0	23:00:08.602	'270024006': order buy market 0.08 GBPUSD sl: 1.33316 tp: 1.33965
+0	23:00:15.742	'270024006': order was opened : #29646747 buy 0.08 GBPUSD at 1.33610 sl: 1.33316 tp: 1.33965
+0	23:21:38.039	'270024006': close order #29646747 buy 0.08 GBPUSD at 1.33610 sl: 1.33316 tp: 1.33965 at price 0.00000
+0	23:21:38.320	'270024006': order #29646747 buy 0.08 GBPUSD at 1.33610 sl: 1.33316 tp: 1.33965 closed at price 1.33658
+0	23:21:51.398	'270024006': order sell market 0.08 EURUSD sl: 1.14651 tp: 1.14142
+0	23:21:51.617	'270024006': order was opened : #29657275 sell 0.08 EURUSD at 1.14491 sl: 1.14651 tp: 1.14142
+0	23:45:18.351	'270024006': close order #29657275 sell 0.08 EURUSD at 1.14491 sl: 1.14651 tp: 1.14142 at price 0.00000
+0	23:45:18.554	'270024006': order #29657275 sell 0.08 EURUSD at 1.14491 sl: 1.14651 tp: 1.14142 closed at price 1.14468

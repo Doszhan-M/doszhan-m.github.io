@@ -1,0 +1,20 @@
+0	00:02:08.230	'270024006': close order #32049590 sell 0.16 USDJPY at 113.592 sl: 113.830 tp: 113.246 at price 0.000
+0	00:02:08.479	'270024006': order #32049590 sell 0.16 USDJPY at 113.592 sl: 113.830 tp: 113.246 closed at price 113.562
+0	00:16:51.401	'270024006': order buy market 0.17 EURUSD sl: 1.12673 tp: 1.13180
+0	00:16:51.667	'270024006': order was opened : #32065366 buy 0.17 EURUSD at 1.12830 sl: 1.12673 tp: 1.13180
+0	01:04:34.636	'270024006': close order #32049586 buy 0.16 GBPUSD at 1.32094 sl: 1.31801 tp: 1.32441 at price 0.00000
+0	01:04:34.839	'270024006': order #32049586 buy 0.16 GBPUSD at 1.32094 sl: 1.31801 tp: 1.32441 closed at price 1.32133
+0	01:21:02.417	'270024006': close order #32065366 buy 0.17 EURUSD at 1.12830 sl: 1.12673 tp: 1.13180 at price 0.00000
+0	01:21:02.652	'270024006': order #32065366 buy 0.17 EURUSD at 1.12830 sl: 1.12673 tp: 1.13180 closed at price 1.12838
+0	02:08:43.448	'270024006': close order #32049592 sell 0.08 USDJPY at 113.592 sl: 113.897 tp: 113.397 at price 0.000
+0	02:08:43.620	'270024006': order #32049592 sell 0.08 USDJPY at 113.592 sl: 113.897 tp: 113.397 closed at price 113.553
+0	05:37:02.882	'270024006': close order #32051361 sell 0.08 USDCHF at 0.92268 sl: 0.92568 tp: 0.92068 at price 0.00000
+0	05:37:03.413	'270024006': order #32051361 sell 0.08 USDCHF at 0.92268 sl: 0.92568 tp: 0.92068 closed at price 0.92288
+1	16:35:19.913	'270024006': datacenter connecting failed [2]
+0	16:35:20.382	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 7.81 ms)
+0	16:35:20.616	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 7.81 ms)
+0	16:35:21.085	'270024006': previous successful authorization performed from 195.149.87.163
+0	16:35:30.335	'270024006': auto connecting to a better access point NY DC 2 (ping is 2.51 ms)
+0	16:35:30.694	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 2.51 ms)
+0	16:35:30.772	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 2.51 ms)
+0	16:35:31.179	'270024006': previous successful authorization performed from 195.149.87.163

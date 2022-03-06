@@ -1,0 +1,25 @@
+0	00:00:03.654	'270024006': order buy market 0.06 GBPUSD sl: 1.35518 tp: 1.36180
+1	00:00:03.794	'270024006': order buy 0.06 GBPUSD opening at market sl: 1.35518 tp: 1.36180 failed [Market is closed]
+0	00:00:54.921	'270024006': order buy market 0.06 GBPUSD sl: 1.35526 tp: 1.36188
+1	00:00:55.060	'270024006': order buy 0.06 GBPUSD opening at market sl: 1.35526 tp: 1.36188 failed [Market is closed]
+0	00:01:03.392	'270024006': order buy market 0.06 GBPUSD sl: 1.35525 tp: 1.36188
+0	00:01:05.061	'270024006': order was opened : #26188314 buy 0.06 GBPUSD at 1.35841 sl: 1.35525 tp: 1.36188
+0	00:14:57.325	'270024006': order buy market 0.06 EURUSD sl: 1.15375 tp: 1.15889
+0	00:14:59.872	'270024006': order was opened : #26200580 buy 0.06 EURUSD at 1.15569 sl: 1.15375 tp: 1.15889
+0	01:02:09.857	'270024006': close order #26188314 buy 0.06 GBPUSD at 1.35841 sl: 1.35525 tp: 1.36188 at price 0.00000
+0	01:02:10.060	'270024006': order #26188314 buy 0.06 GBPUSD at 1.35841 sl: 1.35525 tp: 1.36188 closed at price 1.35857
+0	01:08:44.622	'270024006': close order #26200580 buy 0.06 EURUSD at 1.15569 sl: 1.15375 tp: 1.15889 at price 0.00000
+0	01:08:45.607	'270024006': order #26200580 buy 0.06 EURUSD at 1.15569 sl: 1.15375 tp: 1.15889 closed at price 1.15567
+0	16:35:56.544	'270024006': order #26253618 sell 0.04 EURUSD at 1.15588 closed due stop-loss at price 1.15572
+0	23:00:01.388	'270024006': order buy market 0.06 USDJPY sl: 111.364 tp: 111.945
+0	23:00:04.123	'270024006': order was opened : #26322546 buy 0.06 USDJPY at 111.597 sl: 111.364 tp: 111.945
+0	23:01:59.607	'270024006': order sell market 0.06 EURUSD sl: 1.15713 tp: 1.15202
+0	23:01:59.872	'270024006': order was opened : #26334768 sell 0.06 EURUSD at 1.15552 sl: 1.15713 tp: 1.15202
+0	23:26:53.216	'270024006': close order #26322546 buy 0.06 USDJPY at 111.597 sl: 111.364 tp: 111.945 at price 0.000
+0	23:26:53.435	'270024006': order #26322546 buy 0.06 USDJPY at 111.597 sl: 111.364 tp: 111.945 closed at price 111.622
+0	23:37:16.360	'270024006': order sell market 0.06 USDJPY sl: 111.873 tp: 111.291
+0	23:37:16.575	'270024006': order buy market 0.06 GBPUSD sl: 1.35846 tp: 1.36501
+0	23:37:17.138	'270024006': order was opened : #26336874 buy 0.06 GBPUSD at 1.36151 sl: 1.35846 tp: 1.36501
+0	23:37:17.169	'270024006': order was opened : #26336875 sell 0.06 USDJPY at 111.641 sl: 111.873 tp: 111.291
+0	23:51:20.013	'270024006': close order #26334768 sell 0.06 EURUSD at 1.15552 sl: 1.15713 tp: 1.15202 at price 0.00000
+0	23:51:20.247	'270024006': order #26334768 sell 0.06 EURUSD at 1.15552 sl: 1.15713 tp: 1.15202 closed at price 1.15531

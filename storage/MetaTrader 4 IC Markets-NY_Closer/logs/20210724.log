@@ -1,0 +1,30 @@
+1	00:31:55.362	'270024006': connect failed [Нет связи]
+0	00:32:22.596	'270024006': login on ICMarketsSC-Live27 through DC_CUS_L27 (ping: 77.02 ms)
+0	00:33:28.424	'270024006': login on ICMarketsSC-Live27 through DC_LD_L27 (ping: 144.36 ms)
+0	00:34:32.564	'270024006': login on ICMarketsSC-Live27 through DC_LD_L27 (ping: 144.36 ms)
+0	00:34:35.580	'270024006': login datacenter on ICMarketsSC-Live27 through DC_LD_L27 (ping: 144.36 ms)
+0	00:34:36.221	'270024006': previous successful authorization performed from 195.149.87.163
+0	00:34:48.221	'270024006': auto connecting to a better access point DC_Vir_L27 (ping is 16.71 ms)
+0	00:34:48.689	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 16.71 ms)
+0	00:34:51.736	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 16.71 ms)
+0	00:34:52.158	'270024006': previous successful authorization performed from 195.149.87.163
+0	12:00:01.363	System to be shutdown, request for close IC Markets (SC) MT4
+0	12:00:01.596	IC Markets (SC) MT4 build 1335 stopped because system shutdown
+0	12:00:41.088	IC Markets (SC) MT4 build 1335 started (True ECN Trading Ltd)
+0	12:00:41.088	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3474 / 4095 Mb, Disk: 34 / 48 Gb, GMT+2
+0	12:00:41.088	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	12:00:44.025	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	12:00:44.197	Expert NY Close Scalper v3.1 GBPUSD,M5: loaded successfully
+2	12:00:44.322	Expert NY Close Scalper v3.1 USDCAD,M5: loaded successfully
+2	12:00:44.465	Expert NY Close Scalper v3.1 USDJPY,M5: loaded successfully
+2	12:00:44.603	Expert NY Close Scalper v3.1 EURAUD,M5: loaded successfully
+2	12:00:44.761	Expert NY Close Scalper v3.1 EURCAD,M5: loaded successfully
+2	12:00:44.837	Expert FX NightScalper_JD USDJPY,M15: loaded successfully
+2	12:00:44.947	Expert Hunter nighty USDJPY,M15: loaded successfully
+0	12:00:46.040	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 16.71 ms)
+0	12:00:46.541	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 16.71 ms)
+0	12:00:46.931	'270024006': previous successful authorization performed from 67.209.131.162
+0	12:00:56.354	'270024006': auto connecting to a better access point NY DC 1 (ping is 1.93 ms)
+0	12:00:56.790	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.93 ms)
+0	12:00:56.900	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.93 ms)
+0	12:00:57.181	'270024006': previous successful authorization performed from 195.149.87.163

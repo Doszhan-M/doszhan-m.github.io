@@ -1,0 +1,38 @@
+0	00:00:01.392	'270024006': order sell market 0.06 EURUSD sl: 1.16152 tp: 1.15638
+1	00:00:02.060	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16152 tp: 1.15638 failed [Market is closed]
+0	00:00:04.029	'270024006': order sell market 0.06 EURUSD sl: 1.16196 tp: 1.15682
+1	00:00:04.294	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16196 tp: 1.15682 failed [Market is closed]
+0	00:00:14.653	'270024006': order sell market 0.06 EURUSD sl: 1.16188 tp: 1.15674
+1	00:00:14.872	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16188 tp: 1.15674 failed [Market is closed]
+0	00:00:16.560	'270024006': order sell market 0.06 EURUSD sl: 1.16193 tp: 1.15679
+1	00:00:16.732	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16193 tp: 1.15679 failed [Market is closed]
+0	00:00:22.372	'270024006': order sell market 0.06 EURUSD sl: 1.16186 tp: 1.15672
+1	00:00:22.497	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16186 tp: 1.15672 failed [Market is closed]
+0	00:00:27.247	'270024006': order sell market 0.06 EURUSD sl: 1.16182 tp: 1.15668
+1	00:00:27.435	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16182 tp: 1.15668 failed [Market is closed]
+0	00:00:30.700	'270024006': order sell market 0.06 EURUSD sl: 1.16188 tp: 1.15674
+1	00:00:30.888	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16188 tp: 1.15674 failed [Market is closed]
+0	00:00:32.622	'270024006': order sell market 0.06 EURUSD sl: 1.16182 tp: 1.15668
+1	00:00:32.825	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16182 tp: 1.15668 failed [Market is closed]
+0	00:00:41.825	'270024006': order sell market 0.06 EURUSD sl: 1.16188 tp: 1.15674
+1	00:00:41.982	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16188 tp: 1.15674 failed [Market is closed]
+0	00:00:50.357	'270024006': order sell market 0.06 EURUSD sl: 1.16192 tp: 1.15678
+1	00:00:50.560	'270024006': order sell 0.06 EURUSD opening at market sl: 1.16192 tp: 1.15678 failed [Market is closed]
+0	00:01:01.982	'270024006': order sell market 0.06 EURUSD sl: 1.16188 tp: 1.15674
+0	00:01:04.638	'270024006': order was opened : #26019728 sell 0.06 EURUSD at 1.15986 sl: 1.16188 tp: 1.15674
+0	00:30:08.325	'270024006': close order #26019728 sell 0.06 EURUSD at 1.15986 sl: 1.16188 tp: 1.15674 at price 0.00000
+0	00:30:08.810	'270024006': order #26019728 sell 0.06 EURUSD at 1.15986 sl: 1.16188 tp: 1.15674 closed at price 1.15972
+1	00:30:42.419	'270024006': connect failed [Нет связи]
+0	00:31:02.278	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 13.85 ms)
+0	00:32:07.482	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 13.85 ms)
+0	00:32:10.013	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 13.85 ms)
+0	00:32:10.497	'270024006': previous successful authorization performed from 195.149.87.163
+0	00:32:22.997	'270024006': auto connecting to a better access point NY DC 1 (ping is 4.08 ms)
+0	00:32:23.357	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 4.08 ms)
+0	00:32:24.216	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 4.08 ms)
+0	00:32:24.560	'270024006': previous successful authorization performed from 195.149.87.163
+0	00:55:44.591	'270024006': close order #26016080 buy 0.06 USDJPY at 111.466 sl: 111.235 tp: 111.817 at price 0.000
+0	00:55:44.888	'270024006': order #26016080 buy 0.06 USDJPY at 111.466 sl: 111.235 tp: 111.817 closed at price 111.491
+0	01:30:12.700	'270024006': close order #26015994 buy 0.10 CHFJPY at 120.091 sl: 119.791 tp: 120.291 at price 0.000
+0	01:30:12.873	'270024006': order #26015994 buy 0.10 CHFJPY at 120.091 sl: 119.791 tp: 120.291 closed at price 120.098
+0	12:38:29.186	'270024006': order #24951594 buy 0.04 EURUSD at 1.16943 closed due stop-loss at price 1.15440

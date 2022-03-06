@@ -1,0 +1,28 @@
+0	00:13:03.456	'270024006': order buy market 0.05 EURUSD sl: 1.17764 tp: 1.18281
+0	00:13:03.691	'270024006': order was opened : #21146215 buy 0.05 EURUSD at 1.17931 sl: 1.17764 tp: 1.18281
+0	01:00:01.255	'270024006': close order #21146215 buy 0.05 EURUSD at 1.17931 sl: 1.17764 tp: 1.18281 at price 0.00000
+0	01:00:02.409	'270024006': order #21146215 buy 0.05 EURUSD at 1.17931 sl: 1.17764 tp: 1.18281 closed at price 1.17980
+0	01:05:51.396	'270024006': close order #21137011 sell 0.17 USDJPY at 109.858 sl: 110.158 tp: 109.758 at price 0.000
+0	01:05:51.707	'270024006': order #21137011 sell 0.17 USDJPY at 109.858 sl: 110.158 tp: 109.758 closed at price 109.830
+0	08:57:53.766	'270024006': order #21172016 sell 0.06 EURUSD at 1.18065 closed due take-profit at price 1.17999
+0	18:42:07.376	'270024006': order #21241542 buy 0.03 EURUSD at 1.17936 closed due stop-loss at price 1.17943
+0	23:14:41.157	'270024006': order sell market 0.05 USDJPY sl: 110.145 tp: 109.567
+0	23:14:41.422	'270024006': order was opened : #21291567 sell 0.05 USDJPY at 109.917 sl: 110.145 tp: 109.567
+0	23:14:55.813	'270024006': order sell market 0.17 USDJPY sl: 0.000 tp: 0.000
+0	23:14:55.813	'270024006': order sell market 0.09 USDJPY sl: 110.225 tp: 109.725
+0	23:14:56.266	'270024006': order was opened : #21291607 sell 0.17 USDJPY at 109.922 sl: 0.000 tp: 0.000
+0	23:14:56.266	'270024006': modify order #21291607 sell 0.17 USDJPY at 109.922 sl: 0.000 tp: 0.000 -> sl: 110.225 tp: 109.825
+0	23:14:56.391	'270024006': order was opened : #21291608 sell 0.09 USDJPY at 109.922 sl: 110.225 tp: 109.725
+0	23:14:56.470	'270024006': order #21291607 sell 0.17 USDJPY at 109.922 was modified -> sl: 110.225 tp: 109.825
+0	23:26:04.860	'270024006': order buy market 0.05 GBPUSD sl: 1.37277 tp: 1.37935
+0	23:26:05.110	'270024006': order was opened : #21292052 buy 0.05 GBPUSD at 1.37585 sl: 1.37277 tp: 1.37935
+0	23:26:52.455	'270024006': order sell market 0.09 EURAUD sl: 1.62055 tp: 1.61555
+0	23:26:52.844	'270024006': order was opened : #21292360 sell 0.09 EURAUD at 1.61755 sl: 1.62055 tp: 1.61555
+0	23:29:03.532	'270024006': close order #21292360 sell 0.09 EURAUD at 1.61755 sl: 1.62055 tp: 1.61555 at price 0.00000
+0	23:29:03.985	'270024006': order #21292360 sell 0.09 EURAUD at 1.61755 sl: 1.62055 tp: 1.61555 closed at price 1.61724
+0	23:33:15.657	'270024006': order buy market 0.05 EURUSD sl: 1.17810 tp: 1.18324
+0	23:33:15.813	'270024006': order sell market 0.09 USDCHF sl: 0.92016 tp: 0.91516
+0	23:33:16.016	'270024006': order was opened : #21293648 buy 0.05 EURUSD at 1.17975 sl: 1.17810 tp: 1.18324
+0	23:33:16.141	'270024006': order was opened : #21293664 sell 0.09 USDCHF at 0.91715 sl: 0.92016 tp: 0.91516
+0	23:54:38.876	'270024006': order buy market 0.09 EURAUD sl: 1.61402 tp: 1.61902
+0	23:54:39.063	'270024006': order was opened : #21296407 buy 0.09 EURAUD at 1.61702 sl: 1.61402 tp: 1.61902

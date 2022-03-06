@@ -1,0 +1,16 @@
+1	15:32:11.697	'270024006': datacenter connecting failed [6]
+0	15:32:12.228	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 18.73 ms)
+0	15:32:12.588	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 18.73 ms)
+0	15:32:12.947	'270024006': previous successful authorization performed from 37.99.46.222
+0	15:32:28.009	'270024006': auto connecting to a better access point NY DC 1 (ping is 4.71 ms)
+0	15:32:28.463	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 4.71 ms)
+0	15:32:28.541	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 4.71 ms)
+0	15:32:28.884	'270024006': previous successful authorization performed from 195.149.87.163
+0	22:19:49.338	'270024006': order sell market 0.08 EURCAD sl: 1.44166 tp: 1.43666
+0	22:19:49.525	'270024006': order was opened : #28897044 sell 0.08 EURCAD at 1.43866 sl: 1.44166 tp: 1.43666
+0	22:32:08.088	'270024006': close order #28897044 sell 0.08 EURCAD at 1.43866 sl: 1.44166 tp: 1.43666 at price 0.00000
+0	22:32:08.869	'270024006': order #28897044 sell 0.08 EURCAD at 1.43866 sl: 1.44166 tp: 1.43666 closed at price 1.43810
+0	22:46:48.072	'270024006': order sell market 0.08 EURCAD sl: 1.44173 tp: 1.43673
+0	22:46:48.275	'270024006': order was opened : #28900331 sell 0.08 EURCAD at 1.43873 sl: 1.44173 tp: 1.43673
+0	23:50:57.213	'270024006': order sell market 0.06 EURUSD sl: 1.16331 tp: 1.15803
+0	23:50:57.931	'270024006': order was opened : #28913290 sell 0.06 EURUSD at 1.16147 sl: 1.16331 tp: 1.15803

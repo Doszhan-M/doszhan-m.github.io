@@ -1,0 +1,15 @@
+0	00:02:22.225	'270024006': order buy market 0.04 EURUSD sl: 1.17219 tp: 1.17732
+0	00:02:22.444	'270024006': order was opened : #17433182 buy 0.04 EURUSD at 1.17390 sl: 1.17219 tp: 1.17732
+0	00:50:21.148	'270024006': close order #17433182 buy 0.04 EURUSD at 1.17390 sl: 1.17219 tp: 1.17732 at price 0.00000
+0	00:50:26.694	'270024006': order #17433182 buy 0.04 EURUSD at 1.17390 sl: 1.17219 tp: 1.17732 closed at price 1.17414
+0	05:07:51.694	'270024006': order #17404454 sell 0.05 EURUSD at 1.17475 closed due take-profit at price 1.17374
+0	23:00:01.288	'270024006': order buy market 0.08 AUDCAD sl: 0.91539 tp: 0.92039
+0	23:00:01.835	'270024006': order was opened : #17763186 buy 0.08 AUDCAD at 0.91836 sl: 0.91539 tp: 0.92039
+0	23:00:01.835	'270024006': order buy market 0.08 EURCAD sl: 1.46577 tp: 1.47077
+0	23:00:06.054	'270024006': order was opened : #17764437 buy 0.08 EURCAD at 1.46882 sl: 1.46577 tp: 1.47077
+0	23:16:45.663	'270024006': order sell market 0.08 CHFJPY sl: 119.902 tp: 119.402
+0	23:16:45.866	'270024006': order was opened : #17773773 sell 0.08 CHFJPY at 119.602 sl: 119.902 tp: 119.402
+0	23:55:51.773	'270024006': order sell market 0.04 GBPUSD sl: 1.38387 tp: 1.37732
+0	23:55:51.976	'270024006': order was opened : #17780423 sell 0.04 GBPUSD at 1.38066 sl: 1.38387 tp: 1.37732
+0	23:56:15.694	'270024006': order buy market 0.04 EURUSD sl: 1.17162 tp: 1.17675
+0	23:56:15.898	'270024006': order was opened : #17780557 buy 0.04 EURUSD at 1.17327 sl: 1.17162 tp: 1.17675

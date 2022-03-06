@@ -1,0 +1,24 @@
+1	01:07:11.101	'270024006': connect failed [Нет связи]
+0	01:07:49.789	'270024006': login on ICMarketsSC-Live27 through DC_Frank_L27 (ping: 183.87 ms)
+0	01:08:56.226	'270024006': login on ICMarketsSC-Live27 through DC_BS_L27 (ping: 231.46 ms)
+0	01:10:02.914	'270024006': login on ICMarketsSC-Live27 through DC_JE_L27 (ping: 348.55 ms)
+0	01:11:07.961	'270024006': login on ICMarketsSC-Live27 through DC_JE_L27 (ping: 348.55 ms)
+0	01:12:12.617	'270024006': login on ICMarketsSC-Live27 through DC_JE_L27 (ping: 348.55 ms)
+0	01:13:19.320	'270024006': login on ICMarketsSC-Live27 through DC_Syd_L27 (ping: 429.71 ms)
+0	01:13:24.570	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Syd_L27 (ping: 429.71 ms)
+0	01:13:25.523	'270024006': previous successful authorization performed from 195.149.87.163
+0	01:13:38.335	'270024006': auto connecting to a better access point DC_Vir_L27 (ping is 23.14 ms)
+0	01:13:38.695	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 23.14 ms)
+0	01:13:39.210	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 23.14 ms)
+0	01:13:39.632	'270024006': previous successful authorization performed from 195.149.87.163
+0	01:24:34.523	'270024006': close order #24252138 sell 0.11 EURAUD at 1.62201 sl: 1.62501 tp: 1.62001 at price 0.00000
+0	01:24:34.742	'270024006': order #24252138 sell 0.11 EURAUD at 1.62201 sl: 1.62501 tp: 1.62001 closed at price 1.62098
+0	14:57:40.101	'270024006': order #24300928 sell 0.12 EURUSD at 1.17273 closed due take-profit at price 1.17259
+0	21:00:09.650	'270024006': order #24325690 sell stop 0.76 EURUSD at 1.17160 activated at price 1.17082
+0	21:00:09.650	'270024006': order #24325774 sell stop 0.76 EURUSD at 1.17160 activated at price 1.17082
+0	21:00:14.320	'270024006': order #24325774 sell 0.76 EURUSD at 1.17082 closed due stop-loss at price 1.17122
+0	21:00:14.320	'270024006': order #24325690 sell 0.76 EURUSD at 1.17082 closed due stop-loss at price 1.17122
+0	21:05:15.351	'270024006': order #24325491 buy stop 0.76 EURUSD at 1.17474 activated at price 1.17493
+0	21:05:15.351	'270024006': order #24325168 buy stop 0.76 EURUSD at 1.17474 activated at price 1.17493
+0	21:05:16.351	'270024006': order #24325168 buy 0.76 EURUSD at 1.17493 closed due stop-loss at price 1.17471
+0	21:05:16.351	'270024006': order #24325491 buy 0.76 EURUSD at 1.17493 closed due stop-loss at price 1.17471

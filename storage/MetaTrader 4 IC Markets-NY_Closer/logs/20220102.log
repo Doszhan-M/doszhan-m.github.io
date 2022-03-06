@@ -1,0 +1,47 @@
+1	02:28:52.601	'270024006': connect failed [Нет связи]
+0	02:29:19.773	'270024006': login on ICMarketsSC-Live27 through DC_NCUS_L27 (ping: 69.12 ms)
+0	02:30:25.445	'270024006': login on ICMarketsSC-Live27 through DC_NCUS_L27 (ping: 69.12 ms)
+0	02:30:39.758	'270024006': login datacenter on ICMarketsSC-Live27 through DC_NCUS_L27 (ping: 69.12 ms)
+0	02:30:40.196	'270024006': previous successful authorization performed from 195.149.87.163
+0	02:30:50.133	'270024006': auto connecting to a better access point NY DC 2 (ping is 7.58 ms)
+0	02:30:50.351	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 7.58 ms)
+0	02:30:54.539	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 7.58 ms)
+0	02:30:54.758	'270024006': previous successful authorization performed from 195.149.87.163
+1	18:09:39.041	'270024006': ping failed
+1	18:09:39.041	'270024006': datacenter connecting failed [6]
+1	18:09:39.805	'270024006': connect failed [Нет связи]
+1	18:09:39.805	MQL5.community: authorization failed
+1	18:13:45.898	MQL5.community: authorization failed
+0	18:14:12.586	'270024006': login on ICMarketsSC-Live27 through DC_Syd_L27 (ping: n/a)
+0	18:14:15.445	'270024006': login datacenter on ICMarketsSC-Live27 through DC_Syd_L27 (ping: n/a)
+0	18:14:16.539	'270024006': previous successful authorization performed from 195.149.87.163
+0	18:14:24.930	'270024006': auto connecting to a better access point NY DC 1 (ping is 1.69 ms)
+0	18:14:25.367	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.69 ms)
+0	18:14:25.445	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.69 ms)
+0	18:14:25.633	'270024006': previous successful authorization performed from 195.149.87.163
+0	18:38:27.773	System to be shutdown, request for close MetaTrader 4
+0	18:38:28.086	MetaTrader 4 build 1353 stopped because system shutdown
+0	18:39:10.975	MetaTrader 4 build 1353 started (MetaQuotes Software Corp.)
+0	18:39:10.975	Windows Server 2012 R2 Standard x64, IE 11, RDP, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3439 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	18:39:10.975	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	18:39:13.241	Expert Myfxbook USDCHF,H4: loaded successfully
+0	18:39:14.522	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.69 ms)
+0	18:39:14.585	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.69 ms)
+0	18:39:14.819	'270024006': previous successful authorization performed from 195.149.87.163
+2	18:39:58.350	Expert Myfxbook USDCHF,H4: removed
+0	18:39:58.709	MetaTrader 4 build 1353 stopped
+0	18:42:21.439	MetaTrader 4 build 1353 started (MetaQuotes Software Corp.)
+0	18:42:21.439	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3392 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	18:42:21.439	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	18:42:25.533	Expert Myfxbook USDCHF,H4: loaded successfully
+0	18:42:27.205	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.69 ms)
+0	18:42:27.330	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.69 ms)
+0	18:42:27.674	'270024006': previous successful authorization performed from 195.149.87.163
+2	18:42:40.470	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	18:42:59.408	Expert NY Close Scalper v3.1 GBPUSD,M5: loaded successfully
+2	18:43:08.721	Expert NY Close Scalper v3.1 USDJPY,M5: loaded successfully
+2	18:43:20.299	Expert NY Close Scalper v3.1 USDCAD,M5: loaded successfully
+2	18:43:31.221	Expert NY Close Scalper v3.1 EURAUD,M5: loaded successfully
+2	18:43:39.752	Expert NY Close Scalper v3.1 EURCAD,M5: loaded successfully
+2	18:44:04.221	Expert FX NightScalper_JD USDJPY,M15: loaded successfully
+2	18:44:20.892	Expert Happy Monday v1.32 EURUSD,M15: loaded successfully

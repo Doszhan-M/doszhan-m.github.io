@@ -1,0 +1,18 @@
+0	00:57:36.116	'270024006': close order #27343733 buy 0.06 GBPUSD at 1.37269 sl: 1.36963 tp: 1.37618 at price 0.00000
+0	00:57:36.506	'270024006': order #27343733 buy 0.06 GBPUSD at 1.37269 sl: 1.36963 tp: 1.37618 closed at price 1.37288
+0	01:00:34.819	'270024006': close order #27332759 sell 0.06 USDJPY at 114.327 sl: 114.565 tp: 113.978 at price 0.000
+0	01:00:34.991	'270024006': order #27332759 sell 0.06 USDJPY at 114.327 sl: 114.565 tp: 113.978 closed at price 114.314
+0	01:32:20.834	'270024006': close order #27329998 sell 0.13 USDJPY at 114.321 sl: 114.620 tp: 114.220 at price 0.000
+0	01:32:20.975	'270024006': close order #27330018 sell 0.10 USDJPY at 114.321 sl: 114.620 tp: 114.120 at price 0.000
+0	01:32:21.241	'270024006': order #27329998 sell 0.13 USDJPY at 114.321 sl: 114.620 tp: 114.220 closed at price 114.280
+0	01:32:21.241	'270024006': order #27330018 sell 0.10 USDJPY at 114.321 sl: 114.620 tp: 114.120 closed at price 114.280
+0	02:51:36.803	'270024006': close order #27343346 sell 0.10 USDCHF at 0.92357 sl: 0.92657 tp: 0.92157 at price 0.00000
+0	02:51:37.022	'270024006': order #27343346 sell 0.10 USDCHF at 0.92357 sl: 0.92657 tp: 0.92157 closed at price 0.92350
+0	23:00:01.301	'270024006': order sell market 0.10 USDJPY sl: 114.636 tp: 114.136
+0	23:00:01.754	'270024006': order was opened : #27470795 sell 0.10 USDJPY at 114.338 sl: 114.636 tp: 114.136
+0	23:00:05.410	'270024006': order sell market 0.14 USDJPY sl: 0.000 tp: 0.000
+0	23:00:16.082	'270024006': order was opened : #27472873 sell 0.14 USDJPY at 114.341 sl: 0.000 tp: 0.000
+0	23:00:16.082	'270024006': modify order #27472873 sell 0.14 USDJPY at 114.341 sl: 0.000 tp: 0.000 -> sl: 114.640 tp: 114.240
+0	23:00:23.754	'270024006': order #27472873 sell 0.14 USDJPY at 114.341 was modified -> sl: 114.640 tp: 114.240
+0	23:13:52.691	'270024006': order sell market 0.10 CHFJPY sl: 124.226 tp: 123.726
+0	23:13:52.926	'270024006': order was opened : #27484250 sell 0.10 CHFJPY at 123.926 sl: 124.226 tp: 123.726

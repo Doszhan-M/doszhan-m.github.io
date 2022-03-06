@@ -1,0 +1,67 @@
+0	14:23:16.149	MetaTrader 4 build 1350 stopped
+0	14:25:28.674	MetaTrader 4 build 1350 started (MetaQuotes Software Corp.)
+0	14:25:28.674	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3394 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	14:25:28.674	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+0	14:25:33.814	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 2.56 ms)
+0	14:25:34.111	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 2.56 ms)
+0	14:25:34.424	'270024006': previous successful authorization performed from 195.149.87.163
+0	14:25:37.517	'270024006': auto connecting to a better access point NY DC 1 (ping is 1.97 ms)
+0	14:25:38.080	MetaTrader 4 build 1350 stopped
+0	14:25:36.220	LiveUpdate: updater - started for portable 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer'
+0	14:25:36.220	LiveUpdate: updater - try to close terminal
+0	14:25:39.220	LiveUpdate: updater - files update started
+0	14:25:39.267	LiveUpdate: copied from 'C:\Users\Administrator\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\metaeditor.exe' to 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\metaeditor.exe'
+0	14:25:39.314	LiveUpdate: copied from 'C:\Users\Administrator\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\terminal.exe' to 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\terminal.exe'
+0	14:25:39.314	LiveUpdate: updater - files update finished
+0	14:25:39.314	LiveUpdate: updater - clean obsolete data
+0	14:25:39.314	LiveUpdate: updater - start terminal
+0	14:25:39.580	LiveUpdate: updater - finished for portable 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer'
+0	14:25:43.158	LiveUpdate: update C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4 folder started
+0	14:25:43.220	LiveUpdate: update C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4 folder finished
+0	14:25:43.455	MetaTrader 4 build 1353 started (MetaQuotes Software Corp.)
+0	14:25:43.455	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3243 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	14:25:43.455	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+0	14:25:43.720	Sources recompilation started
+0	14:26:09.439	Sources recompilation finished (28 compiled in 25718 msec)
+0	14:26:10.861	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.97 ms)
+0	14:26:10.986	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.97 ms)
+0	14:26:11.392	'270024006': previous successful authorization performed from 195.149.87.163
+2	15:09:33.736	Expert Myfxbook USDCHF,H4: loaded successfully
+0	15:10:31.283	System to be shutdown, request for close MetaTrader 4
+0	15:10:31.502	MetaTrader 4 build 1353 stopped because system shutdown
+0	15:11:07.725	MetaTrader 4 build 1353 started (MetaQuotes Software Corp.)
+0	15:11:07.725	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3469 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	15:11:07.725	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	15:11:09.506	Expert Myfxbook USDCHF,H4: loaded successfully
+0	15:11:11.163	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.97 ms)
+0	15:11:11.256	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.97 ms)
+0	15:11:11.569	'270024006': previous successful authorization performed from 195.149.87.163
+2	15:20:31.616	Expert Myfxbook USDCHF,H4: removed
+0	15:20:32.006	MetaTrader 4 build 1353 stopped
+0	15:25:20.268	MetaTrader 4 build 1353 started (MetaQuotes Software Corp.)
+0	15:25:20.268	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3392 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	15:25:20.268	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	15:25:24.362	Expert Myfxbook USDCHF,H4: loaded successfully
+0	15:25:26.315	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.97 ms)
+0	15:25:26.440	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.97 ms)
+0	15:25:26.690	'270024006': previous successful authorization performed from 195.149.87.163
+2	15:26:57.940	Expert Happy Monday v1.32 EURUSD,M15: loaded successfully
+2	15:28:34.815	Expert FX NightScalper_JD USDJPY,M15: loaded successfully
+0	15:29:12.112	System to be shutdown, request for close MetaTrader 4
+0	15:29:12.362	MetaTrader 4 build 1353 stopped because system shutdown
+0	15:29:47.255	MetaTrader 4 build 1353 started (MetaQuotes Software Corp.)
+0	15:29:47.255	Windows Server 2012 R2 Standard x64, IE 11, UAC, 2 x Intel Xeon  E5-2680 v2 @ 2.80GHz, Memory: 3464 / 4095 Mb, Disk: 36 / 48 Gb, GMT+2
+0	15:29:47.255	Data Folder: C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer
+2	15:29:49.459	Expert FX NightScalper_JD USDJPY,M15: loaded successfully
+2	15:29:49.568	Expert Myfxbook USDCHF,H4: loaded successfully
+2	15:29:49.693	Expert Happy Monday v1.32 EURUSD,M15: loaded successfully
+0	15:29:50.709	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: 1.97 ms)
+0	15:29:50.802	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: 1.97 ms)
+0	15:29:51.068	'270024006': previous successful authorization performed from 195.149.87.163
+0	15:30:00.318	'270024006': ping to current access point NY DC 1 is 1.75 ms
+2	15:31:16.974	Expert NY Close Scalper v3.1 EURUSD,M5: loaded successfully
+2	15:31:52.647	Expert NY Close Scalper v3.1 GBPUSD,M5: loaded successfully
+2	15:32:30.210	Expert NY Close Scalper v3.1 USDJPY,M5: loaded successfully
+2	15:41:33.068	Expert NY Close Scalper v3.1 USDCAD,M5: loaded successfully
+2	15:41:58.365	Expert NY Close Scalper v3.1 EURAUD,M5: loaded successfully
+2	15:42:21.740	Expert NY Close Scalper v3.1 EURCAD,M5: loaded successfully

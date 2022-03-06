@@ -1,0 +1,50 @@
+0	00:00:01.399	'270024006': order sell market 0.08 USDCHF sl: 0.90960 tp: 0.90460
+1	00:00:02.055	'270024006': order sell 0.08 USDCHF opening at market sl: 0.90960 tp: 0.90460 failed [Market is closed]
+0	00:00:04.368	'270024006': order buy market 0.04 EURCAD sl: 1.48070 tp: 1.48794
+1	00:00:04.602	'270024006': order buy 0.04 EURCAD opening at market sl: 1.48070 tp: 1.48794 failed [Market is closed]
+0	00:00:05.196	'270024006': order buy market 0.04 EURCAD sl: 1.48070 tp: 1.48794
+1	00:00:05.383	'270024006': order buy 0.04 EURCAD opening at market sl: 1.48070 tp: 1.48794 failed [Market is closed]
+0	00:01:25.461	'270024006': order sell market 0.08 USDCHF sl: 0.90957 tp: 0.90457
+0	00:01:25.729	'270024006': order was opened : #15426469 sell 0.08 USDCHF at 0.90654 sl: 0.90957 tp: 0.90457
+0	00:02:00.165	'270024006': order buy market 0.04 USDCAD sl: 1.25057 tp: 1.25756
+0	00:02:00.165	'270024006': order buy market 0.04 EURCAD sl: 1.48092 tp: 1.48796
+0	00:02:00.477	'270024006': order was opened : #15426728 buy 0.04 EURCAD at 1.48508 sl: 1.48092 tp: 1.48796
+0	00:02:00.477	'270024006': order was opened : #15426732 buy 0.04 USDCAD at 1.25452 sl: 1.25057 tp: 1.25756
+0	00:40:47.164	'270024006': order buy market 0.04 EURUSD sl: 1.18173 tp: 1.18690
+0	00:40:49.821	'270024006': order was opened : #15432050 buy 0.04 EURUSD at 1.18344 sl: 1.18173 tp: 1.18690
+0	01:00:41.133	'270024006': close order #15432050 buy 0.04 EURUSD at 1.18344 sl: 1.18173 tp: 1.18690 at price 0.00000
+0	01:00:41.446	'270024006': order #15432050 buy 0.04 EURUSD at 1.18344 sl: 1.18173 tp: 1.18690 closed at price 1.18374
+0	01:02:00.399	'270024006': close order #15426732 buy 0.04 USDCAD at 1.25452 sl: 1.25057 tp: 1.25756 at price 0.00000
+0	01:02:00.633	'270024006': order #15426732 buy 0.04 USDCAD at 1.25452 sl: 1.25057 tp: 1.25756 closed at price 1.25443
+0	01:02:06.086	'270024006': close order #15426728 buy 0.04 EURCAD at 1.48508 sl: 1.48092 tp: 1.48796 at price 0.00000
+0	01:02:06.258	'270024006': order #15426728 buy 0.04 EURCAD at 1.48508 sl: 1.48092 tp: 1.48796 closed at price 1.48481
+0	08:00:02.164	'270024006': close order #15426469 sell 0.08 USDCHF at 0.90654 sl: 0.90957 tp: 0.90457 at price 0.00000
+0	08:00:02.368	'270024006': order #15426469 sell 0.08 USDCHF at 0.90654 sl: 0.90957 tp: 0.90457 closed at price 0.90724
+0	12:54:49.961	'270024006': order #15392665 sell 0.05 EURUSD at 1.18394 closed due take-profit at price 1.18293
+1	17:05:51.852	'270024006': connect failed [Нет связи]
+0	17:08:18.993	'270024006': login on ICMarketsSC-Live27 through DC_Syd_L27 (ping: n/a)
+0	17:09:25.758	'270024006': login on ICMarketsSC-Live27 through DC_BS_L27 (ping: n/a)
+0	17:10:30.211	'270024006': login on ICMarketsSC-Live27 through DC_BS_L27 (ping: n/a)
+0	17:11:36.118	'270024006': login on ICMarketsSC-Live27 through NY DC 1 (ping: n/a)
+0	17:11:36.493	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 1 (ping: n/a)
+0	17:11:37.149	'270024006': previous successful authorization performed from 195.149.87.163
+0	17:11:53.852	'270024006': auto connecting to a better access point NY DC 2 (ping is 10.29 ms)
+0	17:11:54.571	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 10.29 ms)
+0	17:11:54.899	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 10.29 ms)
+0	17:11:55.274	'270024006': previous successful authorization performed from 195.149.87.163
+0	23:01:58.071	'270024006': order buy market 0.04 GBPUSD sl: 1.38974 tp: 1.39632
+0	23:01:58.305	'270024006': order was opened : #15846275 buy 0.04 GBPUSD at 1.39280 sl: 1.38974 tp: 1.39632
+0	23:05:15.664	'270024006': order sell market 0.08 EURAUD sl: 1.60181 tp: 1.59681
+0	23:05:16.008	'270024006': order was opened : #15846810 sell 0.08 EURAUD at 1.59881 sl: 1.60181 tp: 1.59681
+0	23:05:57.993	'270024006': order sell market 0.04 USDJPY sl: 110.015 tp: 109.437
+0	23:05:58.211	'270024006': order was opened : #15846857 sell 0.04 USDJPY at 109.778 sl: 110.015 tp: 109.437
+0	23:07:31.758	'270024006': close order #15846857 sell 0.04 USDJPY at 109.778 sl: 110.015 tp: 109.437 at price 0.000
+0	23:07:32.008	'270024006': order #15846857 sell 0.04 USDJPY at 109.778 sl: 110.015 tp: 109.437 closed at price 109.755
+0	23:12:21.164	'270024006': order buy market 0.08 AUDCAD sl: 0.92197 tp: 0.92697
+0	23:12:21.383	'270024006': order was opened : #15847492 buy 0.08 AUDCAD at 0.92497 sl: 0.92197 tp: 0.92697
+0	23:32:55.664	'270024006': order buy market 0.04 EURUSD sl: 1.18159 tp: 1.18673
+0	23:32:55.946	'270024006': order was opened : #15848869 buy 0.04 EURUSD at 1.18324 sl: 1.18159 tp: 1.18673
+0	23:53:07.336	'270024006': close order #15846810 sell 0.08 EURAUD at 1.59881 sl: 1.60181 tp: 1.59681 at price 0.00000
+0	23:53:07.618	'270024006': order #15846810 sell 0.08 EURAUD at 1.59881 sl: 1.60181 tp: 1.59681 closed at price 1.59838
+0	23:57:38.164	'270024006': close order #15847492 buy 0.08 AUDCAD at 0.92497 sl: 0.92197 tp: 0.92697 at price 0.00000
+0	23:57:38.414	'270024006': order #15847492 buy 0.08 AUDCAD at 0.92497 sl: 0.92197 tp: 0.92697 closed at price 0.92541

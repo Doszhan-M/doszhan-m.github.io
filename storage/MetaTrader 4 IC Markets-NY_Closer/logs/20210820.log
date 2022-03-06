@@ -1,0 +1,27 @@
+0	00:00:01.614	'270024006': close order #19810696 buy 0.05 GBPUSD at 1.36344 sl: 1.36040 tp: 1.36690 at price 0.00000
+1	00:00:03.396	'270024006': order #19810696 buy 0.05 GBPUSD closing at 0.00000 failed [Market is closed]
+0	00:00:03.880	'270024006': close order #19810696 buy 0.05 GBPUSD at 1.36344 sl: 1.36040 tp: 1.36690 at price 0.00000
+1	00:00:04.130	'270024006': order #19810696 buy 0.05 GBPUSD closing at 0.00000 failed [Market is closed]
+0	00:01:01.130	'270024006': close order #19810696 buy 0.05 GBPUSD at 1.36344 sl: 1.36040 tp: 1.36690 at price 0.00000
+0	00:01:01.442	'270024006': order #19810696 buy 0.05 GBPUSD at 1.36344 sl: 1.36040 tp: 1.36690 closed at price 1.36408
+0	00:05:47.395	'270024006': order buy market 0.05 GBPUSD sl: 1.36017 tp: 1.36699
+0	00:05:47.645	'270024006': order was opened : #19831975 buy 0.05 GBPUSD at 1.36349 sl: 1.36017 tp: 1.36699
+0	00:35:28.380	'270024006': close order #19831975 buy 0.05 GBPUSD at 1.36349 sl: 1.36017 tp: 1.36699 at price 0.00000
+0	00:35:28.786	'270024006': order #19831975 buy 0.05 GBPUSD at 1.36349 sl: 1.36017 tp: 1.36699 closed at price 1.36303
+0	01:00:44.145	'270024006': close order #19821233 buy 0.05 USDJPY at 109.772 sl: 109.544 tp: 110.123 at price 0.000
+0	01:00:44.426	'270024006': order #19821233 buy 0.05 USDJPY at 109.772 sl: 109.544 tp: 110.123 closed at price 109.764
+0	03:06:15.098	'270024006': close order #19824038 sell 0.09 EURCAD at 1.49804 sl: 1.50106 tp: 1.49606 at price 0.00000
+0	03:06:15.317	'270024006': order #19824038 sell 0.09 EURCAD at 1.49804 sl: 1.50106 tp: 1.49606 closed at price 1.49767
+0	04:03:29.958	'270024006': close order #19826422 sell 0.09 AUDCAD at 0.91710 sl: 0.92010 tp: 0.91510 at price 0.00000
+0	04:03:30.208	'270024006': order #19826422 sell 0.09 AUDCAD at 0.91710 sl: 0.92010 tp: 0.91510 closed at price 0.91679
+0	05:39:03.989	'270024006': order #19810973 buy 0.03 EURUSD at 1.16755 closed due stop-loss at price 1.16764
+0	13:28:52.150	'270024006': order #19918258 sell 0.03 EURUSD at 1.16836 closed due stop-loss at price 1.16802
+0	15:20:58.083	'270024006': order #19998869 sell stop 0.62 EURUSD at 1.16668 activated at price 1.16665
+0	15:20:58.083	'270024006': order #19998736 sell stop 0.62 EURUSD at 1.16668 activated at price 1.16665
+0	15:20:59.833	'270024006': order #19958016 sell stop 0.52 EURUSD at 1.16658 activated at price 1.16654
+0	16:02:32.958	'270024006': order #19998736 sell 0.62 EURUSD at 1.16665 closed due stop-loss at price 1.16657
+0	16:02:33.130	'270024006': order #19998869 sell 0.62 EURUSD at 1.16665 closed due stop-loss at price 1.16657
+0	23:01:09.801	'270024006': order buy market 0.17 USDJPY sl: 0.000 tp: 0.000
+0	23:01:10.020	'270024006': order was opened : #20154491 buy 0.17 USDJPY at 109.764 sl: 0.000 tp: 0.000
+0	23:01:10.020	'270024006': modify order #20154491 buy 0.17 USDJPY at 109.764 sl: 0.000 tp: 0.000 -> sl: 109.464 tp: 109.864
+0	23:01:10.223	'270024006': order #20154491 buy 0.17 USDJPY at 109.764 was modified -> sl: 109.464 tp: 109.864

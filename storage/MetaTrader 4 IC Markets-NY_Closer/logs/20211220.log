@@ -1,0 +1,10 @@
+0	00:09:35.460	'270024006': order buy market 0.17 USDJPY sl: 113.402 tp: 114.020
+0	00:09:35.694	'270024006': order was opened : #32439131 buy 0.17 USDJPY at 113.669 sl: 113.402 tp: 114.020
+0	00:53:53.991	'270024006': close order #32439131 buy 0.17 USDJPY at 113.669 sl: 113.402 tp: 114.020 at price 0.000
+0	00:53:54.194	'270024006': order #32439131 buy 0.17 USDJPY at 113.669 sl: 113.402 tp: 114.020 closed at price 113.693
+0	23:00:01.347	'270024006': order sell market 0.09 CHFJPY sl: 123.672 tp: 123.172
+0	23:00:02.191	'270024006': order was opened : #32518465 sell 0.09 CHFJPY at 123.374 sl: 123.672 tp: 123.172
+0	23:00:49.723	'270024006': order buy market 0.09 AUDCAD sl: 0.91696 tp: 0.92196
+0	23:00:50.004	'270024006': order was opened : #32522365 buy 0.09 AUDCAD at 0.91996 sl: 0.91696 tp: 0.92196
+0	23:44:28.769	'270024006': order buy market 0.21 USDJPY sl: 113.392 tp: 113.977
+0	23:44:29.050	'270024006': order was opened : #32525174 buy 0.21 USDJPY at 113.628 sl: 113.392 tp: 113.977

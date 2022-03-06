@@ -1,0 +1,24 @@
+0	00:08:32.302	NY Close Scalper v3.1 GBPUSD,M5: 2022.01.08 22:08:31 | Equity used for dailyEquityStopPercentage: 877.11
+0	00:08:32.302	NY Close Scalper v3.1 GBPUSD,M5: Average slippage calculated from files | market: -0.40 | TP: 0.00 | SL: 0.00 | execution time: 868.9 ms
+0	00:08:32.771	NY Close Scalper v3.1 EURCAD,M5: 2022.01.08 22:08:31 | Equity used for dailyEquityStopPercentage: 877.11
+0	00:08:32.771	NY Close Scalper v3.1 EURCAD,M5: Average slippage calculated from files | market: -3.10 | TP: 0.00 | SL: 0.00 | execution time: 242.5 ms
+0	00:08:32.989	NY Close Scalper v3.1 USDCAD,M5: 2022.01.08 22:08:32 | Equity used for dailyEquityStopPercentage: 877.11
+0	00:08:32.989	NY Close Scalper v3.1 USDCAD,M5: Average slippage calculated from files | market: -1.48 | TP: 0.00 | SL: 0.00 | execution time: 312.5 ms
+0	00:08:32.989	NY Close Scalper v3.1 EURAUD,M5: 2022.01.08 22:08:32 | Equity used for dailyEquityStopPercentage: 877.11
+0	00:08:32.989	NY Close Scalper v3.1 EURAUD,M5: Average slippage calculated from files | market: -3.10 | TP: 0.00 | SL: 0.00 | execution time: 242.5 ms
+0	00:08:33.192	NY Close Scalper v3.1 USDJPY,M5: 2022.01.08 22:08:32 | Equity used for dailyEquityStopPercentage: 877.11
+0	00:08:33.192	NY Close Scalper v3.1 USDJPY,M5: Average slippage calculated from files | market: -0.07 | TP: 0.00 | SL: 0.00 | execution time: 701.4 ms
+0	00:14:55.146	NY Close Scalper v3.1 EURUSD,M5: 2022.01.08 22:14:54 | Equity used for dailyEquityStopPercentage: 877.11
+0	00:14:55.146	NY Close Scalper v3.1 EURUSD,M5: Average slippage calculated from files | market: -0.47 | TP: 0.00 | SL: -9.50 | execution time: 912.0 ms
+0	19:08:32.615	NY Close Scalper v3.1 GBPUSD,M5: 2022.01.09 17:08:31 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:08:32.615	NY Close Scalper v3.1 GBPUSD,M5: Average slippage calculated from files | market: -0.40 | TP: 0.00 | SL: 0.00 | execution time: 868.9 ms
+0	19:08:33.021	NY Close Scalper v3.1 EURCAD,M5: 2022.01.09 17:08:32 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:08:33.021	NY Close Scalper v3.1 EURCAD,M5: Average slippage calculated from files | market: -3.10 | TP: 0.00 | SL: 0.00 | execution time: 242.5 ms
+0	19:08:33.396	NY Close Scalper v3.1 USDCAD,M5: 2022.01.09 17:08:32 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:08:33.396	NY Close Scalper v3.1 EURAUD,M5: 2022.01.09 17:08:32 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:08:33.396	NY Close Scalper v3.1 USDCAD,M5: Average slippage calculated from files | market: -1.48 | TP: 0.00 | SL: 0.00 | execution time: 312.5 ms
+0	19:08:33.396	NY Close Scalper v3.1 EURAUD,M5: Average slippage calculated from files | market: -3.10 | TP: 0.00 | SL: 0.00 | execution time: 242.5 ms
+0	19:08:33.646	NY Close Scalper v3.1 USDJPY,M5: 2022.01.09 17:08:33 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:08:33.646	NY Close Scalper v3.1 USDJPY,M5: Average slippage calculated from files | market: -0.07 | TP: 0.00 | SL: 0.00 | execution time: 701.4 ms
+0	19:14:55.614	NY Close Scalper v3.1 EURUSD,M5: 2022.01.09 17:14:55 | Equity used for dailyEquityStopPercentage: 877.11
+0	19:14:55.614	NY Close Scalper v3.1 EURUSD,M5: Average slippage calculated from files | market: -0.47 | TP: 0.00 | SL: -9.50 | execution time: 912.0 ms

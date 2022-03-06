@@ -1,0 +1,38 @@
+0	00:05:24.267	NY Close Scalper v3.1 EURUSD,M5: 2022.01.10 22:05:23 | Spread too large for BUY entry on EURUSD. | Current spread: 3.5 pips. | Average spread: 0.06 pips.
+2	00:09:14.814	NY Close Scalper v3.1 GBPUSD,M5: close #33518517 sell 0.26 GBPUSD at 1.35785 sl: 1.36086 tp: 1.35437 at price 1.35782
+0	00:09:14.814	NY Close Scalper v3.1 GBPUSD,M5: GBPUSD | exit slippage buy (market): -3.2
+0	00:09:14.814	NY Close Scalper v3.1 GBPUSD,M5: Ask has changed since order close request: 1.3575 -> 1.35753
+0	00:09:14.814	NY Close Scalper v3.1 GBPUSD,M5: Average slippage | market: -0.42 | TP: 0.00 | SL: 0.00 | execution time: 883.2 ms
+0	00:09:14.814	NY Close Scalper v3.1 GBPUSD,M5: Last trade was a loss. Increasing waitMinutesBetweenSameSideEntry by 15 minutes.
+0	00:30:00.845	NY Close Scalper v3.1 EURAUD,M5: 2022.01.10 22:30:00 | EURAUD | Trading not allowed because of news filter: 2022.01.07 11:00:00 | 1970.01.01 00:00:00, 1970.01.01 00:00:00, 1970.01.01 00:00:00 | 2022.02.09 22:25:02, 2022.01.11 10:00:00, 2022.01.11 00:30:00
+2	00:38:49.345	NY Close Scalper v3.1 USDJPY,M5: close #33533646 buy 0.26 USDJPY at 115.198 sl: 114.962 tp: 115.549 at price 115.217
+0	00:38:49.345	NY Close Scalper v3.1 USDJPY,M5: USDJPY | exit slippage buy (market): 0.0
+0	00:38:49.345	NY Close Scalper v3.1 USDJPY,M5: Average slippage | market: -0.06 | TP: 0.00 | SL: 0.00 | execution time: 687.8 ms
+2	00:57:40.580	FX NightScalper_JD USDJPY,M15: close #33517882 buy 0.06 EURAUD at 1.57818 sl: 1.57521 tp: 1.58021 at price 1.57922
+0	00:57:40.580	FX NightScalper_JD USDJPY,M15: OrderProfit = 4.48
+0	04:46:12.830	NY Close Scalper v3.1 EURUSD,M5: uninit reason 5
+0	04:46:12.846	NY Close Scalper v3.1 EURUSD,M5: AccountName: |Mengaliyev Doszhan| AccountNumber: 270024006 | IsDemo: false | AccountCompany: Raw Trading Ltd
+0	04:46:12.955	NY Close Scalper v3.1 EURUSD,M5 inputs: d1=#------------------------------ General Trade Settings ------------------------------#; orderComment=NYcloser; magicNumber=111; halfRiskExceptSunday=false; lotType=1; fixLots=0.01; lotStep=0.3; equityPerStep=1000.0; neverReduceLotSize=true; equityHardStop=0.0; dailyEquityStopPercentage=0.0; pipInPoints=10; slippagePoints=15; maxSpreadPips=-1.0; maxPositionsAllSymbols=2; stopLoss=-1.0; addEntryPips=0.0; addExitPips=0.0; d2=#------------------------------ Time Settings ------------------------------#; d3=If autoGMT=false (and in backtests) manual values are used.; autoGMT=false; manualGMToffsetWinter=2; manualGMToffsetSummer=3; skipSunday=false; d4=Time settings are automatically adjusted for DST in summer.; startHourGMTwinter=-1; endHourGMTwinter=-1; waitMinutesBetweenSameSideEntry=15; waitMinutesAfterLargeLoss=90; lossFractionOfSL=0.5; dontTradeTripleNegativeSwap=true; tripleSwapDay=-1; swapHourGMT=22; stopDayDecember=23; startDayJanuary=7; useNewsFilter=true; filterCentralBankEvents=true; 
+0	04:46:12.955	NY Close Scalper v3.1 EURUSD,M5: symbolCurrencies: {EUR, USD}
+0	04:46:12.955	NY Close Scalper v3.1 EURUSD,M5: symbolCurrenciesUpper: {EUR, USD}
+0	04:46:13.002	NY Close Scalper v3.1 EURUSD,M5: Using auto settings for EURUSD.
+0	04:46:13.423	NY Close Scalper v3.1 EURUSD,M5: Average slippage calculated from files | market: -0.47 | TP: 0.00 | SL: -9.50 | execution time: 912.0 ms
+0	04:46:13.423	NY Close Scalper v3.1 EURUSD,M5: Chart history loaded from file for EURUSD. Timestamp: 2022.01.11 02:45:00
+0	04:46:13.705	NY Close Scalper v3.1 EURUSD,M5: Triple swap day: 3 | Wednesday
+0	04:46:13.830	NY Close Scalper v3.1 EURUSD,M5: EventSetTimer() successful.
+0	04:46:13.830	NY Close Scalper v3.1 EURUSD,M5: initialized
+3	04:49:10.095	cannot load 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4\Experts\NY Close Scalper v3.1.ex4'
+3	04:49:10.237	cannot load 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4\Experts\NY Close Scalper v3.1.ex4'
+3	04:49:10.392	cannot load 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4\Experts\NY Close Scalper v3.1.ex4'
+3	04:49:10.578	cannot load 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4\Experts\NY Close Scalper v3.1.ex4'
+3	04:49:10.765	cannot load 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4\Experts\NY Close Scalper v3.1.ex4'
+3	04:49:11.001	cannot load 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4\Experts\NY Close Scalper v3.1.ex4'
+3	04:49:11.047	cannot load 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4\Experts\FX NightScalper_JD.ex4'
+0	04:49:11.125	Expert Myfxbook USDCHF,H4: loaded successfully
+0	04:49:11.125	Myfxbook USDCHF,H4 inputs: Myfxbook_Email=doszhan.m@mail.ru; Myfxbook_Password=Xeer1234; Publish_Interval_Minutes=30; Show_Log=0; Debug=0; 
+3	04:49:11.188	cannot load 'C:\Program Files (x86)\MetaTrader 4 IC Markets-NY_Closer\MQL4\Experts\Happy Monday v1.32.ex4'
+0	04:49:13.359	Myfxbook USDCHF,H4: Myfxbook EA Version 1.86
+0	04:49:13.562	Myfxbook USDCHF,H4: Debug mode: false
+0	04:49:13.562	Myfxbook USDCHF,H4: initialized
+0	05:10:15.825	Myfxbook USDCHF,H4: uninit reason 9
+0	05:10:16.075	Expert Myfxbook USDCHF,H4: removed

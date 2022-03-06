@@ -1,0 +1,770 @@
+0	09:35:04.627	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 5.76 ms)
+0	09:35:04.971	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 5.76 ms)
+0	09:35:05.846	'270024006': previous successful authorization performed from 195.149.87.163
+0	09:35:15.408	'270024006': ping to current access point NY DC 2 is 4.36 ms
+1	09:37:20.534	'270024006': datacenter connecting failed [6]
+0	09:37:49.392	'270024006': login on ICMarketsSC-Live27 through DC_EUS_L27 (ping: 23.09 ms)
+0	09:39:30.611	'270024006': login on ICMarketsSC-Live27 through DC_Vir_L27 (ping: 13.99 ms)
+0	09:40:58.033	'270024006': login on ICMarketsSC-Live27 through DC_CUS_L27 (ping: 91.31 ms)
+1	09:41:35.612	'270024006': datacenter connecting failed [6]
+0	09:41:37.580	'270024006': previous successful authorization performed from 195.149.87.163
+0	09:44:11.377	'270024006': login on ICMarketsSC-Live27 through DC_LD_L27 (ping: 145.99 ms)
+0	09:44:45.721	'270024006': login datacenter on ICMarketsSC-Live27 through DC_LD_L27 (ping: 145.99 ms)
+0	09:44:55.909	'270024006': previous successful authorization performed from 195.149.87.163
+0	11:03:36.846	'270024006': order #11580617 buy 0.04 USDJPY at 110.126 closed due take-profit at price 110.280
+0	11:07:18.002	'270024006': order #11511613 sell 0.02 EURUSD at 1.17954 closed due take-profit at price 1.17854
+0	14:47:33.924	'270024006': order #11680185 buy stop 0.39 EURUSD at 1.18035 activated at price 1.18034
+0	14:47:33.924	'270024006': order #11679863 buy stop 0.39 EURUSD at 1.18035 activated at price 1.18034
+0	14:47:39.408	'270024006': order #11679863 buy 0.39 EURUSD at 1.18034 closed due stop-loss at price 1.18095
+0	14:47:42.752	'270024006': order #11680185 buy 0.39 EURUSD at 1.18034 closed due stop-loss at price 1.18086
+0	23:01:03.596	'270024006': order buy market 0.04 EURUSD sl: 1.17521 tp: 1.18036
+1	23:01:03.940	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17521 tp: 1.18036 failed [Common error]
+0	23:01:03.940	'270024006': order buy market 0.04 EURUSD sl: 1.17522 tp: 1.18036
+1	23:01:04.299	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17522 tp: 1.18036 failed [Common error]
+0	23:01:04.299	'270024006': order buy market 0.04 EURUSD sl: 1.17521 tp: 1.18035
+1	23:01:04.736	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17521 tp: 1.18035 failed [Common error]
+0	23:01:04.736	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18031
+0	23:01:05.096	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38006
+1	23:01:05.205	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18031 failed [Common error]
+0	23:01:05.205	'270024006': order buy market 0.04 EURUSD sl: 1.17518 tp: 1.18032
+1	23:01:05.408	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38006 failed [Common error]
+1	23:01:05.517	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17518 tp: 1.18032 failed [Common error]
+0	23:01:06.299	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18031
+1	23:01:06.658	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18031 failed [Common error]
+0	23:01:06.736	'270024006': order buy market 0.04 EURUSD sl: 1.17518 tp: 1.18032
+1	23:01:07.127	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17518 tp: 1.18032 failed [Common error]
+0	23:01:07.581	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18031
+1	23:01:07.956	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18031 failed [Common error]
+0	23:01:10.018	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18032
+1	23:01:10.377	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18032 failed [Common error]
+0	23:01:12.158	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38005
+0	23:01:12.236	'270024006': order buy market 0.04 EURUSD sl: 1.17516 tp: 1.18031
+1	23:01:12.596	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38005 failed [Common error]
+1	23:01:12.627	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17516 tp: 1.18031 failed [Common error]
+0	23:01:12.627	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18031
+1	23:01:12.986	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18031 failed [Common error]
+0	23:01:13.033	'270024006': order buy market 0.04 EURUSD sl: 1.17518 tp: 1.18032
+1	23:01:13.392	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17518 tp: 1.18032 failed [Common error]
+0	23:01:13.830	'270024006': order buy market 0.04 EURUSD sl: 1.17520 tp: 1.18034
+1	23:01:14.205	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17520 tp: 1.18034 failed [Common error]
+0	23:01:14.205	'270024006': order buy market 0.04 EURUSD sl: 1.17519 tp: 1.18034
+1	23:01:14.533	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17519 tp: 1.18034 failed [Common error]
+0	23:01:14.533	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18031
+1	23:01:14.971	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18031 failed [Common error]
+0	23:01:14.971	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18031
+1	23:01:15.362	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18031 failed [Common error]
+0	23:01:16.377	'270024006': order buy market 0.04 EURUSD sl: 1.17516 tp: 1.18031
+1	23:01:16.768	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17516 tp: 1.18031 failed [Common error]
+0	23:01:16.768	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18031
+1	23:01:17.081	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18031 failed [Common error]
+0	23:01:17.081	'270024006': order buy market 0.04 EURUSD sl: 1.17515 tp: 1.18029
+1	23:01:17.439	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17515 tp: 1.18029 failed [Common error]
+0	23:01:17.439	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18029
+1	23:01:17.830	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18029 failed [Common error]
+0	23:01:20.205	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18027
+0	23:01:20.439	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:01:21.689	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:01:21.689	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:01:21.924	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18027 failed [Common error]
+0	23:01:21.924	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18028
+1	23:01:22.158	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+1	23:01:22.393	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18028 failed [Common error]
+0	23:01:22.393	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18028
+0	23:01:23.487	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38007
+1	23:01:23.689	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18028 failed [Common error]
+1	23:01:23.909	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38007 failed [Common error]
+0	23:01:24.378	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:01:24.767	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:01:24.767	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38007
+1	23:01:25.143	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38007 failed [Common error]
+0	23:01:25.705	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18027
+0	23:01:25.705	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:01:26.189	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18027 failed [Common error]
+1	23:01:26.205	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:01:28.143	'270024006': order buy market 0.04 EURUSD sl: 1.17512 tp: 1.18027
+1	23:01:28.455	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17512 tp: 1.18027 failed [Common error]
+0	23:01:28.455	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18027
+1	23:01:28.799	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18027 failed [Common error]
+0	23:01:29.346	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18028
+1	23:01:29.689	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18028 failed [Common error]
+0	23:01:29.861	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:01:30.190	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:01:31.377	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38006
+1	23:01:31.721	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38006 failed [Common error]
+0	23:01:33.065	'270024006': order buy market 0.04 EURUSD sl: 1.17512 tp: 1.18027
+1	23:01:33.393	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17512 tp: 1.18027 failed [Common error]
+0	23:01:35.174	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18027
+1	23:01:35.471	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18027 failed [Common error]
+0	23:01:35.986	'270024006': order buy market 0.04 EURUSD sl: 1.17511 tp: 1.18026
+1	23:01:36.361	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17511 tp: 1.18026 failed [Common error]
+0	23:01:36.377	'270024006': order buy market 0.04 EURUSD sl: 1.17511 tp: 1.18025
+1	23:01:36.752	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17511 tp: 1.18025 failed [Common error]
+0	23:01:36.971	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:01:37.361	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:01:38.049	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+0	23:01:38.142	'270024006': order buy market 0.04 EURUSD sl: 1.17509 tp: 1.18023
+1	23:01:38.472	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17509 tp: 1.18023 failed [Common error]
+1	23:01:38.472	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:01:38.472	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:01:38.846	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:01:38.861	'270024006': order buy market 0.04 EURUSD sl: 1.17508 tp: 1.18022
+0	23:01:38.861	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38004
+1	23:01:39.283	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17508 tp: 1.18022 failed [Common error]
+1	23:01:39.314	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38004 failed [Common error]
+0	23:01:39.314	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38001
+1	23:01:39.658	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38001 failed [Common error]
+0	23:01:39.658	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38003
+0	23:01:39.830	'270024006': order buy market 0.04 EURUSD sl: 1.17510 tp: 1.18024
+1	23:01:40.041	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38003 failed [Common error]
+0	23:01:40.041	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38004
+1	23:01:40.221	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17510 tp: 1.18024 failed [Common error]
+1	23:01:40.362	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38004 failed [Common error]
+0	23:01:40.580	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38003
+1	23:01:40.924	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38003 failed [Common error]
+0	23:01:42.643	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38003
+1	23:01:42.971	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38003 failed [Common error]
+0	23:01:46.830	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38005
+1	23:01:47.143	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38005 failed [Common error]
+0	23:01:47.143	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38005
+1	23:01:47.486	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38005 failed [Common error]
+0	23:01:47.705	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+0	23:01:48.034	'270024006': order buy market 0.04 EURUSD sl: 1.17509 tp: 1.18023
+1	23:01:48.174	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+1	23:01:48.361	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17509 tp: 1.18023 failed [Common error]
+0	23:01:49.877	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38003
+1	23:01:50.252	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38003 failed [Common error]
+0	23:01:50.486	'270024006': order buy market 0.04 EURUSD sl: 1.17508 tp: 1.18023
+0	23:01:50.549	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:01:50.956	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17508 tp: 1.18023 failed [Common error]
+0	23:01:50.956	'270024006': order buy market 0.04 EURUSD sl: 1.17510 tp: 1.18024
+1	23:01:51.065	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:01:51.065	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38003
+1	23:01:51.299	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17510 tp: 1.18024 failed [Common error]
+0	23:01:51.299	'270024006': order buy market 0.04 EURUSD sl: 1.17509 tp: 1.18023
+1	23:01:51.502	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38003 failed [Common error]
+1	23:01:51.721	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17509 tp: 1.18023 failed [Common error]
+0	23:01:51.721	'270024006': order buy market 0.04 EURUSD sl: 1.17508 tp: 1.18023
+0	23:01:51.908	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:01:52.111	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17508 tp: 1.18023 failed [Common error]
+0	23:01:52.111	'270024006': order buy market 0.04 EURUSD sl: 1.17508 tp: 1.18022
+1	23:01:52.299	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+1	23:01:52.455	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17508 tp: 1.18022 failed [Common error]
+0	23:01:52.705	'270024006': order buy market 0.04 EURUSD sl: 1.17509 tp: 1.18023
+0	23:01:52.752	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:01:53.127	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+1	23:01:53.158	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17509 tp: 1.18023 failed [Common error]
+0	23:01:53.550	'270024006': order buy market 0.04 EURUSD sl: 1.17508 tp: 1.18022
+1	23:01:53.986	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17508 tp: 1.18022 failed [Common error]
+0	23:01:54.299	'270024006': order buy market 0.04 EURUSD sl: 1.17509 tp: 1.18023
+1	23:01:54.612	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17509 tp: 1.18023 failed [Common error]
+0	23:01:56.096	'270024006': order buy market 0.04 EURUSD sl: 1.17508 tp: 1.18022
+1	23:01:56.424	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17508 tp: 1.18022 failed [Common error]
+0	23:01:58.564	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+0	23:01:58.705	'270024006': order buy market 0.04 EURUSD sl: 1.17506 tp: 1.18020
+1	23:01:58.893	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:01:59.064	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:01:59.174	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17506 tp: 1.18020 failed [Common error]
+0	23:01:59.174	'270024006': order buy market 0.04 EURUSD sl: 1.17504 tp: 1.18018
+1	23:01:59.408	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:01:59.408	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38003
+1	23:01:59.549	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17504 tp: 1.18018 failed [Common error]
+0	23:01:59.549	'270024006': order buy market 0.04 EURUSD sl: 1.17506 tp: 1.18020
+1	23:01:59.768	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38003 failed [Common error]
+0	23:01:59.768	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38004
+1	23:01:59.892	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17506 tp: 1.18020 failed [Common error]
+0	23:01:59.892	'270024006': order buy market 0.04 EURUSD sl: 1.17505 tp: 1.18019
+1	23:02:00.127	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38004 failed [Common error]
+0	23:02:00.127	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:02:00.252	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17505 tp: 1.18019 failed [Common error]
+0	23:02:00.252	'270024006': order buy market 0.04 EURUSD sl: 1.17506 tp: 1.18020
+1	23:02:00.471	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:02:00.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38003
+1	23:02:00.611	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17506 tp: 1.18020 failed [Common error]
+0	23:02:00.611	'270024006': order buy market 0.04 EURUSD sl: 1.17505 tp: 1.18019
+1	23:02:00.861	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38003 failed [Common error]
+1	23:02:01.018	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17505 tp: 1.18019 failed [Common error]
+0	23:02:01.018	'270024006': order buy market 0.04 EURUSD sl: 1.17508 tp: 1.18022
+0	23:02:01.180	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:02:01.408	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17508 tp: 1.18022 failed [Common error]
+1	23:02:01.518	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:02:02.111	'270024006': order buy market 0.04 EURUSD sl: 1.17507 tp: 1.18021
+1	23:02:02.471	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17507 tp: 1.18021 failed [Common error]
+0	23:02:02.533	'270024006': order buy market 0.04 EURUSD sl: 1.17507 tp: 1.18022
+1	23:02:02.861	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17507 tp: 1.18022 failed [Common error]
+0	23:02:03.049	'270024006': order buy market 0.04 EURUSD sl: 1.17509 tp: 1.18023
+1	23:02:03.377	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17509 tp: 1.18023 failed [Common error]
+0	23:02:03.377	'270024006': order buy market 0.04 EURUSD sl: 1.17510 tp: 1.18024
+1	23:02:03.736	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17510 tp: 1.18024 failed [Common error]
+0	23:02:04.392	'270024006': order buy market 0.04 EURUSD sl: 1.17509 tp: 1.18023
+1	23:02:04.767	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17509 tp: 1.18023 failed [Common error]
+0	23:02:08.127	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38003
+0	23:02:08.455	'270024006': order buy market 0.04 EURUSD sl: 1.17510 tp: 1.18024
+1	23:02:08.597	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38003 failed [Common error]
+0	23:02:08.597	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38004
+1	23:02:08.815	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17510 tp: 1.18024 failed [Common error]
+1	23:02:08.986	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38004 failed [Common error]
+0	23:02:09.689	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:02:10.033	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:02:10.033	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38003
+0	23:02:10.252	'270024006': order buy market 0.04 EURUSD sl: 1.17512 tp: 1.18026
+1	23:02:10.408	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38003 failed [Common error]
+1	23:02:10.611	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17512 tp: 1.18026 failed [Common error]
+0	23:02:14.002	'270024006': order buy market 0.04 EURUSD sl: 1.17511 tp: 1.18025
+0	23:02:14.236	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:02:14.392	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17511 tp: 1.18025 failed [Common error]
+0	23:02:14.408	'270024006': order buy market 0.04 EURUSD sl: 1.17510 tp: 1.18024
+1	23:02:14.596	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+1	23:02:14.736	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17510 tp: 1.18024 failed [Common error]
+0	23:02:17.596	'270024006': order buy market 0.04 EURUSD sl: 1.17511 tp: 1.18025
+1	23:02:18.002	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17511 tp: 1.18025 failed [Common error]
+0	23:02:18.002	'270024006': order buy market 0.04 EURUSD sl: 1.17512 tp: 1.18026
+1	23:02:18.377	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17512 tp: 1.18026 failed [Common error]
+0	23:02:18.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38004
+1	23:02:18.830	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38004 failed [Common error]
+0	23:02:18.830	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38005
+1	23:02:19.221	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38005 failed [Common error]
+0	23:02:22.799	'270024006': order buy market 0.04 EURUSD sl: 1.17516 tp: 1.18030
+1	23:02:23.143	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17516 tp: 1.18030 failed [Common error]
+0	23:02:28.190	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18031
+1	23:02:28.518	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18031 failed [Common error]
+0	23:02:29.455	'270024006': order buy market 0.04 EURUSD sl: 1.17516 tp: 1.18030
+1	23:02:29.892	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17516 tp: 1.18030 failed [Common error]
+0	23:02:29.892	'270024006': order buy market 0.04 EURUSD sl: 1.17517 tp: 1.18031
+1	23:02:30.268	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17517 tp: 1.18031 failed [Common error]
+0	23:02:30.314	'270024006': order buy market 0.04 EURUSD sl: 1.17520 tp: 1.18034
+1	23:02:30.674	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17520 tp: 1.18034 failed [Common error]
+0	23:02:30.674	'270024006': order buy market 0.04 EURUSD sl: 1.17521 tp: 1.18035
+1	23:02:31.142	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17521 tp: 1.18035 failed [Common error]
+0	23:02:36.721	'270024006': order buy market 0.04 EURUSD sl: 1.17522 tp: 1.18036
+1	23:02:37.033	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17522 tp: 1.18036 failed [Common error]
+0	23:03:37.142	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:03:37.486	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:06:16.971	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38011
+1	23:06:17.410	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38011 failed [Common error]
+0	23:06:18.991	'270024006': order buy market 0.04 GBPUSD sl: 1.37354 tp: 1.38011
+1	23:06:19.408	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37354 tp: 1.38011 failed [Common error]
+0	23:06:26.174	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38011
+1	23:06:26.705	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38011 failed [Common error]
+0	23:06:27.549	'270024006': order buy market 0.04 GBPUSD sl: 1.37354 tp: 1.38010
+1	23:06:27.940	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37354 tp: 1.38010 failed [Common error]
+0	23:06:30.158	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38009
+1	23:06:30.518	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38009 failed [Common error]
+0	23:06:33.689	'270024006': order buy market 0.04 GBPUSD sl: 1.37353 tp: 1.38009
+1	23:06:34.065	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37353 tp: 1.38009 failed [Common error]
+0	23:06:49.502	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38009
+1	23:06:49.861	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38009 failed [Common error]
+0	23:06:53.424	'270024006': order buy market 0.04 GBPUSD sl: 1.37353 tp: 1.38009
+1	23:06:53.752	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37353 tp: 1.38009 failed [Common error]
+0	23:07:04.408	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38008
+1	23:07:04.767	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38008 failed [Common error]
+0	23:07:06.815	'270024006': order buy market 0.04 GBPUSD sl: 1.37354 tp: 1.38009
+1	23:07:07.174	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37354 tp: 1.38009 failed [Common error]
+0	23:07:07.174	'270024006': order buy market 0.04 GBPUSD sl: 1.37354 tp: 1.38010
+1	23:07:07.549	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37354 tp: 1.38010 failed [Common error]
+0	23:07:09.364	'270024006': order buy market 0.04 GBPUSD sl: 1.37354 tp: 1.38009
+1	23:07:09.690	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37354 tp: 1.38009 failed [Common error]
+0	23:07:11.580	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38008
+1	23:07:11.908	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38008 failed [Common error]
+0	23:07:28.815	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38010
+1	23:07:29.174	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38010 failed [Common error]
+0	23:07:32.236	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38007
+1	23:07:32.611	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38007 failed [Common error]
+0	23:07:32.611	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38008
+1	23:07:32.971	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38008 failed [Common error]
+0	23:07:38.346	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38011
+1	23:07:38.736	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38011 failed [Common error]
+0	23:07:40.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:07:40.861	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:07:44.033	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:07:44.377	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:07:50.752	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38010
+1	23:07:51.158	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38010 failed [Common error]
+0	23:07:51.393	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:07:51.736	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:07:56.971	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38010
+1	23:07:57.330	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38010 failed [Common error]
+0	23:07:59.315	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38010
+1	23:07:59.674	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38010 failed [Common error]
+0	23:08:01.799	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38009
+1	23:08:02.175	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38009 failed [Common error]
+0	23:08:02.175	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38010
+1	23:08:02.486	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38010 failed [Common error]
+0	23:08:03.174	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38009
+1	23:08:03.534	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38009 failed [Common error]
+0	23:08:04.674	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38012
+1	23:08:05.018	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38012 failed [Common error]
+0	23:08:05.018	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38011
+1	23:08:05.377	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38011 failed [Common error]
+0	23:08:05.690	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38010
+1	23:08:06.017	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38010 failed [Common error]
+0	23:08:07.815	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38011
+1	23:08:08.127	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38011 failed [Common error]
+0	23:08:13.002	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38012
+1	23:08:13.346	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38012 failed [Common error]
+0	23:08:20.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:08:20.893	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:08:21.814	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:08:22.174	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:10:46.033	'270024006': order buy market 0.04 GBPUSD sl: 1.37357 tp: 1.38012
+1	23:10:46.392	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37357 tp: 1.38012 failed [Common error]
+0	23:10:46.392	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38012
+1	23:10:46.814	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38012 failed [Common error]
+0	23:10:51.002	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:10:51.346	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:10:59.268	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38012
+1	23:10:59.596	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38012 failed [Common error]
+0	23:11:05.768	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:11:06.127	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:11:06.127	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38012
+1	23:11:06.456	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38012 failed [Common error]
+0	23:11:06.737	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38009
+1	23:11:07.096	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38009 failed [Common error]
+0	23:11:07.096	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38010
+1	23:11:07.424	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38010 failed [Common error]
+0	23:11:08.361	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:11:08.752	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:11:09.128	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38010
+1	23:11:09.502	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38010 failed [Common error]
+0	23:11:09.502	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38009
+1	23:11:09.846	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38009 failed [Common error]
+0	23:11:14.127	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38010
+1	23:11:14.502	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38010 failed [Common error]
+0	23:11:15.642	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+0	23:11:15.915	'270024006': order buy market 0.04 EURUSD sl: 1.17515 tp: 1.18029
+1	23:11:16.096	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:11:16.096	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38010
+1	23:11:16.330	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17515 tp: 1.18029 failed [Common error]
+0	23:11:16.330	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18028
+1	23:11:16.471	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38010 failed [Common error]
+0	23:11:16.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38009
+1	23:11:16.705	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18028 failed [Common error]
+1	23:11:16.815	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38009 failed [Common error]
+0	23:11:17.033	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38008
+1	23:11:17.346	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38008 failed [Common error]
+0	23:11:17.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38007
+1	23:11:17.814	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38007 failed [Common error]
+0	23:11:17.814	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38009
+0	23:11:18.190	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18027
+1	23:11:18.330	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38009 failed [Common error]
+0	23:11:18.330	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:11:18.549	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18027 failed [Common error]
+1	23:11:18.658	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:11:18.658	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:11:18.986	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:11:22.143	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38007
+1	23:11:22.471	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38007 failed [Common error]
+0	23:11:22.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:11:22.814	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:11:23.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38007
+1	23:11:23.799	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38007 failed [Common error]
+0	23:11:25.549	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+0	23:11:25.596	'270024006': order buy market 0.04 EURUSD sl: 1.17512 tp: 1.18026
+1	23:11:25.986	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:11:25.986	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:11:25.986	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17512 tp: 1.18026 failed [Common error]
+0	23:11:26.099	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18027
+1	23:11:26.330	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:11:26.346	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:11:26.471	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18027 failed [Common error]
+0	23:11:26.580	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18028
+1	23:11:26.831	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:11:26.831	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:11:27.049	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18028 failed [Common error]
+1	23:11:27.127	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:11:46.799	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38006
+0	23:11:46.955	'270024006': order buy market 0.04 EURUSD sl: 1.17515 tp: 1.18029
+1	23:11:47.127	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38006 failed [Common error]
+1	23:11:47.299	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17515 tp: 1.18029 failed [Common error]
+0	23:11:47.814	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18028
+1	23:11:48.193	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18028 failed [Common error]
+0	23:11:48.314	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:11:48.674	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:11:59.893	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:12:00.252	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:12:38.127	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:12:38.455	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:12:39.643	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:12:39.986	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:12:41.408	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:12:41.736	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:12:42.018	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:12:42.393	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:12:43.142	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:12:43.486	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:12:46.830	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:12:47.159	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:12:47.800	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:12:48.189	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:12:50.377	'270024006': order buy market 0.04 EURUSD sl: 1.17512 tp: 1.18026
+0	23:12:50.377	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38005
+1	23:12:50.877	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38005 failed [Common error]
+1	23:12:50.893	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17512 tp: 1.18026 failed [Common error]
+0	23:12:53.377	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18027
+1	23:12:53.689	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18027 failed [Common error]
+0	23:13:00.440	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38006
+1	23:13:00.767	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38006 failed [Common error]
+0	23:13:02.158	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:13:02.517	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:13:08.799	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:13:09.111	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:13:09.189	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:13:09.533	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:13:17.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:13:17.799	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:13:18.924	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+0	23:13:19.111	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18028
+1	23:13:19.283	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+1	23:13:19.424	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18028 failed [Common error]
+0	23:13:24.580	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:13:24.908	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:13:25.222	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38006
+1	23:13:25.565	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38006 failed [Common error]
+0	23:13:35.299	'270024006': order buy market 0.04 EURUSD sl: 1.17512 tp: 1.18026
+1	23:13:35.658	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17512 tp: 1.18026 failed [Common error]
+0	23:13:46.018	'270024006': order buy market 0.04 EURUSD sl: 1.17510 tp: 1.18024
+0	23:13:46.018	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:13:46.471	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17510 tp: 1.18024 failed [Common error]
+1	23:13:46.502	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:13:48.284	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18027
+0	23:13:48.330	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38004
+1	23:13:48.768	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38004 failed [Common error]
+1	23:13:48.784	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18027 failed [Common error]
+0	23:13:49.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38003
+0	23:13:49.674	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18028
+1	23:13:49.814	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38003 failed [Common error]
+1	23:13:50.035	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18028 failed [Common error]
+0	23:13:50.035	'270024006': order buy market 0.04 EURUSD sl: 1.17513 tp: 1.18027
+1	23:13:50.361	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17513 tp: 1.18027 failed [Common error]
+0	23:13:50.408	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38004
+1	23:13:50.736	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38004 failed [Common error]
+0	23:13:53.205	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38003
+0	23:13:53.267	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18028
+1	23:13:53.674	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38003 failed [Common error]
+1	23:13:53.674	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18028 failed [Common error]
+0	23:13:55.330	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38004
+1	23:13:55.664	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38004 failed [Common error]
+0	23:13:55.664	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38003
+1	23:13:56.018	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38003 failed [Common error]
+0	23:13:59.893	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38002
+1	23:14:00.236	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38002 failed [Common error]
+0	23:14:00.253	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38009
+1	23:14:00.659	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38009 failed [Common error]
+0	23:14:00.659	'270024006': order buy market 0.04 GBPUSD sl: 1.37353 tp: 1.38008
+1	23:14:01.049	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37353 tp: 1.38008 failed [Common error]
+0	23:14:01.908	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38009
+1	23:14:02.223	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38009 failed [Common error]
+0	23:14:02.223	'270024006': order buy market 0.04 GBPUSD sl: 1.37355 tp: 1.38010
+1	23:14:02.533	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37355 tp: 1.38010 failed [Common error]
+0	23:14:02.721	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38010
+0	23:14:02.892	'270024006': order buy market 0.04 EURUSD sl: 1.17515 tp: 1.18029
+1	23:14:03.049	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38010 failed [Common error]
+0	23:14:03.049	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38012
+1	23:14:03.299	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17515 tp: 1.18029 failed [Common error]
+1	23:14:03.427	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38012 failed [Common error]
+0	23:14:03.427	'270024006': order buy market 0.04 GBPUSD sl: 1.37357 tp: 1.38012
+1	23:14:03.770	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37357 tp: 1.38012 failed [Common error]
+0	23:14:05.424	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38012
+1	23:14:05.768	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38012 failed [Common error]
+0	23:14:05.830	'270024006': order buy market 0.04 EURUSD sl: 1.17514 tp: 1.18028
+1	23:14:06.206	'270024006': order buy 0.04 EURUSD opening at market sl: 1.17514 tp: 1.18028 failed [Common error]
+0	23:14:09.393	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:14:09.752	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:14:09.752	'270024006': order buy market 0.04 GBPUSD sl: 1.37357 tp: 1.38011
+1	23:14:10.096	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37357 tp: 1.38011 failed [Common error]
+0	23:14:10.767	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:14:11.111	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:14:13.861	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38012
+1	23:14:14.190	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38012 failed [Common error]
+0	23:14:14.190	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:14:14.533	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:14:18.986	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38012
+1	23:14:19.314	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38012 failed [Common error]
+0	23:14:21.392	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:14:21.723	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:14:24.174	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38012
+1	23:14:24.487	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38012 failed [Common error]
+0	23:14:24.487	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:14:24.847	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:14:27.346	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38012
+1	23:14:27.658	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38012 failed [Common error]
+0	23:14:30.017	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38011
+1	23:14:30.362	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38011 failed [Common error]
+0	23:14:31.127	'270024006': order buy market 0.04 GBPUSD sl: 1.37357 tp: 1.38013
+1	23:14:31.471	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37357 tp: 1.38013 failed [Common error]
+0	23:14:31.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37358 tp: 1.38013
+1	23:14:31.784	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37358 tp: 1.38013 failed [Common error]
+0	23:14:36.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37359 tp: 1.38013
+1	23:14:36.799	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37359 tp: 1.38013 failed [Common error]
+0	23:24:44.580	'270024006': order buy market 0.04 GBPUSD sl: 1.37357 tp: 1.38009
+1	23:24:44.924	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37357 tp: 1.38009 failed [Common error]
+0	23:24:44.924	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38009
+1	23:24:45.299	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38009 failed [Common error]
+0	23:24:50.473	'270024006': order buy market 0.04 GBPUSD sl: 1.37357 tp: 1.38009
+1	23:24:50.799	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37357 tp: 1.38009 failed [Common error]
+0	23:24:52.549	'270024006': order buy market 0.04 GBPUSD sl: 1.37356 tp: 1.38009
+1	23:24:52.924	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37356 tp: 1.38009 failed [Common error]
+0	23:25:04.189	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38002
+1	23:25:04.549	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38002 failed [Common error]
+0	23:25:06.550	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38004
+1	23:25:06.908	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38004 failed [Common error]
+0	23:25:22.330	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37998
+1	23:25:22.721	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37998 failed [Common error]
+0	23:25:32.877	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.37999
+1	23:25:33.205	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.37999 failed [Common error]
+0	23:25:34.158	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37998
+1	23:25:34.503	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37998 failed [Common error]
+0	23:25:54.596	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.37999
+1	23:25:54.986	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.37999 failed [Common error]
+0	23:25:59.627	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38000
+1	23:26:00.043	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38000 failed [Common error]
+0	23:26:09.549	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:26:09.955	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:26:13.283	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:26:13.658	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:26:14.033	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:26:14.486	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:26:28.408	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38000
+1	23:26:28.752	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38000 failed [Common error]
+0	23:26:39.223	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37999
+1	23:26:39.549	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37999 failed [Common error]
+0	23:26:39.549	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.37999
+1	23:26:39.924	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.37999 failed [Common error]
+0	23:26:43.830	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38000
+1	23:26:44.174	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38000 failed [Common error]
+0	23:26:48.627	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:26:49.033	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:26:59.892	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:27:00.221	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:27:01.517	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:27:01.877	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:27:04.518	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:27:04.893	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:27:04.893	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:27:05.205	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:27:05.455	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38001
+1	23:27:05.799	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38001 failed [Common error]
+0	23:27:06.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:27:06.893	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:27:07.346	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:27:07.676	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:27:07.676	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:27:08.018	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:27:09.408	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:27:09.799	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:27:09.799	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:10.111	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:10.689	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37999
+1	23:27:11.064	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37999 failed [Common error]
+0	23:27:12.971	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38001
+1	23:27:13.299	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38001 failed [Common error]
+0	23:27:16.658	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:16.971	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:17.955	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37999
+1	23:27:18.299	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37999 failed [Common error]
+0	23:27:19.830	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:20.205	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:20.236	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37999
+1	23:27:20.564	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37999 failed [Common error]
+0	23:27:21.299	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:27:21.627	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:27:22.330	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:27:22.642	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:27:22.642	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38001
+1	23:27:22.986	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38001 failed [Common error]
+0	23:27:23.142	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:27:23.455	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:27:24.346	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:24.658	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:24.939	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38001
+1	23:27:25.252	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38001 failed [Common error]
+0	23:27:25.392	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:25.736	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:25.971	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37999
+1	23:27:26.377	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37999 failed [Common error]
+0	23:27:30.674	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:30.971	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:30.971	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38001
+1	23:27:31.283	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38001 failed [Common error]
+0	23:27:31.705	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:32.096	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:32.830	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38001
+1	23:27:33.158	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38001 failed [Common error]
+0	23:27:33.330	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:33.674	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:35.533	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:27:35.861	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:27:39.096	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:39.471	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:43.268	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:27:43.627	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:27:44.174	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:44.564	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:50.877	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37999
+1	23:27:51.221	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37999 failed [Common error]
+0	23:27:51.439	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:27:51.831	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:27:56.502	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:27:56.924	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:28:09.691	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38000
+1	23:28:10.064	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38000 failed [Common error]
+0	23:28:11.892	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:28:12.236	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:28:14.892	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38000
+1	23:28:15.221	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38000 failed [Common error]
+0	23:28:17.502	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:28:17.955	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:28:20.674	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38000
+1	23:28:20.986	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38000 failed [Common error]
+0	23:28:24.768	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.37999
+1	23:28:25.189	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.37999 failed [Common error]
+0	23:28:25.799	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:28:26.158	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:28:26.596	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:28:26.939	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:28:26.939	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.37999
+1	23:28:27.252	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.37999 failed [Common error]
+0	23:28:27.861	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:28:28.221	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:28:28.221	'270024006': order buy market 0.04 GBPUSD sl: 1.37353 tp: 1.38005
+1	23:28:28.533	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37353 tp: 1.38005 failed [Common error]
+0	23:28:34.816	'270024006': order buy market 0.04 GBPUSD sl: 1.37353 tp: 1.38006
+1	23:28:35.174	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37353 tp: 1.38006 failed [Common error]
+0	23:28:35.877	'270024006': order buy market 0.04 GBPUSD sl: 1.37352 tp: 1.38006
+1	23:28:36.221	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37352 tp: 1.38006 failed [Common error]
+0	23:28:39.314	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:28:39.767	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:28:40.314	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:28:40.721	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:28:42.892	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:28:43.236	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:28:47.064	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37999
+1	23:28:47.408	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37999 failed [Common error]
+0	23:28:47.408	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:28:47.738	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:28:47.814	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:28:48.127	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:28:49.908	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:28:50.236	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:28:51.033	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:28:51.362	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:28:51.471	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:28:51.814	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:28:54.643	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:28:54.986	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:28:55.502	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37999
+1	23:28:55.861	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37999 failed [Common error]
+0	23:28:55.861	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:28:56.189	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:29:00.017	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38001
+1	23:29:00.361	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38001 failed [Common error]
+0	23:29:01.299	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:29:01.658	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:29:01.658	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:29:02.033	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:29:02.033	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:29:02.349	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:29:02.393	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:29:02.752	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:29:03.424	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:29:03.752	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:29:06.205	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38001
+1	23:29:06.564	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38001 failed [Common error]
+0	23:29:06.564	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:29:06.939	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:29:12.158	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:29:12.503	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:29:12.503	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:29:12.877	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:29:16.973	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:29:17.330	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:29:17.330	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:29:17.674	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:29:17.674	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:29:18.064	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:29:18.064	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:29:18.439	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:29:18.502	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:29:18.830	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:29:18.924	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:29:19.237	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:29:20.221	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38001
+1	23:29:20.564	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38001 failed [Common error]
+0	23:29:20.564	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:29:20.892	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:29:22.221	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:29:22.580	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:29:22.580	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.37999
+1	23:29:22.924	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.37999 failed [Common error]
+0	23:29:23.111	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:29:23.455	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:29:25.800	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38002
+1	23:29:26.127	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38002 failed [Common error]
+0	23:29:26.127	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:29:26.471	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:29:26.737	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:29:27.174	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:29:27.174	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:29:27.565	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:29:27.565	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:29:27.908	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:29:28.064	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:29:28.408	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:29:28.517	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:29:28.830	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:29:28.830	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:29:29.158	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:29:30.642	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:29:30.987	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:29:30.987	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.37999
+1	23:29:31.377	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.37999 failed [Common error]
+0	23:29:31.377	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.38000
+1	23:29:31.736	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.38000 failed [Common error]
+0	23:29:31.752	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:29:32.064	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:29:32.767	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38000
+1	23:29:33.127	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38000 failed [Common error]
+0	23:29:33.127	'270024006': order buy market 0.04 GBPUSD sl: 1.37346 tp: 1.37999
+1	23:29:33.439	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37346 tp: 1.37999 failed [Common error]
+0	23:29:34.627	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:29:34.971	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:29:36.252	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38005
+1	23:29:36.580	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38005 failed [Common error]
+0	23:29:38.736	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38005
+1	23:29:39.080	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38005 failed [Common error]
+0	23:29:39.080	'270024006': order buy market 0.04 GBPUSD sl: 1.37351 tp: 1.38005
+1	23:29:39.409	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37351 tp: 1.38005 failed [Common error]
+0	23:29:39.486	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38004
+1	23:29:39.846	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38004 failed [Common error]
+0	23:29:41.018	'270024006': order buy market 0.04 GBPUSD sl: 1.37350 tp: 1.38003
+1	23:29:41.361	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37350 tp: 1.38003 failed [Common error]
+0	23:29:41.361	'270024006': order buy market 0.04 GBPUSD sl: 1.37349 tp: 1.38003
+1	23:29:41.674	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37349 tp: 1.38003 failed [Common error]
+0	23:29:41.674	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38003
+1	23:29:42.033	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38003 failed [Common error]
+0	23:29:44.080	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38001
+1	23:29:44.455	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38001 failed [Common error]
+0	23:29:53.205	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38001
+1	23:29:53.549	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38001 failed [Common error]
+0	23:29:59.049	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:29:59.408	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:29:59.783	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:30:00.158	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:30:00.158	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:30:00.533	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:30:08.549	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:30:08.861	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:30:12.237	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:30:12.565	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+0	23:30:13.033	'270024006': order buy market 0.04 GBPUSD sl: 1.37348 tp: 1.38002
+1	23:30:13.377	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37348 tp: 1.38002 failed [Common error]
+0	23:30:22.221	'270024006': order buy market 0.04 GBPUSD sl: 1.37347 tp: 1.38002
+1	23:30:22.627	'270024006': order buy 0.04 GBPUSD opening at market sl: 1.37347 tp: 1.38002 failed [Common error]
+1	23:30:47.471	'270024006': connect failed [Нет связи]
+0	23:34:03.221	'270024006': login on ICMarketsSC-Live27 through DC_Syd_L27 (ping: n/a)
+0	23:35:09.158	'270024006': login on ICMarketsSC-Live27 through DC_BS_L27 (ping: n/a)
+0	23:35:13.111	'270024006': login datacenter on ICMarketsSC-Live27 through DC_BS_L27 (ping: n/a)
+0	23:35:13.893	'270024006': previous successful authorization performed from 195.149.87.163
+0	23:35:31.580	'270024006': auto connecting to a better access point NY DC 2 (ping is 10.30 ms)
+0	23:35:31.955	'270024006': login on ICMarketsSC-Live27 through NY DC 2 (ping: 10.30 ms)
+0	23:35:32.252	'270024006': login datacenter on ICMarketsSC-Live27 through NY DC 2 (ping: 10.30 ms)
+0	23:35:32.674	'270024006': previous successful authorization performed from 195.149.87.163
