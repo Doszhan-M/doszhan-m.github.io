@@ -1,7 +1,4 @@
 {
-  // - - - Настройки pythonPath - - - - - - - - - - 
-  "python.pythonPath": "",
-  
   // - - - Настройки liveSassCompile - - - - - - - - 
   "liveSassCompile.settings.formats": [
     {
@@ -15,7 +12,11 @@
       "savePath": "/css"
     },
   ],
-
+  "liveSassCompile.settings.autoprefix": [
+    "> 1%",
+    "last 2 versions",
+  ],
+  
   "editor.snippetSuggestions": "top",
   
   // - - - Настройки cSpell - - - - - - - - - - - - -
