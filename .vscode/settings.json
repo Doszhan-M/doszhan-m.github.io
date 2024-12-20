@@ -41,6 +41,12 @@
   "cSpell.words": [
     "changefreq",
     "lastmod",
-    "Mengaliyev"
+    "libx",
+    "Mengaliyev",
+    "superfast",
+    "ultrafast",
+    "vcodec",
+    "veryslow"
   ],
+  "liveServer.settings.port": 5501,
 }
