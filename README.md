@@ -1,5 +1,5 @@
 # My PortFolio
-https://doszhan-m.github.io/
+https://doszhan-m.pages.dev
 
 
 # Сжатие видео

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+  body {
+    margin: 0;
+    background: #000; 
+    overflow: hidden;
+  }
+  canvas {
+    display: block; 
+  }
+</style>
+</head>
+<body>
+<canvas id="cometCanvas"></canvas>
+
+<script>
+// Получаем canvas и устанавливаем его размеры
+const canvas = document.getElementById('cometCanvas');
+const ctx = canvas.getContext('2d');
+
+function resize() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+}
+window.addEventListener('resize', resize);
+resize();
+
+// Создаём звездный фон (массив точек)
+const starsCount = 200;
+const stars = [];
+for (let i = 0; i < starsCount; i++) {
+  stars.push({
+    x: Math.random() * canvas.width, // позиция X
+    y: Math.random() * canvas.height, // позиция Y
+    baseSize: Math.random() * 2, // базовый размер звезды
+    size: 0, // текущий размер (будет изменяться)
+    brightness: Math.random() * 0.8 + 0.2, // яркость звезды
+    phase: Math.random() * Math.PI * 2, // случайная фаза для анимации
+    speed: Math.random() * 0.02 + 0.01 // скорость мерцания
+  });
+}
+
+// Параметры кометы
+let x = canvas.width / 2;
+let y = canvas.height / 2;
+let vx = 4;
+let vy = 2;
+const radius = 25;
+
+// Анимация кадра
+function draw() {
+  // Затемнение для хвоста
+  ctx.fillStyle = 'rgba(0,0,0,0.1)';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  // Рисуем звёзды
+  for (let star of stars) {
+    // Обновляем размер звезды для эффекта мерцания
+    star.size = star.baseSize * (1 + 0.2 * Math.sin(star.phase));
+    star.phase += star.speed;
+
+    ctx.globalAlpha = star.brightness; 
+    ctx.fillStyle = 'white';
+    ctx.beginPath();
+    ctx.arc(star.x, star.y, star.size, 0, Math.PI * 2);
+    ctx.fill();
+  }
+  ctx.globalAlpha = 1.0;
+
+  // Обновляем положение кометы
+  x += vx;
+  y += vy;
+  
+  // Проверяем коллизии со стенками
+  if ((x - radius < 0 && vx < 0) || (x + radius > canvas.width && vx > 0)) {
+    vx = -vx; // отражение по X
+  }
+  if ((y - radius < 0 && vy < 0) || (y + radius > canvas.height && vy > 0)) {
+    vy = -vy; // отражение по Y
+  }
+
+  // Создаём градиент для кометы (радиальный)
+  let gradient = ctx.createRadialGradient(x, y, 0, x, y, radius * 3);
+  gradient.addColorStop(0, 'rgba(255, 255, 240, 1)');   // ядро - почти белый
+  gradient.addColorStop(0.3, 'rgba(255, 200, 150, 0.8)'); // переход
+  gradient.addColorStop(1, 'rgba(255, 80, 0, 0)');       // концы мягко затухают
+
+  // Рисуем комету
+  ctx.beginPath();
+  ctx.fillStyle = gradient;
+  ctx.arc(x, y, radius, 0, Math.PI * 2);
+  ctx.fill();
+
+  // Добавим легкий "летающий" эффект комете 
+  vx += (Math.random() - 0.5) * 0.05;
+  vy += (Math.random() - 0.5) * 0.05;
+
+  requestAnimationFrame(draw);
+}
+
+draw();
+</script>
+</body>
+</html>
