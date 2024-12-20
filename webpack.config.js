@@ -1,18 +1,17 @@
 const path = require('path');
 const SitemapPlugin = require('sitemap-webpack-plugin').default;
-// const HtmlWebpackPlugin = require("html-webpack-plugin")
 
 
 const paths = [
     {
       path: '/',
-      lastmod: '2022-07-31',
+      lastmod: '2025-01-10',
       priority: 1,
       changefreq: 'yearly'
     },
     {
       path: '/weather_forecast/',
-      lastmod: '2022-07-31',
+      lastmod: '2025-01-22',
       priority: 0.8,
       changefreq: 'never'
     },
@@ -22,14 +21,14 @@ const paths = [
 module.exports = {
     devServer: {
         static: {
-            directory: __dirname, // Указываем корень проекта для сервера
+            directory: __dirname,
         },
-        compress: true, // Включаем сжатие
-        port: 8080,     // Порт, можно изменить
-        open: true,     // Автоматическое открытие в браузере
-        hot: true,      // Включение горячей перезагрузки
+        compress: true,
+        port: 8080,
+        open: true,
+        hot: true,
     },
-    mode: 'development',
+    mode: 'production',
     entry: './js/entry.js',
     output: {
         path: path.resolve(__dirname, './dist'),
@@ -66,12 +65,6 @@ module.exports = {
     },
 
     plugins: [
-        // new HtmlWebpackPlugin (
-        //     {
-        //         template: "./index.html",
-        //         favicon: "./img/favicon.ico"
-        //     }
-        // ),
         new SitemapPlugin({
             base: 'https://doszhan-m.github.io/',
             paths,

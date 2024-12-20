@@ -1,8 +1,7 @@
 {
   "name": "portfolio",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Portfolio website for showcasing projects - https://doszhan-m.github.io/",
-  "main": "index.js",
   "dependencies": {
     "babel-loader": "^8.4.1",
     "sitemap-webpack-plugin": "^1.1.1"
@@ -14,9 +13,8 @@
     "webpack-dev-server": "^5.2.0"
   },
   "scripts": {
-    "start": "webpack serve --mode development",
-    "build": "webpack --mode production",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack serve --mode development",
+    "build": "webpack --mode production"
   },
   "author": "Doszhan Mengaliyev",
   "license": "ISC"
