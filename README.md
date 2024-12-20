@@ -5,7 +5,7 @@ https://doszhan-m.pages.dev
 # Сжатие видео
 ```bash
 sudo apt install ffmpeg -y
-ffmpeg -i input.mp4 -vcodec libx265 -crf 28 -preset veryslow output.mp4
+ffmpeg -i src/img/127039-737736678.mp4 -vcodec libx265 -crf 40 -preset veryslow output.mp4
 ```
 - **-i input.mp4**: Указывает входной файл.
 
