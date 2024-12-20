@@ -1,6 +1,6 @@
 const path = require('path');
 const SitemapPlugin = require('sitemap-webpack-plugin').default;
-// const HtmlWebpackPlugin = require("html-webpack-plugin")
+const HtmlWebpackPlugin = require("html-webpack-plugin")
 
 
 const paths = [
@@ -20,6 +20,15 @@ const paths = [
 
 
 module.exports = {
+    devServer: {
+        static: {
+            directory: __dirname, // Указываем корень проекта для сервера
+        },
+        compress: true, // Включаем сжатие
+        port: 8080,     // Порт, можно изменить
+        open: true,     // Автоматическое открытие в браузере
+        hot: true,      // Включение горячей перезагрузки
+    },
     mode: 'development',
     entry: './js/entry.js',
     output: {
@@ -57,12 +66,12 @@ module.exports = {
     },
 
     plugins: [
-        // new HtmlWebpackPlugin (
-        //     {
-        //         template: "./index.html",
-        //         favicon: "./img/favicon.ico"
-        //     }
-        // ),
+        new HtmlWebpackPlugin (
+            {
+                template: "./index.html",
+                favicon: "./img/favicon.ico"
+            }
+        ),
         new SitemapPlugin({
             base: 'https://doszhan-m.github.io/',
             paths,
