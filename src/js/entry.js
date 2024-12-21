@@ -1,3 +1,4 @@
+import "./video_loader";
 import { sendContactForm } from './form';
 import { sliderProject } from './slaider';
 import { progress } from './progress_bar';
